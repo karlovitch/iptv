@@ -1,0 +1,458 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== Portugal =====" tvg-logo="" group-title="",===== Portugal =====
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/1198
+
+EXTINF:-1 tvg-ID="NULL" tvg-name="PT: RTP 1 FHD" tvg-logo="" group-title="Live: Portugal",PT: RTP 1 FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/33153
+#EXTINF:-1 tvg-ID="rtp1.pt" tvg-name="PT: RTP 1" tvg-logo="" group-title="Live: Portugal",PT: RTP 1
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3643
+#EXTINF:-1 tvg-ID="rtp2.pt" tvg-name="PT: RTP 2 FHD" tvg-logo="[" group-title="Live: Portugal",PT: RTP 2 FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/5427
+#EXTINF:-1 tvg-ID="rtp2.pt" tvg-name="PT: RTP 2" tvg-logo="" group-title="Live: Portugal",PT: RTP 2
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3654
+#EXTINF:-1 tvg-ID="rtp3.pt" tvg-name="PT: RTP 3" tvg-logo="[" group-title="Live: Portugal",PT: RTP 3
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3642
+#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP Arena FHD" tvg-logo="" group-title="Live: Portugal",PT: RTP Arena FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74237
+#EXTINF:-1 tvg-ID="rtpacores.pt" tvg-name="PT: RTP Açores" tvg-logo="" group-title="Live: Portugal",PT: RTP Açores
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4481
+#EXTINF:-1 tvg-ID="rtpafrica.pt" tvg-name="PT: RTP Africa" tvg-logo="[" group-title="Live: Portugal",PT: RTP Africa
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4480
+#EXTINF:-1 tvg-ID="rtpmadeira.pt" tvg-name="PT: RTP MADEIRA" tvg-logo="" group-title="Live: Portugal",PT: RTP MADEIRA
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3653
+#EXTINF:-1 tvg-ID="rtpmemoria.pt" tvg-name="PT: RTP MEMORIA" tvg-logo="[" group-title="Live: Portugal",PT: RTP MEMORIA
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3652
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: SIC FHD" tvg-logo="" group-title="Live: Portugal",PT: SIC FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/33154
+#EXTINF:-1 tvg-ID="sic.pt" tvg-name="PT: SIC" tvg-logo="[" group-title="Live: Portugal",PT: SIC
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4476
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: SIC Caras FHD" tvg-logo="" group-title="Live: Portugal",PT: SIC Caras FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/33155
+#EXTINF:-1 tvg-ID="siccaras.pt" tvg-name="PT: Sic Caras" tvg-logo="" group-title="Live: Portugal",PT: Sic Caras
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/14615
+#EXTINF:-1 tvg-ID="sick.pt" tvg-name="PT: SIC K" tvg-logo="" group-title="Live: Portugal",PT: SIC K
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3651
+#EXTINF:-1 tvg-ID="sick.pt" tvg-name="PT: Sic Kids" tvg-logo="[" group-title="Live: Portugal",PT: Sic Kids
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4494
+#EXTINF:-1 tvg-ID="sicmulher.pt" tvg-name="PT: SIC MULHER" tvg-logo="" group-title="Live: Portugal",PT: SIC MULHER
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3650
+#EXTINF:-1 tvg-ID="sicnoticias.pt" tvg-name="PT: SIC NOTICIAS FHD" tvg-logo="[" group-title="Live: Portugal",PT: SIC NOTICIAS FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/9633
+#EXTINF:-1 tvg-ID="sicnoticias.pt" tvg-name="PT: SIC NOTICIAS" tvg-logo="" group-title="Live: Portugal",PT: SIC NOTICIAS
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3649
+#EXTINF:-1 tvg-ID="sicradical.pt" tvg-name="PT: SIC RADICAL FHD" tvg-logo="" group-title="Live: Portugal",PT: SIC RADICAL FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/9632
+#EXTINF:-1 tvg-ID="sicradical.pt" tvg-name="PT: SIC Radical" tvg-logo="[" group-title="Live: Portugal",PT: SIC Radical
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4479
+
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Sport TV 4K" tvg-logo="" group-title="Live: Portugal",VIP PT: Sport TV 4K
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/23017
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sport TV1" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV1
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/6494
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: Sport TV2" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV2
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/6495
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: Sport TV3" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV3
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/6496
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sport TV4" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV4
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/6497
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sport TV5" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV5
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/6498
+#EXTINF:-1 tvg-ID="mvm.pt" tvg-name="PT: Sport TV6" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV6
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12619
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Sport TV+" tvg-logo="" group-title="Live: Portugal",PT: Sport TV+
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/42099
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 1 FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/16056
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 2 FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/16055
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 3 FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/16054
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 4 FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/16053
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 5 FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/16052
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="" group-title="Live: Portugal",PT: SPORT TV 6 FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74049
+#EXTINF:-1 tvg-ID="sporttvplus.pt" tvg-name="PT: SPORT TV+FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV+FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/16057
+
+#EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="VIP PT: Eleven Sport 1" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 1
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/30988
+#EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="VIP PT: Eleven Sport 1 FHD" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 1 FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/18818
+#EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="VIP PT: Eleven Sport 1 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 1 HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/30987
+#EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="VIP PT: Eleven Sport 2" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 2
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/30986
+#EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="VIP PT: Eleven Sport 2 FHD" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 2 FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/18819
+#EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="VIP PT: Eleven Sport 2 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 2 HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/30985
+#EXTINF:-1 tvg-ID="elevensports3.pt" tvg-name="VIP PT: Eleven Sport 3 FHD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 3 FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/18820
+#EXTINF:-1 tvg-ID="elevensports3.pt" tvg-name="VIP PT: Eleven Sport 3 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 3 HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/30984
+#EXTINF:-1 tvg-ID="elevensports4.pt" tvg-name="VIP PT: Eleven Sport 4 FHD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 4 FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/18821
+#EXTINF:-1 tvg-ID="elevensports4.pt" tvg-name="VIP PT: Eleven Sport 4 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 4 HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/30983
+#EXTINF:-1 tvg-ID="elevensports5.pt" tvg-name="VIP PT: Eleven Sport 5 FHD" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 5 FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/18822
+#EXTINF:-1 tvg-ID="elevensports5.pt" tvg-name="VIP PT: Eleven Sport 5 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 5 HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/30982
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Eleven Sport 6 FHD" tvg-logo="[""]" group-title="Live: Portugal",VIP PT: Eleven Sport 6 FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/18823
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP PT: Eleven Sport 6 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 6 HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/30981
+#EXTINF:-1 tvg-ID="eentertainment.pt" tvg-name="PT: E! Entertainment" tvg-logo="[" group-title="Live: Portugal",PT: E! Entertainment
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12621
+
+#EXTINF:-1 tvg-ID="24kitchen.pt" tvg-name="PT: 24 Kitchen HD" tvg-logo="" group-title="Live: Portugal",PT: 24 Kitchen HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12609
+#EXTINF:-1 tvg-ID="abolatv.pt" tvg-name="PT: A Bola TV" tvg-logo="[" group-title="Live: Portugal",PT: A Bola TV
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4482
+#EXTINF:-1 tvg-ID="angelustv.pt" tvg-name="PT: AandE TV" tvg-logo="[" group-title="Live: Portugal",PT: AandE TV
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12599
+#EXTINF:-1 tvg-ID="afromusicchannel.pt" tvg-name="PT: Afro Music" tvg-logo="" group-title="Live: Portugal",PT: Afro Music
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4496
+#EXTINF:-1 tvg-ID="amc.pt" tvg-name="PT: AMC" tvg-logo="" group-title="Live: Portugal",PT: AMC
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3667
+#EXTINF:-1 tvg-ID="amc.pt" tvg-name="PT: AMC FHD" tvg-logo="[" group-title="Live: Portugal",PT: AMC FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/9646
+#EXTINF:-1 tvg-ID="artv.pt" tvg-name="PT: AR TV HD" tvg-logo="[""]" group-title="Live: Portugal",PT: AR TV HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12604
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: AXN FHD" tvg-logo="" group-title="Live: Portugal",PT: AXN FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/9644
+#EXTINF:-1 tvg-ID="axn.pt" tvg-name="PT: AXN HD" tvg-logo="[" group-title="Live: Portugal",PT: AXN HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4667
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: AXN MOVIES FHD" tvg-logo="" group-title="Live: Portugal",PT: AXN MOVIES FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/42090
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: AXN MOVIES HD" tvg-logo="" group-title="Live: Portugal",PT: AXN MOVIES HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/42089
+#EXTINF:-1 tvg-ID="axnwhite.pt" tvg-name="PT: AXN WHITE FHD" tvg-logo="[" group-title="Live: Portugal",PT: AXN WHITE FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/9643
+#EXTINF:-1 tvg-ID="axnwhite.pt" tvg-name="PT: AXN WHITE HD" tvg-logo="[" group-title="Live: Portugal",PT: AXN WHITE HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4668
+#EXTINF:-1 tvg-ID="axn.pt" tvg-name="PT: AXN Movies FHD" tvg-logo="[" group-title="Live: Portugal",PT: AXN Movies FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/9645
+#EXTINF:-1 tvg-ID="axnblack.pt" tvg-name="PT: AXN Movies HD" tvg-logo="[" group-title="Live: Portugal",PT: AXN Movies HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4669
+#EXTINF:-1 tvg-ID="babytv.pt" tvg-name="PT: BABY TV" tvg-logo="[" group-title="Live: Portugal",PT: BABY TV
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3666
+#EXTINF:-1 tvg-ID="benficatv1.pt" tvg-name="PT: BTV FHD" tvg-logo="[" group-title="Live: Portugal",PT: BTV FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/9642
+#EXTINF:-1 tvg-ID="benficatv1.pt" tvg-name="PT: Benfica TV HD" tvg-logo="[" group-title="Live: Portugal",PT: Benfica TV HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3645
+#EXTINF:-1 tvg-ID="biggs.pt" tvg-name="PT: Biggs" tvg-logo="[" group-title="Live: Portugal",PT: Biggs
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12623
+#EXTINF:-1 tvg-ID="blaze.pt" tvg-name="PT: Blaze" tvg-logo="[" group-title="Live: Portugal",PT: Blaze
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4495
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: BBC ENTERTAINEMENT" tvg-logo="" group-title="Live: Portugal",PT: BBC ENTERTAINEMENT
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/42091
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: BBC WORLD NEWS" tvg-logo="" group-title="Live: Portugal",PT: BBC WORLD NEWS
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/42092
+#EXTINF:-1 tvg-ID="cacaepesca.pt" tvg-name="PT: Caçae Pesca" tvg-logo="[" group-title="Live: Portugal",PT: Caçae Pesca
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12627
+#EXTINF:-1 tvg-ID="cacavision.pt" tvg-name="PT: CAÇÃVISION" tvg-logo="" group-title="Live: Portugal",PT: CAÇÃVISION
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4666
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Canal 11 FHD" tvg-logo="" group-title="Live: Portugal",PT: Canal 11 FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/30725
+#EXTINF:-1 tvg-ID="canal180.pt" tvg-name="PT: Canal 180" tvg-logo="[" group-title="Live: Portugal",PT: Canal 180
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4497
+#EXTINF:-1 tvg-ID="historychannel.pt" tvg-name="PT: Canal de Historia" tvg-logo="[" group-title="Live: Portugal",PT: Canal de Historia
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3665
+#EXTINF:-1 tvg-ID="panda.pt" tvg-name="PT: Canal Panda" tvg-logo="" group-title="Live: Portugal",PT: Canal Panda
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3664
+#EXTINF:-1 tvg-ID="canalq.pt" tvg-name="PT: Canal Q" tvg-logo="[""]" group-title="Live: Portugal",PT: Canal Q
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/28964
+#EXTINF:-1 tvg-ID="cinemundo.pt" tvg-name="PT: Cinemundo" tvg-logo="" group-title="Live: Portugal",PT: Cinemundo
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3663
+#EXTINF:-1 tvg-ID="discoveryshowcase.pt" tvg-name="PT: Clubbing TV" tvg-logo="[" group-title="Live: Portugal",PT: Clubbing TV
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12597
+#EXTINF:-1 tvg-ID="cmtv.pt" tvg-name="PT: CM TV" tvg-logo="" group-title="Live: Portugal",PT: CM TV
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3662
+#EXTINF:-1 tvg-ID="cmtv.pt" tvg-name="PT: CM TV HD" tvg-logo="" group-title="Live: Portugal",PT: CM TV HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/15202
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: CBS REALITY" tvg-logo="" group-title="Live: Portugal",PT: CBS REALITY
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/42093
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: CNBC" tvg-logo="" group-title="Live: Portugal",PT: CNBC
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/42094
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: CNN Portugal" tvg-logo="" group-title="Live: Portugal",PT: CNN Portugal
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/42095
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: COMBATE HD" tvg-logo="" group-title="Live: Portugal",PT: COMBATE HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/42096
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Crime & Incvestigation" tvg-logo="[" group-title="Live: Portugal",PT: Crime & Incvestigation
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12598
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: CINEMA 2020" tvg-logo="" group-title="Live: Portugal",VIP PT: CINEMA 2020
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74067
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: CINEMA AC?O" tvg-logo="" group-title="Live: Portugal",VIP PT: CINEMA AC?O
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74068
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: CINEMA ARTES MARCIAIS" tvg-logo="" group-title="Live: Portugal",VIP PT: CINEMA ARTES MARCIAIS
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74069
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: CINEMA BRASIL" tvg-logo="" group-title="Live: Portugal",VIP PT: CINEMA BRASIL
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74071
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: CINEMA BUD SPENCER" tvg-logo="" group-title="Live: Portugal",VIP PT: CINEMA BUD SPENCER
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74072
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: CINEMA COMEDIA" tvg-logo="" group-title="Live: Portugal",VIP PT: CINEMA COMEDIA
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74073
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: CINEMA EM CASA" tvg-logo="" group-title="Live: Portugal",VIP PT: CINEMA EM CASA
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74074
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: CINEMA FANTASIA " LOONEY "" tvg-logo="" group-title="Live: Portugal",VIP PT: CINEMA FANTASIA " LOONEY "
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74075
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: CINEMA FICC?O CIENTIFICA" tvg-logo="" group-title="Live: Portugal",VIP PT: CINEMA FICC?O CIENTIFICA
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74076
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: CINEMA GUERRA" tvg-logo="" group-title="Live: Portugal",VIP PT: CINEMA GUERRA
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74077
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: CINEMA INDIANO" tvg-logo="" group-title="Live: Portugal",VIP PT: CINEMA INDIANO
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74078
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: CINEMA JACKIE CHAN" tvg-logo="" group-title="Live: Portugal",VIP PT: CINEMA JACKIE CHAN
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74079
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: CINEMA KIDS PT" tvg-logo="" group-title="Live: Portugal",VIP PT: CINEMA KIDS PT
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74080
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: CINEMA MUSICAL" tvg-logo="" group-title="Live: Portugal",VIP PT: CINEMA MUSICAL
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74081
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: CINEMA PORTUGUES" tvg-logo="" group-title="Live: Portugal",VIP PT: CINEMA PORTUGUES
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74082
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: CINEMA STEVEN SEAGAL" tvg-logo="" group-title="Live: Portugal",VIP PT: CINEMA STEVEN SEAGAL
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74083
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: CINEMA TOM CRUISE" tvg-logo="" group-title="Live: Portugal",VIP PT: CINEMA TOM CRUISE
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74084
+#EXTINF:-1 tvg-ID="discoverychannel.pt" tvg-name="PT: Discovery Channel" tvg-logo="" group-title="Live: Portugal",PT: Discovery Channel
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4490
+#EXTINF:-1 tvg-ID="discoverychannel.pt" tvg-name="PT: Discovery Channel FHD" tvg-logo="[" group-title="Live: Portugal",PT: Discovery Channel FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/31446
+#EXTINF:-1 tvg-ID="disneychannel.pt" tvg-name="PT: Disney Channel" tvg-logo="[" group-title="Live: Portugal",PT: Disney Channel
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4493
+#EXTINF:-1 tvg-ID="disneyjunior.pt" tvg-name="PT: Disney Junior" tvg-logo="" group-title="Live: Portugal",PT: Disney Junior
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3661
+#EXTINF:-1 tvg-ID="dogtv.pt" tvg-name="PT: DOG HD" tvg-logo="" group-title="Live: Portugal",PT: DOG HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/14629
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Euro Channel" tvg-logo="" group-title="Live: Portugal",PT: Euro Channel
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/31321
+#EXTINF:-1 tvg-ID="euronews.pt" tvg-name="PT: EuroNews" tvg-logo="[" group-title="Live: Portugal",PT: EuroNews
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12626
+#EXTINF:-1 tvg-ID="eurosport1.pt" tvg-name="PT: EUROSPORT HD" tvg-logo="[" group-title="Live: Portugal",PT: EUROSPORT HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/1520
+#EXTINF:-1 tvg-ID="eurosport1.pt" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="[" group-title="Live: Portugal",PT: EUROSPORT 1 FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/9641
+#EXTINF:-1 tvg-ID="eurosport2.pt" tvg-name="PT: EUROSPORT 2" tvg-logo="[""]" group-title="Live: Portugal",PT: EUROSPORT 2
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12367
+#EXTINF:-1 tvg-ID="fashiontv.pt" tvg-name="PT: Fashion TV" tvg-logo="" group-title="Live: Portugal",PT: Fashion TV
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3659
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: FIGHT NETWORK FHD" tvg-logo="" group-title="Live: Portugal",PT: FIGHT NETWORK FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/9639
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: FightBOX HD" tvg-logo="" group-title="Live: Portugal",PT: FightBOX HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12602
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Fine Living Network FHD" tvg-logo="[" group-title="Live: Portugal",PT: Fine Living Network FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/31317
+#EXTINF:-1 tvg-ID="foodnetwork.pt" tvg-name="PT: Food Network" tvg-logo="[" group-title="Live: Portugal",PT: Food Network
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12607
+#EXTINF:-1 tvg-ID="fox.pt" tvg-name="PT: FOX FHD" tvg-logo="[" group-title="Live: Portugal",PT: FOX FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/9636
+#EXTINF:-1 tvg-ID="fox.pt" tvg-name="PT: FOX HD" tvg-logo="[" group-title="Live: Portugal",PT: FOX HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4664
+#EXTINF:-1 tvg-ID="foxcomedy.pt" tvg-name="PT: FOX Comedy FHD" tvg-logo="[" group-title="Live: Portugal",PT: FOX Comedy FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/9638
+#EXTINF:-1 tvg-ID="foxcomedy.pt" tvg-name="PT: FOX Comedy" tvg-logo="[" group-title="Live: Portugal",PT: FOX Comedy
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4488
+#EXTINF:-1 tvg-ID="foxcrime.pt" tvg-name="PT: FOX CRIME FHD" tvg-logo="[" group-title="Live: Portugal",PT: FOX CRIME FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/9637
+#EXTINF:-1 tvg-ID="foxcrime.pt" tvg-name="PT: FOX CRIME HD" tvg-logo="[" group-title="Live: Portugal",PT: FOX CRIME HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4665
+#EXTINF:-1 tvg-ID="foxlife.pt" tvg-name="PT: FOX LIFE FHD" tvg-logo="[" group-title="Live: Portugal",PT: FOX LIFE FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/9635
+#EXTINF:-1 tvg-ID="foxlife.pt" tvg-name="PT: FOX LIFE HD" tvg-logo="[" group-title="Live: Portugal",PT: FOX LIFE HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4663
+#EXTINF:-1 tvg-ID="foxmovies.pt" tvg-name="PT: FOX Movies FHD" tvg-logo="[" group-title="Live: Portugal",PT: FOX Movies FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/9640
+#EXTINF:-1 tvg-ID="foxmovies.pt" tvg-name="PT: FOX Movies" tvg-logo="[" group-title="Live: Portugal",PT: FOX Movies
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4489
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: FOX News" tvg-logo="[" group-title="Live: Portugal",PT: FOX News
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12622
+#EXTINF:-1 tvg-ID="" tvg-name="PT: France 24" tvg-logo="" group-title="Live: Portugal",PT: France 24
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12616
+#EXTINF:-1 tvg-ID="fueltv.pt" tvg-name="PT: Fuel TV" tvg-logo="[""]" group-title="Live: Portugal",PT: Fuel TV
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4484
+#EXTINF:-1 tvg-ID="fueltv.pt" tvg-name="PT: FUEL TV FHD" tvg-logo="[" group-title="Live: Portugal",PT: FUEL TV FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/9634
+#EXTINF:-1 tvg-ID="globonow.pt" tvg-name="PT: GLOBO PREMIUM" tvg-logo="" group-title="Live: Portugal",PT: GLOBO PREMIUM
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4661
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Hollywood FHD" tvg-logo="" group-title="Live: Portugal",PT: Hollywood FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/33151
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Hollywood HD" tvg-logo="" group-title="Live: Portugal",PT: Hollywood HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4486
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ALMA LUSA HD" tvg-logo="" group-title="Live: Portugal",PT: ALMA LUSA HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74043
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Cartoon Network" tvg-logo="" group-title="Live: Portugal",PT: Cartoon Network
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74044
+#EXTINF:-1 tvg-ID="" tvg-name="PT: BOOMERANG" tvg-logo="" group-title="Live: Portugal",PT: BOOMERANG
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74045
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CANAL LUCAS NETO TV" tvg-logo="" group-title="Live: Portugal",PT: CANAL LUCAS NETO TV
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74046
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CANAL MOTO GP" tvg-logo="" group-title="Live: Portugal",PT: CANAL MOTO GP
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74047
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Casa e Cozinha HD" tvg-logo="" group-title="Live: Portugal",PT: Casa e Cozinha HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74048
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CULINARIA" tvg-logo="" group-title="Live: Portugal",PT: CULINARIA
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74050
+#EXTINF:-1 tvg-ID="" tvg-name="PT: DISNEY" tvg-logo="" group-title="Live: Portugal",PT: DISNEY
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74051
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOLCLORE" tvg-logo="" group-title="Live: Portugal",PT: FOLCLORE
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74052
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX KIDS" tvg-logo="" group-title="Live: Portugal",PT: FOX KIDS
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74053
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Gametoon HD" tvg-logo="" group-title="Live: Portugal",PT: Gametoon HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74054
+#EXTINF:-1 tvg-ID="" tvg-name="PT: GINX" tvg-logo="" group-title="Live: Portugal",PT: GINX
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74055
+#EXTINF:-1 tvg-ID="" tvg-name="PT: HBO" tvg-logo="" group-title="Live: Portugal",PT: HBO
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74056
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Kuriakos" tvg-logo="" group-title="Live: Portugal",PT: Kuriakos
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74057
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Kuriakos TV" tvg-logo="" group-title="Live: Portugal",PT: Kuriakos TV
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74058
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Kuriakus Cine" tvg-logo="" group-title="Live: Portugal",PT: Kuriakus Cine
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74059
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Kuriakus Music" tvg-logo="" group-title="Live: Portugal",PT: Kuriakus Music
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74060
+#EXTINF:-1 tvg-ID="" tvg-name="PT: LOCALVISAO" tvg-logo="" group-title="Live: Portugal",PT: LOCALVISAO
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74061
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Lolly Kids" tvg-logo="" group-title="Live: Portugal",PT: Lolly Kids
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74062
+#EXTINF:-1 tvg-ID="" tvg-name="PT: MMA" tvg-logo="" group-title="Live: Portugal",PT: MMA
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74063
+#EXTINF:-1 tvg-ID="" tvg-name="PT: NETFLIX HD" tvg-logo="" group-title="Live: Portugal",PT: NETFLIX HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74064
+#EXTINF:-1 tvg-ID="" tvg-name="PT: OPTO" tvg-logo="" group-title="Live: Portugal",PT: OPTO
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74065
+#EXTINF:-1 tvg-ID="" tvg-name="PT: S  HD" tvg-logo="" group-title="Live: Portugal",PT: S  HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/74066
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: ID Investigation Discovery FHD" tvg-logo="" group-title="Live: Portugal",PT: ID Investigation Discovery FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/33152
+#EXTINF:-1 tvg-ID="jimjam.pt" tvg-name="PT: JIM JAM" tvg-logo="[" group-title="Live: Portugal",PT: JIM JAM
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3660
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Kuriakos Kids TV" tvg-logo="" group-title="Live: Portugal",PT: Kuriakos Kids TV
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12600
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: MÁS CHIC" tvg-logo="[" group-title="Live: Portugal",PT: MÁS CHIC
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12613
+#EXTINF:-1 tvg-ID="mcsultra.pt" tvg-name="PT: MCM POP" tvg-logo="[" group-title="Live: Portugal",PT: MCM POP
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12596
+#EXTINF:-1 tvg-ID="mcmtophd.pt" tvg-name="PT: MCM TOP" tvg-logo="[" group-title="Live: Portugal",PT: MCM TOP
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4498
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Motorvision" tvg-logo="[" group-title="Live: Portugal",PT: Motorvision
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4485
+#EXTINF:-1 tvg-ID="mtv.pt" tvg-name="PT: MTV" tvg-logo="[" group-title="Live: Portugal",PT: MTV
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3658
+#EXTINF:-1 tvg-ID="mycuisinehd.pt" tvg-name="PT: CASA E COZINHA" tvg-logo="" group-title="Live: Portugal",PT: CASA E COZINHA
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12625
+#EXTINF:-1 tvg-ID="natgeo.pt" tvg-name="PT: Nat Geo Wild" tvg-logo="[" group-title="Live: Portugal",PT: Nat Geo Wild
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4491
+#EXTINF:-1 tvg-ID="natgeo.pt" tvg-name="PT: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Live: Portugal",PT: NATIONAL GEOGRAPHIC HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4662
+#EXTINF:-1 tvg-ID="" tvg-name="PT: NBA HD" tvg-logo="[""]" group-title="Live: Portugal",PT: NBA HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12603
+#EXTINF:-1 tvg-ID="nickelodeon.pt" tvg-name="PT: Nickelodeon" tvg-logo="[" group-title="Live: Portugal",PT: Nickelodeon
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3657
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Nick Jr." tvg-logo="" group-title="Live: Portugal",PT: Nick Jr.
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/34652
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: NOS STUDIOS HD" tvg-logo="" group-title="Live: Portugal",PT: NOS STUDIOS HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/31316
+#EXTINF:-1 tvg-ID="" tvg-name="PT: NOW" tvg-logo="[""]" group-title="Live: Portugal",PT: NOW
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/31322
+#EXTINF:-1 tvg-ID="odisseia.pt" tvg-name="PT: ODISSEIA" tvg-logo="[" group-title="Live: Portugal",PT: ODISSEIA
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/1517
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: ODISSEIA FHD" tvg-logo="" group-title="Live: Portugal",PT: ODISSEIA FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/42097
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: OUTDOOR CHANNEL HD" tvg-logo="" group-title="Live: Portugal",PT: OUTDOOR CHANNEL HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/42098
+#EXTINF:-1 tvg-ID="panda.pt" tvg-name="PT: Panda" tvg-logo="[" group-title="Live: Portugal",PT: Panda
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4492
+#EXTINF:-1 tvg-ID="biggs.pt" tvg-name="PT: PANDA BIGGS" tvg-logo="[" group-title="Live: Portugal",PT: PANDA BIGGS
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3656
+#EXTINF:-1 tvg-ID="pfc.pt" tvg-name="PT: PFC" tvg-logo="[" group-title="Live: Portugal",PT: PFC
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4660
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Porto Canal" tvg-logo="[" group-title="Live: Portugal",PT: Porto Canal
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3655
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: S+ FHD" tvg-logo="[" group-title="Live: Portugal",PT: S+ FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12620
+#
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: SKYNews" tvg-logo="" group-title="Live: Portugal",PT: SKYNews
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12615
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Sport TV NBA HD" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV NBA HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4483
+#EXTINF:-1 tvg-ID="sportingtv.pt" tvg-name="PT: Sporting TV FHD" tvg-logo="" group-title="Live: Portugal",PT: Sporting TV FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/9625
+#EXTINF:-1 tvg-ID="syfy.pt" tvg-name="PT: SyFy" tvg-logo="[" group-title="Live: Portugal",PT: SyFy
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4487
+#EXTINF:-1 tvg-ID="syfy.pt" tvg-name="PT: SyFy FHD" tvg-logo="[" group-title="Live: Portugal",PT: SyFy FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/9624
+#EXTINF:-1 tvg-ID="tcvinternational.pt" tvg-name="PT: TCV Cabo Verde" tvg-logo="[" group-title="Live: Portugal",PT: TCV Cabo Verde
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12612
+#EXTINF:-1 tvg-ID="tlc.pt" tvg-name="PT: TLC" tvg-logo="[""]" group-title="Live: Portugal",PT: TLC
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12611
+#EXTINF:-1 tvg-ID="toros.pt" tvg-name="PT: Toros TV" tvg-logo="[" group-title="Live: Portugal",PT: Toros TV
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12610
+#EXTINF:-1 tvg-ID="tpainternational.pt" tvg-name="PT: TPA ANGOLA" tvg-logo="[" group-title="Live: Portugal",PT: TPA ANGOLA
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12614
+#EXTINF:-1 tvg-ID="trace.pt" tvg-name="PT: Trace TV" tvg-logo="[" group-title="Live: Portugal",PT: Trace TV
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12617
+#EXTINF:-1 tvg-ID="travelchannel.pt" tvg-name="PT: Travel HD" tvg-logo="" group-title="Live: Portugal",PT: Travel HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12605
+#EXTINF:-1 tvg-ID="tvcinetop.pt" tvg-name="PT: TV Cine TOP FHD" tvg-logo="[" group-title="Live: Portugal",PT: TV Cine TOP FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/16051
+#EXTINF:-1 tvg-ID="tvcinetop.pt" tvg-name="PT: TV Cine TOP HD" tvg-logo="[" group-title="Live: Portugal",PT: TV Cine TOP HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/6499
+#EXTINF:-1 tvg-ID="tvcineedition.pt" tvg-name="PT: TV Cine Edition FHD" tvg-logo="[" group-title="Live: Portugal",PT: TV Cine Edition FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/16050
+#EXTINF:-1 tvg-ID="tvcineedition.pt" tvg-name="PT: TV Cine Edition HD" tvg-logo="[" group-title="Live: Portugal",PT: TV Cine Edition HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/6500
+#EXTINF:-1 tvg-ID="tvcineemotion.pt" tvg-name="PT: TV Cine Emotion FHD" tvg-logo="[" group-title="Live: Portugal",PT: TV Cine Emotion FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/16049
+#EXTINF:-1 tvg-ID="tvcineemotion.pt" tvg-name="PT: TV Cine Emotion HD" tvg-logo="[" group-title="Live: Portugal",PT: TV Cine Emotion HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/6501
+#EXTINF:-1 tvg-ID="tvcineaction.pt" tvg-name="PT: TV Cine Action FHD" tvg-logo="[" group-title="Live: Portugal",PT: TV Cine Action FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/16048
+#EXTINF:-1 tvg-ID="tvcineaction.pt" tvg-name="PT: TV Cine Action HD" tvg-logo="[" group-title="Live: Portugal",PT: TV Cine Action HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/6502
+#EXTINF:-1 tvg-ID="globo.pt" tvg-name="PT: TV Globo" tvg-logo="[" group-title="Live: Portugal",PT: TV Globo
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/5426
+#EXTINF:-1 tvg-ID="recordtv.pt" tvg-name="PT: Tv Record" tvg-logo="[" group-title="Live: Portugal",PT: Tv Record
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3648
+#EXTINF:-1 tvg-ID="tvi.pt" tvg-name="PT: TVI" tvg-logo="" group-title="Live: Portugal",PT: TVI
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4477
+#EXTINF:-1 tvg-ID="tvi24.pt" tvg-name="PT: Tvi 24" tvg-logo="" group-title="Live: Portugal",PT: Tvi 24
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3647
+#EXTINF:-1 tvg-ID="tvificcao.pt" tvg-name="PT: TVI FICCAO" tvg-logo="" group-title="Live: Portugal",PT: TVI FICCAO
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/3646
+#EXTINF:-1 tvg-ID="tvi.pt" tvg-name="PT: TVI HD" tvg-logo="[" group-title="Live: Portugal",PT: TVI HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/955
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: TVI Reality FHD" tvg-logo="" group-title="Live: Portugal",PT: TVI Reality FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/31320
+#EXTINF:-1 tvg-ID="tviinternacional.pt" tvg-name="PT: TVI Reality" tvg-logo="[" group-title="Live: Portugal",PT: TVI Reality
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/4478
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI Reality MOSAICO" tvg-logo="" group-title="Live: Portugal",PT: TVI Reality MOSAICO
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/42210
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI Reality Camera 1" tvg-logo="" group-title="Live: Portugal",PT: TVI Reality Camera 1
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/42765
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI Reality Camera 2" tvg-logo="" group-title="Live: Portugal",PT: TVI Reality Camera 2
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/42766
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI Reality Camera 3" tvg-logo="" group-title="Live: Portugal",PT: TVI Reality Camera 3
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/42767
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI Reality Camera 4" tvg-logo="" group-title="Live: Portugal",PT: TVI Reality Camera 4
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/42768
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: TVM INT. MOÇAMBIQUE" tvg-logo="[" group-title="Live: Portugal",PT: TVM INT. MOÇAMBIQUE
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/31319
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: TVM MOÇAMBIQUE" tvg-logo="" group-title="Live: Portugal",PT: TVM MOÇAMBIQUE
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/31318
+#EXTINF:-1 tvg-ID="vh1.pt" tvg-name="PT: VH1" tvg-logo="[" group-title="Live: Portugal",PT: VH1
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/12618
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: ZAP VIVA HD" tvg-logo="[" group-title="Live: Portugal",PT: ZAP VIVA HD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/31315
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: TVI 24 FHD" tvg-logo="" group-title="Live: Portugal",PT: TVI 24 FHD
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/54704
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Cancao Nova" tvg-logo="" group-title="Live: Portugal",PT: Cancao Nova
+http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/54702
