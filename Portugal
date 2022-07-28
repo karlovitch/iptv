@@ -1,9 +1,4 @@
 #EXTM3U
-
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="===== Portugal =====" tvg-logo="" group-title="",===== Portugal =====
-http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/1198
-
 EXTINF:-1 tvg-ID="NULL" tvg-name="PT: RTP 1 FHD" tvg-logo="" group-title="Live: Portugal",PT: RTP 1 FHD
 http://videoklub.xyz:8080/xkdDf21B/jRSUdWRb/33153
 #EXTINF:-1 tvg-ID="rtp1.pt" tvg-name="PT: RTP 1" tvg-logo="" group-title="Live: Portugal",PT: RTP 1
