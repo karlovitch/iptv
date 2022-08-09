@@ -6,6 +6,20 @@ http://comag.rip:8000/50149782847964/57228675682258/79112
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 UHD" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2011/07/sporttv_logo_.jpg" group-title="|EU| PORTUGUESA VIP",SPORT TV 1 UHD
 http://comag.rip:8000/50149782847964/57228675682258/199205
 
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 FHD" tvg-logo="http://xtitan.xyz:2082/images/df007b2ccba0666a9868266c37656407.jpg" group-title="|EU| PORTUGUESA VIP",Sport TV 1 FHD
+http://comag.rip:8000/50149782847964/57228675682258/199206
+
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="http://www.topstb.info/logo/PORTUGAL/SPORTTV.png" group-title="|EU| PORTUGUESA",PT: SPORT TV 1 HD
+http://comag.rip:8000/50149782847964/57228675682258/66469
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD ᴴᵉᵛᶜ" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2011/07/sporttv_logo_.jpg" group-title="|EU| HEVC PORTUGUESA",SPORT TV 1 HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50149782847964/57228675682258/199027
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 FHD ᴴᵉᵛᶜ" tvg-logo="http://xtitan.xyz:2082/images/df007b2ccba0666a9868266c37656407.jpg" group-title="|EU| HEVC PORTUGUESA",SPORT TV 1 FHD ᴴᵉᵛᶜ
+http://comag.rip:8000/50149782847964/57228675682258/199026
+
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="VIP:PT - SPORTTV 1 HD" tvg-logo="https://www.seekpng.com/png/detail/357-3578768_sport-tv-1-hd.png" group-title="|EU| PORTUGUESA",VIP:PT - SPORTTV 1 HD
+http://comag.rip:8000/50149782847964/57228675682258/79115
+
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="http://www.topstb.info/logo/PORTUGAL/SPORTTV.png" group-title="|EU| PORTUGUESA",PT: SPORT TV 1 HD
 http://comag.rip:8000/50149782847964/57228675682258/66469
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="http://www.topstb.info/logo/PORTUGAL/SPORTTV.png" group-title="|EU| PORTUGUESA",PT: SPORT TV 1 SD
@@ -239,3 +253,4 @@ http://comag.rip:8000/50149782847964/57228675682258/66447
 http://comag.rip:8000/50149782847964/57228675682258/66446
 #EXTINF:-1 tvg-id="ElevenSports6.pt" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="http://www.comandotv.com/xbmc/elevensports6.png" group-title="|EU| PORTUGUESA",PT: ELEVEN SPORTS 6 HD
 http://comag.rip:8000/50149782847964/57228675682258/66445
+
