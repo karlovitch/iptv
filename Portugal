@@ -1,4 +1,52 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 UHD 4K PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: Portugal",Sport TV 1 UHD 4K PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/86631
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: Portugal",Sport TV 1 PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/7846
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pthd.jpg" group-title="Live: Portugal",Sport TV 1 HD PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/3221
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: Portugal",Sport TV 1 FHD PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/17744
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv2pt.jpg" group-title="Live: Portugal",Sport TV 2 PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/7845
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv2pthd.jpg" group-title="Live: Portugal",Sport TV 2 FHD PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/3222
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv3pt.jpg" group-title="Live: Portugal",Sport TV 3 PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/7844
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv3hdpt.jpg" group-title="Live: Portugal",Sport TV 3 FHD PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/3223
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv4pt.jpg" group-title="Live: Portugal",Sport TV 4 PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/7843
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv4hdpt.jpg" group-title="Live: Portugal",Sport TV 4 FHD PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/3224
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv5hdpt.jpg" group-title="Live: Portugal",Sport TV 5 FHD PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/16297
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv5pt.jpg" group-title="Live: Portugal",Sport TV 5 PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/7842
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 6 FHD PT" tvg-logo="" group-title="Live: Portugal",Sport TV 6 FHD PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/86095
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV + FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttvpluspt.jpg" group-title="Live: Portugal",Sport TV + FHD PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/19589
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV 1 UHD PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 UHD PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/86629
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV 1 PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/3308
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 HD PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/5541
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 UHD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg" group-title="Live: Portugal",Eleven Sports 1 UHD PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/86630
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Eleven Sports 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg" group-title="Live: Portugal",Eleven Sports 1 HD PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/23325
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Eleven Sports 2 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports2pl.jpg" group-title="Live: Portugal",Eleven Sports 2 HD PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/23320
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Eleven Sports 3 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports3pl.jpg" group-title="Live: Portugal",Eleven Sports 3 HD PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/23321
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Eleven Sports 4 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports4pl.jpg" group-title="Live: Portugal",Eleven Sports 4 HD PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/23322
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Eleven Sports 5 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elevensportspt.jpg" group-title="Live: Portugal",Eleven Sports 5 HD PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/23323
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Eleven Sports 6 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/elevensportspt.jpg" group-title="Live: Portugal",Eleven Sports 6 FHD PT
+http://clientportal.link:80/Astriti-chfd/wp93H334/23324
 #EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="RTP 1 PT" tvg-logo="https://picon-13398.kxcdn.com/rtp1.jpg" group-title="Live: Portugal",RTP 1 PT
 http://clientportal.link:80/Astriti-chfd/wp93H334/3208
 #EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="RTP 1 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/rtp1.jpg" group-title="Live: Portugal",RTP 1 FHD PT
@@ -85,18 +133,6 @@ http://clientportal.link:80/Astriti-chfd/wp93H334/19590
 http://clientportal.link:80/Astriti-chfd/wp93H334/19588
 #EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-name="Caça e Pesca PT" tvg-logo="https://picon-13398.kxcdn.com/cacaepesca.jpg" group-title="Live: Portugal",Caça e Pesca PT
 http://clientportal.link:80/Astriti-chfd/wp93H334/5543
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Eleven Sports 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg" group-title="Live: Portugal",Eleven Sports 1 HD PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/23325
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Eleven Sports 2 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports2pl.jpg" group-title="Live: Portugal",Eleven Sports 2 HD PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/23320
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Eleven Sports 3 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports3pl.jpg" group-title="Live: Portugal",Eleven Sports 3 HD PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/23321
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Eleven Sports 4 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports4pl.jpg" group-title="Live: Portugal",Eleven Sports 4 HD PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/23322
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Eleven Sports 5 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elevensportspt.jpg" group-title="Live: Portugal",Eleven Sports 5 HD PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/23323
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Eleven Sports 6 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/elevensportspt.jpg" group-title="Live: Portugal",Eleven Sports 6 FHD PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/23324
 #EXTINF:-1 tvg-id="NatGeo.pt" tvg-name="National Geographic HD PT" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Live: Portugal",National Geographic HD PT
 http://clientportal.link:80/Astriti-chfd/wp93H334/3306
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild PT" tvg-logo="https://picon-13398.kxcdn.com/natgeowild.jpg" group-title="Live: Portugal",National Geographic Wild PT
@@ -177,32 +213,6 @@ http://clientportal.link:80/Astriti-chfd/wp93H334/5537
 http://clientportal.link:80/Astriti-chfd/wp93H334/5555
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV + PT" tvg-logo="https://picon-13398.kxcdn.com/sporttvpluspt.jpg" group-title="Live: Portugal",Sport TV + PT
 http://clientportal.link:80/Astriti-chfd/wp93H334/9499
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: Portugal",Sport TV 1 PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/7846
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pthd.jpg" group-title="Live: Portugal",Sport TV 1 HD PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/3221
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: Portugal",Sport TV 1 FHD PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/17744
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv2pt.jpg" group-title="Live: Portugal",Sport TV 2 PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/7845
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv2pthd.jpg" group-title="Live: Portugal",Sport TV 2 FHD PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/3222
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv3pt.jpg" group-title="Live: Portugal",Sport TV 3 PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/7844
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv3hdpt.jpg" group-title="Live: Portugal",Sport TV 3 FHD PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/3223
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv4pt.jpg" group-title="Live: Portugal",Sport TV 4 PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/7843
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv4hdpt.jpg" group-title="Live: Portugal",Sport TV 4 FHD PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/3224
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv5pt.jpg" group-title="Live: Portugal",Sport TV 5 PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/7842
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV + FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttvpluspt.jpg" group-title="Live: Portugal",Sport TV + FHD PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/19589
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV 1 PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/3308
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 HD PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/5541
 #EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV PT" tvg-logo="https://picon-13398.kxcdn.com/sportingtvpt.jpg" group-title="Live: Portugal",Sporting TV PT
 http://clientportal.link:80/Astriti-chfd/wp93H334/3305
 #EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="A Bola TV PT" tvg-logo="https://picon-13398.kxcdn.com/abolatv.jpg" group-title="Live: Portugal",A Bola TV PT
@@ -217,8 +227,6 @@ http://clientportal.link:80/Astriti-chfd/wp93H334/9482
 http://clientportal.link:80/Astriti-chfd/wp93H334/9485
 #EXTINF:-1 tvg-id="PFC.pt" tvg-name="PFC PT" tvg-logo="https://picon-13398.kxcdn.com/pfcpt.jpg" group-title="Live: Portugal",PFC PT
 http://clientportal.link:80/Astriti-chfd/wp93H334/3248
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv5hdpt.jpg" group-title="Live: Portugal",Sport TV 5 FHD PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/16297
 #EXTINF:-1 tvg-id="" tvg-name="Caçavision PT" tvg-logo="https://picon-13398.kxcdn.com/cacavisiones.jpg" group-title="Live: Portugal",Caçavision PT
 http://clientportal.link:80/Astriti-chfd/wp93H334/19627
 #EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-name="Caza y Pesca PT" tvg-logo="https://picon-13398.kxcdn.com/cazaypesca.jpg" group-title="Live: Portugal",Caza y Pesca PT
@@ -277,14 +285,6 @@ http://clientportal.link:80/Astriti-chfd/wp93H334/29515
 http://clientportal.link:80/movie/Astriti-chfd/wp93H334/79010.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ PT" tvg-logo="https://picon-13398.kxcdn.com/disneyplus.jpg" group-title="Live: Portugal",Disney+ PT
 http://clientportal.link:80/Astriti-chfd/wp93H334/79898
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 6 FHD PT" tvg-logo="" group-title="Live: Portugal",Sport TV 6 FHD PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/86095
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV 1 UHD PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 UHD PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/86629
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 UHD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg" group-title="Live: Portugal",Eleven Sports 1 UHD PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/86630
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 UHD 4K PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: Portugal",Sport TV 1 UHD 4K PT
-http://clientportal.link:80/Astriti-chfd/wp93H334/86631
 #EXTINF:-1 tvg-id="" tvg-name="Panda Kids PT" tvg-logo="https://picon-13398.kxcdn.com/pandakidspt.jpg" group-title="Live: Portugal",Panda Kids PT
 http://clientportal.link:80/Astriti-chfd/wp93H334/90912
 #EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="RTP 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/rtp1.jpg" group-title="Live: Portugal",RTP 1 HD PT
