@@ -1,224 +1,283 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv1.png" group-title="PORTUGAL",PT: SPORT TV 1
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24984.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv2.png" group-title="PORTUGAL",PT: SPORT TV 2
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24982.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv3.png" group-title="PORTUGAL",PT: SPORT TV 3
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24980.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv4.png" group-title="PORTUGAL",PT: SPORT TV 4
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24979.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv5.png" group-title="PORTUGAL",PT: SPORT TV 5
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24978.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/portugal/elevensport1.png" group-title="PORTUGAL",PT: ELEVEN SPORT 1
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25024.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 2" tvg-logo="https://docdog.top/Logotv/countries/portugal/elevensport2.png" group-title="PORTUGAL",PT: ELEVEN SPORT 2
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25025.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 3" tvg-logo="https://docdog.top/Logotv/countries/portugal/elevensport3.png" group-title="PORTUGAL",PT: ELEVEN SPORT 3
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25026.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 4" tvg-logo="https://docdog.top/Logotv/countries/portugal/elevensport4.png" group-title="PORTUGAL",PT: ELEVEN SPORT 4
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25027.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 5" tvg-logo="https://docdog.top/Logotv/countries/portugal/Eleven_Sports_5.png" group-title="PORTUGAL",PT: ELEVEN SPORT 5
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25028.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 6" tvg-logo="https://docdog.top/Logotv/countries/portugal/elevensports6vip.png" group-title="PORTUGAL",PT: ELEVEN SPORT 6
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24983.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttvnba.png" group-title="PORTUGAL",PT: SPORT TV NBA
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24981.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: CARTOON NETWORK" tvg-logo="https://docdog.top/Logotv/countries/portugal/cartoonnetwork.png" group-title="PORTUGAL",PT: CARTOON NETWORK
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24985.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: 24 KITCHEN" tvg-logo="https://docdog.top/Logotv/countries/portugal/24kitchen.png" group-title="PORTUGAL",PT: 24 KITCHEN
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24986.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="https://docdog.top/Logotv/countries/portugal/abolatv.png" group-title="PORTUGAL",PT: A BOLA TV
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24987.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: A&E" tvg-logo="https://docdog.top/Logotv/countries/portugal/ae.png" group-title="PORTUGAL",PT: A&E
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24988.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: AMC" tvg-logo="https://docdog.top/Logotv/countries/portugal/amc.png" group-title="PORTUGAL",PT: AMC
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24989.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ARTV" tvg-logo="https://docdog.top/Logotv/countries/portugal/artv.png" group-title="PORTUGAL",PT: ARTV
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24990.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN" tvg-logo="https://docdog.top/Logotv/countries/portugal/axn.png" group-title="PORTUGAL",PT: AXN
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24991.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN BLACK" tvg-logo="https://docdog.top/Logotv/countries/portugal/axnblack.png" group-title="PORTUGAL",PT: AXN BLACK
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24992.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES" tvg-logo="https://docdog.top/Logotv/countries/portugal/axnmovies.png" group-title="PORTUGAL",PT: AXN MOVIES
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24993.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE" tvg-logo="https://docdog.top/Logotv/countries/portugal/axnwhite.png" group-title="PORTUGAL",PT: AXN WHITE
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24994.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: BABY TV" tvg-logo="https://docdog.top/Logotv/countries/portugal/babytv.png" group-title="PORTUGAL",PT: BABY TV
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24995.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: BBC WORLD NEWS" tvg-logo="https://docdog.top/Logotv/countries/portugal/bbcworldnews.png" group-title="PORTUGAL",PT: BBC WORLD NEWS
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24996.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV" tvg-logo="https://docdog.top/Logotv/countries/portugal/benficatv.png" group-title="PORTUGAL",PT: BENFICA TV
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24997.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: BIGGS" tvg-logo="https://docdog.top/Logotv/countries/portugal/biggs.png" group-title="PORTUGAL",PT: BIGGS
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24998.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: BLAZE" tvg-logo="https://docdog.top/Logotv/countries/portugal/blaze.png" group-title="PORTUGAL",PT: BLAZE
-http://bellive.top:8080/live/211664292066993009/9021664292066993/24999.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV" tvg-logo="https://docdog.top/Logotv/countries/portugal/btv.png" group-title="PORTUGAL",PT: BTV
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25000.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: CACA E PESCA" tvg-logo="https://docdog.top/Logotv/countries/portugal/cacaepesca.png" group-title="PORTUGAL",PT: CACA E PESCA
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25001.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: CACA VISION" tvg-logo="https://docdog.top/Logotv/countries/portugal/cacavision.png" group-title="PORTUGAL",PT: CACA VISION
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25002.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: CALVISION" tvg-logo="https://docdog.top/Logotv/countries/portugal//calvision.png" group-title="PORTUGAL",PT: CALVISION
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25003.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11" tvg-logo="https://docdog.top/Logotv/countries/portugal/canal11.png" group-title="PORTUGAL",PT: CANAL 11
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25004.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA" tvg-logo="https://docdog.top/Logotv/countries/portugal/canalpanda.png" group-title="PORTUGAL",PT: CANAL PANDA
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25005.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL Q" tvg-logo="https://docdog.top/Logotv/countries/portugal//canalq.png" group-title="PORTUGAL",PT: CANAL Q
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25006.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: CANCAO NOVA" tvg-logo="https://docdog.top/Logotv/countries/portugal/cancaonova.png" group-title="PORTUGAL",PT: CANCAO NOVA
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25007.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: CBS REALITY" tvg-logo="https://docdog.top/Logotv/countries/portugal/cbsreality.png" group-title="PORTUGAL",PT: CBS REALITY
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25008.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: CINE ACTION TV" tvg-logo="https://docdog.top/Logotv/countries/portugal/cineaccion.png" group-title="PORTUGAL",PT: CINE ACTION TV
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25009.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: CINE EDITION TV" tvg-logo="https://xplanetiptv.us/Logotv/countries/portugal/TVCineEDITION.png" group-title="PORTUGAL",PT: CINE EDITION TV
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25010.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: CINE EMOTION TV" tvg-logo="https://docdog.top/Logotv/countries/portugal/cineemotion.png" group-title="PORTUGAL",PT: CINE EMOTION TV
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25011.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: CINE TOP TV" tvg-logo="https://xplanetiptv.us/Logotv/countries/portugal/TVCineTOP.png" group-title="PORTUGAL",PT: CINE TOP TV
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25012.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: CINE TV 2" tvg-logo="https://docdog.top/Logotv/countries/portugal/tvc2.png" group-title="PORTUGAL",PT: CINE TV 2
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25013.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: CINE TV 3" tvg-logo="https://docdog.top/Logotv/countries/portugal/tvc3.png" group-title="PORTUGAL",PT: CINE TV 3
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25014.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: CINE TV 4" tvg-logo="https://docdog.top/Logotv/countries/portugal/tvc4.png" group-title="PORTUGAL",PT: CINE TV 4
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25015.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO" tvg-logo="https://docdog.top/Logotv/countries/portugal/cinemundo.png" group-title="PORTUGAL",PT: CINEMUNDO
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25016.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV" tvg-logo="https://docdog.top/Logotv/countries/portugal/cmtv.png" group-title="PORTUGAL",PT: CMTV
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25017.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: CRIME & INVESTIGATION" tvg-logo="https://docdog.top/Logotv/countries/portugal/crimeandinvestigation.png" group-title="PORTUGAL",PT: CRIME & INVESTIGATION
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25018.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/Logotv/countries/portugal/discoverychannel.png" group-title="PORTUGAL",PT: DISCOVERY CHANNEL
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25019.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY SHOWCASE" tvg-logo="https://docdog.top/Logotv/countries/portugal/discoveryshowcase.png" group-title="PORTUGAL",PT: DISCOVERY SHOWCASE
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25020.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY CHANNEL" tvg-logo="https://docdog.top/Logotv/countries/portugal/disneychannel.png" group-title="PORTUGAL",PT: DISNEY CHANNEL
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25021.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY JUNIOR" tvg-logo="https://docdog.top/Logotv/countries/portugal/disneyjunior.png" group-title="PORTUGAL",PT: DISNEY JUNIOR
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25022.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: E! ENTERTAINMENT" tvg-logo="https://docdog.top/Logotv/countries/portugal/entertainment.png" group-title="PORTUGAL",PT: E! ENTERTAINMENT
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25023.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: EURO CHANNEL" tvg-logo="https://docdog.top/Logotv/countries/portugal/eurochannel.png" group-title="PORTUGAL",PT: EURO CHANNEL
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25029.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: EURO NEWS" tvg-logo="https://docdog.top/Logotv/countries/portugal/euronews.png" group-title="PORTUGAL",PT: EURO NEWS
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25030.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX" tvg-logo="https://docdog.top/Logotv/countries/portugal/fox.png" group-title="PORTUGAL",PT: FOX
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25031.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY" tvg-logo="https://docdog.top/Logotv/countries/portugal/foxcomedy.png" group-title="PORTUGAL",PT: FOX COMEDY
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25032.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME" tvg-logo="https://docdog.top/Logotv/countries/portugal/foxcrime.png" group-title="PORTUGAL",PT: FOX CRIME
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25033.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE" tvg-logo="https://docdog.top/Logotv/countries/portugal/foxlife.png" group-title="PORTUGAL",PT: FOX LIFE
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25034.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX MOVIES" tvg-logo="https://docdog.top/Logotv/countries/portugal/foxmovies.png" group-title="PORTUGAL",PT: FOX MOVIES
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25035.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: FUEL TV" tvg-logo="https://docdog.top/Logotv/countries/portugal/fueltv.png" group-title="PORTUGAL",PT: FUEL TV
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25036.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO" tvg-logo="https://docdog.top/Logotv/countries/portugal/globo.png" group-title="PORTUGAL",PT: GLOBO
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25038.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO NOW" tvg-logo="https://docdog.top/Logotv/countries/portugal/globonow.png" group-title="PORTUGAL",PT: GLOBO NOW
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25039.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA" tvg-logo="https://docdog.top/Logotv/countries/portugal/historia.png" group-title="PORTUGAL",PT: HISTORIA
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25040.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD" tvg-logo="https://docdog.top/Logotv/countries/portugal/hollywood.png" group-title="PORTUGAL",PT: HOLLYWOOD
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25041.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ID INVESTIGATION" tvg-logo="https://xplanetiptv.us/Logotv/countries/portugal/ID.png" group-title="PORTUGAL",PT: ID INVESTIGATION
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25042.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: JIM JAM" tvg-logo="https://docdog.top/Logotv/countries/portugal/jimjam.png" group-title="PORTUGAL",PT: JIM JAM
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25043.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: KOMBAT SPORT" tvg-logo="https://docdog.top/Logotv/countries/portugal/kombatsport.png" group-title="PORTUGAL",PT: KOMBAT SPORT
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25044.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: KURIAKOS TV" tvg-logo="https://docdog.top/Logotv/countries/portugal/kuriakostv.png" group-title="PORTUGAL",PT: KURIAKOS TV
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25045.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: MCM POP" tvg-logo="https://docdog.top/Logotv/countries/portugal/mcmpop.png" group-title="PORTUGAL",PT: MCM POP
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25046.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: MCM TUP" tvg-logo="https://docdog.top/Logotv/countries/portugal/mcmtop.png" group-title="PORTUGAL",PT: MCM TUP
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25047.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORVISION" tvg-logo="https://docdog.top/Logotv/countries/portugal/motorvision.png" group-title="PORTUGAL",PT: MOTORVISION
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25048.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: MTV PORTUGAL" tvg-logo="https://docdog.top/Logotv/countries/portugal//mtvportugal.jpg" group-title="PORTUGAL",PT: MTV PORTUGAL
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25049.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: MY CUISINE" tvg-logo="https://docdog.top/Logotv/countries/portugal//mycuisine.jpg" group-title="PORTUGAL",PT: MY CUISINE
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25050.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO" tvg-logo="https://docdog.top/Logotv/countries/portugal/natgeo.png" group-title="PORTUGAL",PT: NAT GEO
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25051.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO WILD" tvg-logo="https://docdog.top/Logotv/countries/portugal/natgeowild.png" group-title="PORTUGAL",PT: NAT GEO WILD
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25052.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: NBA TV" tvg-logo="https://docdog.top/Logotv/countries/portugal/nba.png" group-title="PORTUGAL",PT: NBA TV
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25053.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: NICK JR" tvg-logo="https://docdog.top/Logotv/countries/portugal/nickjr.png" group-title="PORTUGAL",PT: NICK JR
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25055.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: NICKELODEON" tvg-logo="https://docdog.top/Logotv/countries/portugal/nickelodeon.png" group-title="PORTUGAL",PT: NICKELODEON
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25056.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIO" tvg-logo="https://docdog.top/Logotv/countries/portugal/nosstudios.png" group-title="PORTUGAL",PT: NOS STUDIO
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25057.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA" tvg-logo="https://docdog.top/Logotv/countries/portugal/odisseia.png" group-title="PORTUGAL",PT: ODISSEIA
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25058.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA BIGGS" tvg-logo="https://docdog.top/Logotv/countries/portugal/pandabiggs.png" group-title="PORTUGAL",PT: PANDA BIGGS
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25059.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA PIGGS" tvg-logo="https://docdog.top/Logotv/countries/portugal/panda.png" group-title="PORTUGAL",PT: PANDA PIGGS
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25060.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: PFC" tvg-logo="https://docdog.top/Logotv/countries/portugal/pfc.png" group-title="PORTUGAL",PT: PFC
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25061.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL" tvg-logo="https://docdog.top/Logotv/countries/portugal/portocanal.png" group-title="PORTUGAL",PT: PORTO CANAL
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25062.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: RECORD TV" tvg-logo="https://docdog.top/Logotv/countries/portugal/recordtv.png" group-title="PORTUGAL",PT: RECORD TV
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25063.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtp1.png" group-title="PORTUGAL",PT: RTP 1
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25064.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtp2.png" group-title="PORTUGAL",PT: RTP 2
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25065.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtp3.png" group-title="PORTUGAL",PT: RTP 3
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25066.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP ACORESS" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtpacores.png" group-title="PORTUGAL",PT: RTP ACORESS
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25067.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP AFRICA" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtpafrica.png" group-title="PORTUGAL",PT: RTP AFRICA
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25068.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MADEIRA" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtpmadeira.png" group-title="PORTUGAL",PT: RTP MADEIRA
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25069.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MEMORIA" tvg-logo="https://docdog.top/Logotv/countries/portugal/rtpmemoria.png" group-title="PORTUGAL",PT: RTP MEMORIA
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25070.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP RTP MEMORIA" tvg-logo="https://xplanetiptv.us/Logotv/countries/portugal/rtp-memoria-pt" group-title="PORTUGAL",PT: RTP RTP MEMORIA
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25071.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SERIES TV" tvg-logo="https://docdog.top/Logotv/countries/portugal/series.png" group-title="PORTUGAL",PT: SERIES TV
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25072.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC" tvg-logo="https://docdog.top/Logotv/countries/portugal/sic.png" group-title="PORTUGAL",PT: SIC
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25073.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC CARAS" tvg-logo="https://docdog.top/Logotv/countries/portugal/siccaras.png" group-title="PORTUGAL",PT: SIC CARAS
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25074.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K" tvg-logo="https://docdog.top/Logotv/countries/portugal/sick.png" group-title="PORTUGAL",PT: SIC K
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25075.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC KIDS" tvg-logo="https://docdog.top/Logotv/countries/portugal/sickids.png" group-title="PORTUGAL",PT: SIC KIDS
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25076.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER" tvg-logo="https://docdog.top/Logotv/countries/portugal/sicmulher.png" group-title="PORTUGAL",PT: SIC MULHER
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25077.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS" tvg-logo="https://docdog.top/Logotv/countries/portugal/sicnoticias.png" group-title="PORTUGAL",PT: SIC NOTICIAS
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25078.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL" tvg-logo="https://docdog.top/Logotv/countries/portugal/sicradical.png" group-title="PORTUGAL",PT: SIC RADICAL
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25079.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY" tvg-logo="https://docdog.top/Logotv/countries/portugal/syfy.png" group-title="PORTUGAL",PT: SYFY
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25080.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: TLC" tvg-logo="https://docdog.top/Logotv/countries/portugal/tlc.png" group-title="PORTUGAL",PT: TLC
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25081.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV" tvg-logo="https://docdog.top/Logotv/countries/portugal/torostv.png" group-title="PORTUGAL",PT: TOROS TV
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25082.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE URBAN" tvg-logo="https://docdog.top/Logotv/countries/portugal/traceurban.png" group-title="PORTUGAL",PT: TRACE URBAN
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25083.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="https://docdog.top/Logotv/countries/portugal/travelchannel.png" group-title="PORTUGAL",PT: TRAVEL CHANNEL
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25084.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI" tvg-logo="https://docdog.top/Logotv/countries/portugal/tvi.png" group-title="PORTUGAL",PT: TVI
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25085.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24" tvg-logo="https://docdog.top/Logotv/countries/portugal/tvi24.png" group-title="PORTUGAL",PT: TVI 24
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25086.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICCAO" tvg-logo="https://docdog.top/Logotv/countries/portugal/tvificcao.png" group-title="PORTUGAL",PT: TVI FICCAO
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25087.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY" tvg-logo="https://docdog.top/Logotv/countries/portugal/tvireality.png" group-title="PORTUGAL",PT: TVI REALITY
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25088.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: VH1" tvg-logo="https://docdog.top/Logotv/countries/portugal/vh1.png" group-title="PORTUGAL",PT: VH1
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25089.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA" tvg-logo="https://docdog.top/Logotv/countries/portugal/zapviva.png" group-title="PORTUGAL",PT: ZAP VIVA
-http://bellive.top:8080/live/211664292066993009/9021664292066993/25090.ts
+#EXTINF:-1,RTP 1 PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3208
+#EXTINF:-1,RTP 1 FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/19040
+#EXTINF:-1,RTP 2 PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3209
+#EXTINF:-1,RTP 2 FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/20257
+#EXTINF:-1,SIC PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3227
+#EXTINF:-1,SIC FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/19041
+#EXTINF:-1,TVI PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3214
+#EXTINF:-1,SIC Mulher PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9467
+#EXTINF:-1,SIC Caras PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9466
+#EXTINF:-1,SIC Radical PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9468
+#EXTINF:-1,Canal Q PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9465
+#EXTINF:-1,AMC HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9487
+#EXTINF:-1,Sporting TV HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3246
+#EXTINF:-1,AXN HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3255
+#EXTINF:-1,AXN Movies HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/5551
+#EXTINF:-1,AXN White HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3242
+#EXTINF:-1,Blaze PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/21524
+#EXTINF:-1,FOX FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3232
+#EXTINF:-1,FOX Crime HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/5549
+#EXTINF:-1,FOX Comedy FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/20260
+#EXTINF:-1,FOX Life FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3233
+#EXTINF:-1,Syfy PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3226
+#EXTINF:-1,FOX Comedy PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9489
+#EXTINF:-1,TVCine Top PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/15796
+#EXTINF:-1,TVCine Top FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/5545
+#EXTINF:-1,TVCine Edition PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/15797
+#EXTINF:-1,TVCine Edition FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/5546
+#EXTINF:-1,TVCine Emotion PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/15798
+#EXTINF:-1,TVCine Emotion FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/5547
+#EXTINF:-1,TVCine Action PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/15799
+#EXTINF:-1,TVCine Action FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/5548
+#EXTINF:-1,Canal Hollywood HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3307
+#EXTINF:-1,FOX Movies PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/5550
+#EXTINF:-1,Cine Mundo PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/5544
+#EXTINF:-1,E! PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3257
+#EXTINF:-1,BBC Entertainment PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9488
+#EXTINF:-1,CBS Reality PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3215
+#EXTINF:-1,TVI Ficção PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/5542
+#EXTINF:-1,TVI Reality PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9464
+#EXTINF:-1,Bloomberg PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/19590
+#EXTINF:-1,CNN PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/19588
+#EXTINF:-1,Caça e Pesca PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/5543
+#EXTINF:-1,Eleven Sports 1 HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/23325
+#EXTINF:-1,Eleven Sports 2 HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/23320
+#EXTINF:-1,Eleven Sports 3 HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/23321
+#EXTINF:-1,Eleven Sports 4 HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/23322
+#EXTINF:-1,Eleven Sports 5 HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/23323
+#EXTINF:-1,Eleven Sports 6 FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/23324
+#EXTINF:-1,National Geographic HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3306
+#EXTINF:-1,National Geographic Wild HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/20259
+#EXTINF:-1,Discovery Channel HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3247
+#EXTINF:-1,TLC PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9496
+#EXTINF:-1,Odisseia PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3230
+#EXTINF:-1,MTV PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9478
+#EXTINF:-1,Travel Channel HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9497
+#EXTINF:-1,Nickelodeon PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3240
+#EXTINF:-1,Nick Jr. PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/19042
+#EXTINF:-1,História PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3238
+#EXTINF:-1,24 Kitchen HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3243
+#EXTINF:-1,Fashion TV PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9495
+#EXTINF:-1,Trace Urban PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3219
+#EXTINF:-1,Baby TV PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9490
+#EXTINF:-1,SIC K PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3228
+#EXTINF:-1,Disney Channel PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3310
+#EXTINF:-1,Disney Junior PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3258
+#EXTINF:-1,JimJam PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9491
+#EXTINF:-1,Cartoon Network PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/5554
+#EXTINF:-1,Panda Biggs PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/5553
+#EXTINF:-1,Canal Panda PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3239
+#EXTINF:-1,RTP Memória PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3212
+#EXTINF:-1,RTP África PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/5539
+#EXTINF:-1,RTP Madeira PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3211
+#EXTINF:-1,RTP Açores PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3210
+#EXTINF:-1,Porto Canal PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/5538
+#EXTINF:-1,TV Globo PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9471
+#EXTINF:-1,Record Europa PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3249
+#EXTINF:-1,Afro Music Channel PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3250
+#EXTINF:-1,MTV 80s PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9475
+#EXTINF:-1,TV Canção Nova PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3237
+#EXTINF:-1,RTP 3 PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3213
+#EXTINF:-1,CM TV PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3236
+#EXTINF:-1,SIC Notícias PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3229
+#EXTINF:-1,TVI HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/5537
+#EXTINF:-1,Toros TV PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/5555
+#EXTINF:-1,Sport TV + PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9499
+#EXTINF:-1,Sport TV 1 PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/7846
+#EXTINF:-1,Sport TV 1 HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3221
+#EXTINF:-1,Sport TV 1 FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/17744
+#EXTINF:-1,Sport TV 2 PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/7845
+#EXTINF:-1,Sport TV 2 FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3222
+#EXTINF:-1,Sport TV 3 PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/7844
+#EXTINF:-1,Sport TV 3 FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3223
+#EXTINF:-1,Sport TV 4 PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/7843
+#EXTINF:-1,Sport TV 4 FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3224
+#EXTINF:-1,Sport TV 5 PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/7842
+#EXTINF:-1,Sport TV + FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/19589
+#EXTINF:-1,Benfica TV 1 PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3308
+#EXTINF:-1,Benfica TV 1 HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/5541
+#EXTINF:-1,Sporting TV PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3305
+#EXTINF:-1,A Bola TV PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/5540
+#EXTINF:-1,Eurosport 1 PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/7851
+#EXTINF:-1,Eurosport 1 HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3234
+#EXTINF:-1,Eurosport 2 PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9482
+#EXTINF:-1,Motorvision TV PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/9485
+#EXTINF:-1,PFC PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3248
+#EXTINF:-1,Sport TV 5 FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/16297
+#EXTINF:-1,Caçavision PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/19627
+#EXTINF:-1,Caza y Pesca PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/19626
+#EXTINF:-1,Fuel TV PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/19625
+#EXTINF:-1,MCM pop PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/21948
+#EXTINF:-1,MCM top PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/21949
+#EXTINF:-1,Kuriakos TV FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/22974
+#EXTINF:-1,SIC Radical FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/20256
+#EXTINF:-1,MTV 00s PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/24665
+#EXTINF:-1,Dog TV FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/25172
+#EXTINF:-1,SIC Noticias FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/20258
+#EXTINF:-1,NOS Studios FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/27665
+#EXTINF:-1,AMC PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/27788
+#EXTINF:-1,AR TV Canal Parlamento PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/27789
+#EXTINF:-1,Crime + Investigation PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/27790
+#EXTINF:-1,Eurochannel PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/27792
+#EXTINF:-1,Canal Hollywood PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/27793
+#EXTINF:-1,Investigation Discovery HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/27794
+#EXTINF:-1,Kuriakos TV PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/27795
+#EXTINF:-1,Mezzo PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/27796
+#EXTINF:-1,NBA TV PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/27799
+#EXTINF:-1,Sport TV NBA FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/27801
+#EXTINF:-1,Canal 11 FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/28181
+#EXTINF:-1,RTP PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/29040
+#EXTINF:-1,TV Globo Now PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/3217
+#EXTINF:-1,Porto Canal HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/19704
+#EXTINF:-1,HBO HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/29514
+#EXTINF:-1,Thiago Ventura: POKAS [POR] [2020]
+http://cloudcdn.city:80/movie/EAFwkML2zX4537/XWlWlD638/79010.mkv
+#EXTINF:-1,Disney+ PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/79898
+#EXTINF:-1,Sport TV 6 FHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/86095
+#EXTINF:-1,Benfica TV 1 UHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/86629
+#EXTINF:-1,Eleven Sports 1 UHD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/86630
+#EXTINF:-1,Sport TV 1 UHD 4K PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/86631
+#EXTINF:-1,Panda Kids PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/90912
+#EXTINF:-1,RTP 1 HD PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/22983
+#EXTINF:-1,Euronews PT
+http://cloudcdn.city:80/EAFwkML2zX4537/XWlWlD638/95334
