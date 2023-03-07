@@ -1,205 +1,213 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1 4K+" tvg-logo="" group-title="PT : Portugal",|PT| RTP 1 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14410
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 2 4K+" tvg-logo="" group-title="PT : Portugal",|PT| RTP 2 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14411
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 3 4K+" tvg-logo="" group-title="PT : Portugal",|PT| RTP 3 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14412
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP Internacional Europa HD+" tvg-logo="" group-title="PT : Portugal",|PT| RTP Internacional Europa HD+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14375
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP Madeira" tvg-logo="" group-title="PT : Portugal",|PT| RTP Madeira
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14408
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP Acores" tvg-logo="" group-title="PT : Portugal",|PT| RTP Acores
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14409
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP Memoria" tvg-logo="" group-title="PT : Portugal",|PT| RTP Memoria
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14413
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP Africa" tvg-logo="" group-title="PT : Portugal",|PT| RTP Africa
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14414
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Trace Urban" tvg-logo="" group-title="PT : Portugal",|PT| Trace Urban
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14376
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Trace Toca" tvg-logo="" group-title="PT : Portugal",|PT| Trace Toca
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14377
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Zap Viva HD+" tvg-logo="" group-title="PT : Portugal",|PT| Zap Viva HD+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14378
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Mezzo" tvg-logo="" group-title="PT : Portugal",|PT| Mezzo
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14379
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Fine Living" tvg-logo="" group-title="PT : Portugal",|PT| Fine Living
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14390
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Cancao Nova" tvg-logo="" group-title="PT : Portugal",|PT| Cancao Nova
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14391
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Caçavision" tvg-logo="" group-title="PT : Portugal",|PT| Caçavision
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14392
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Bloomberg" tvg-logo="" group-title="PT : Portugal",|PT| Bloomberg
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14393
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Blaze" tvg-logo="" group-title="PT : Portugal",|PT| Blaze
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14394
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BBC World News" tvg-logo="" group-title="PT : Portugal",|PT| BBC World News
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14395
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BBC Entertainment" tvg-logo="" group-title="PT : Portugal",|PT| BBC Entertainment
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14396
-#EXTINF:-1 tvg-id="" tvg-name="|PT| VH1" tvg-logo="" group-title="PT : Portugal",|PT| VH1
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14397
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Toros TV" tvg-logo="" group-title="PT : Portugal",|PT| Toros TV
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14398
-#EXTINF:-1 tvg-id="" tvg-name="|PT| MTV" tvg-logo="" group-title="PT : Portugal",|PT| MTV
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14399
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FUEL TV" tvg-logo="" group-title="PT : Portugal",|PT| FUEL TV
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14400
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Afro Music" tvg-logo="" group-title="PT : Portugal",|PT| Afro Music
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14401
-#EXTINF:-1 tvg-id="" tvg-name="|PT| MCM Pop" tvg-logo="" group-title="PT : Portugal",|PT| MCM Pop
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14402
-#EXTINF:-1 tvg-id="" tvg-name="|PT| My Cuisine" tvg-logo="" group-title="PT : Portugal",|PT| My Cuisine
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14403
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV Globo Premium" tvg-logo="" group-title="PT : Portugal",|PT| TV Globo Premium
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14404
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC Caras" tvg-logo="" group-title="PT : Portugal",|PT| SIC Caras
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14405
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TCV" tvg-logo="" group-title="PT : Portugal",|PT| TCV
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14406
-#EXTINF:-1 tvg-id="" tvg-name="|PT| NOS Studios 4K+" tvg-logo="" group-title="PT : Portugal",|PT| NOS Studios 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14373
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI Ficcao" tvg-logo="" group-title="PT : Portugal",|PT| TVI Ficcao
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14407
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI 4K+" tvg-logo="" group-title="PT : Portugal",|PT| TVI 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14415
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC 4K+" tvg-logo="" group-title="PT : Portugal",|PT| SIC 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14416
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC Noticias" tvg-logo="" group-title="PT : Portugal",|PT| SIC Noticias
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14417
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC Radical" tvg-logo="" group-title="PT : Portugal",|PT| SIC Radical
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14418
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC Mulher" tvg-logo="" group-title="PT : Portugal",|PT| SIC Mulher
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14419
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Porto Canal" tvg-logo="" group-title="PT : Portugal",|PT| Porto Canal
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14420
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Globo Now" tvg-logo="" group-title="PT : Portugal",|PT| Globo Now
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14421
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Globo TV" tvg-logo="" group-title="PT : Portugal",|PT| Globo TV
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14422
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TCV Internacional" tvg-logo="" group-title="PT : Portugal",|PT| TCV Internacional
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14423
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI Reality" tvg-logo="" group-title="PT : Portugal",|PT| TVI Reality
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14424
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Discovery Channel" tvg-logo="" group-title="PT : Portugal",|PT| Discovery Channel
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14374
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Nat Geo Wild 4K+" tvg-logo="" group-title="PT : Portugal",|PT| Nat Geo Wild 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14425
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Discovery Showcase" tvg-logo="" group-title="PT : Portugal",|PT| Discovery Showcase
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14426
-#EXTINF:-1 tvg-id="" tvg-name="|PT| National Geographic 4K+" tvg-logo="" group-title="PT : Portugal",|PT| National Geographic 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14427
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Travel Channel 4K+" tvg-logo="" group-title="PT : Portugal",|PT| Travel Channel 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14428
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Historia" tvg-logo="" group-title="PT : Portugal",|PT| Historia
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14429
-#EXTINF:-1 tvg-id="" tvg-name="|PT| 24Kitchen 4K+" tvg-logo="" group-title="PT : Portugal",|PT| 24Kitchen 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14430
-#EXTINF:-1 tvg-id="" tvg-name="|PT| E! Entertainment" tvg-logo="" group-title="PT : Portugal",|PT| E! Entertainment
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14431
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CMTV 4K+" tvg-logo="" group-title="PT : Portugal",|PT| CMTV 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14432
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Odisseia" tvg-logo="" group-title="PT : Portugal",|PT| Odisseia
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14433
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CBS Reality" tvg-logo="" group-title="PT : Portugal",|PT| CBS Reality
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14434
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Canal Q" tvg-logo="" group-title="PT : Portugal",|PT| Canal Q
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14435
-#EXTINF:-1 tvg-id="" tvg-name="|PT| A Bola TV" tvg-logo="" group-title="PT : Portugal",|PT| A Bola TV
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14436
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI 24" tvg-logo="" group-title="PT : Portugal",|PT| TVI 24
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14437
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TLC" tvg-logo="" group-title="PT : Portugal",|PT| TLC
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14438
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RecordTV" tvg-logo="" group-title="PT : Portugal",|PT| RecordTV
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14440
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC Kids" tvg-logo="" group-title="PT : Portugal",|PT| SIC Kids
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14446
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Baby TV" tvg-logo="" group-title="PT : Portugal",|PT| Baby TV
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14447
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Nick Jr" tvg-logo="" group-title="PT : Portugal",|PT| Nick Jr
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14449
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Disney Channel" tvg-logo="" group-title="PT : Portugal",|PT| Disney Channel
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14451
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Disney Junior" tvg-logo="" group-title="PT : Portugal",|PT| Disney Junior
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14453
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Cartoon Network" tvg-logo="" group-title="PT : Portugal",|PT| Cartoon Network
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14454
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Canal Panda" tvg-logo="" group-title="PT : Portugal",|PT| Canal Panda
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14455
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Nickelodeon" tvg-logo="" group-title="PT : Portugal",|PT| Nickelodeon
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14457
-#EXTINF:-1 tvg-id="" tvg-name="|PT|  JimJam" tvg-logo="" group-title="PT : Portugal",|PT|  JimJam
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14460
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Panda Biggs" tvg-logo="" group-title="PT : Portugal",|PT| Panda Biggs
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14464
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Fox Crime 4K+" tvg-logo="" group-title="PT : Cinema",|PT| Fox Crime 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14478
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Fox Movies" tvg-logo="" group-title="PT : Cinema",|PT| Fox Movies
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14480
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Fox Comedy" tvg-logo="" group-title="PT : Cinema",|PT| Fox Comedy
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14484
-#EXTINF:-1 tvg-id="" tvg-name="|PT| AMC 4K+" tvg-logo="" group-title="PT : Cinema",|PT| AMC 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14485
-#EXTINF:-1 tvg-id="" tvg-name="|PT| AXN 4K+" tvg-logo="" group-title="PT : Cinema",|PT| AXN 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14486
-#EXTINF:-1 tvg-id="" tvg-name="|PT| AXN White 4K+" tvg-logo="" group-title="PT : Cinema",|PT| AXN White 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14492
-#EXTINF:-1 tvg-id="" tvg-name="|PT| AXN Black 4K+" tvg-logo="" group-title="PT : Cinema",|PT| AXN Black 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14494
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SyFy 4K+" tvg-logo="" group-title="PT : Cinema",|PT| SyFy 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14497
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV Cine 1 4K+" tvg-logo="" group-title="PT : Cinema",|PT| TV Cine 1 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14500
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV Cine 2 4K+" tvg-logo="" group-title="PT : Cinema",|PT| TV Cine 2 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14502
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV Cine 3 4K+" tvg-logo="" group-title="PT : Cinema",|PT| TV Cine 3 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14504
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV Cine 4 4K+" tvg-logo="" group-title="PT : Cinema",|PT| TV Cine 4 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14505
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Hollywood 4K+" tvg-logo="" group-title="PT : Cinema",|PT| Hollywood 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14508
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Cine Mundo" tvg-logo="" group-title="PT : Cinema",|PT| Cine Mundo
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14510
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX 4K+" tvg-logo="" group-title="PT : Cinema",|PT| FOX 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14475
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 1 4K+" tvg-logo="" group-title="PT : Sport",|PT| Sport TV 1 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14550
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 2 4K+" tvg-logo="" group-title="PT : Sport",|PT| Sport TV 2 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14551
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 3 4K+" tvg-logo="" group-title="PT : Sport",|PT| Sport TV 3 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14552
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 4 4K+" tvg-logo="" group-title="PT : Sport",|PT| Sport TV 4 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14553
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 5 4K+" tvg-logo="" group-title="PT : Sport",|PT| Sport TV 5 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14554
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 1 4K+" tvg-logo="" group-title="PT : Sport",|PT| Eleven Sports 1 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14548
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 2 4K+" tvg-logo="" group-title="PT : Sport",|PT| Eleven Sports 2 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14544
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 3 4K+" tvg-logo="" group-title="PT : Sport",|PT| Eleven Sports 3 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14537
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 4 4K+" tvg-logo="" group-title="PT : Sport",|PT| Eleven Sports 4 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14535
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 5 4K+" tvg-logo="" group-title="PT : Sport",|PT| Eleven Sports 5 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14532
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 6 4K+" tvg-logo="" group-title="PT : Sport",|PT| Eleven Sports 6 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14530
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Eurosport 1 4K+" tvg-logo="" group-title="PT : Sport",|PT| Eurosport 1 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14555
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Eurosport 2 4K+" tvg-logo="" group-title="PT : Sport",|PT| Eurosport 2 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14556
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Canal 11 HD" tvg-logo="" group-title="PT : Sport",|PT| Canal 11 HD
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14513
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV NBA" tvg-logo="" group-title="PT : Sport",|PT| Sport TV NBA
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14524
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Benfica 1 4K+" tvg-logo="" group-title="PT : Sport",|PT| Benfica 1 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14557
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Sporting TV 4K+" tvg-logo="" group-title="PT : Sport",|PT| Sporting TV 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14558
-#EXTINF:-1 tvg-id="" tvg-name="|PT| PFC" tvg-logo="" group-title="PT : Sport",|PT| PFC
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14559
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Kombat Sport" tvg-logo="" group-title="PT : Sport",|PT| Kombat Sport
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14525
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Motorvision" tvg-logo="" group-title="PT : Sport",|PT| Motorvision
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14523
+#EXTINF:-1,(PT)  TV SERIES
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15609
+#EXTINF:-1,(PT) 24 KITCHEN HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15584
+#EXTINF:-1,(PT) A BOLA TV
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15612
+#EXTINF:-1,(PT) Afro Music Channel
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15555
+#EXTINF:-1,(PT) AMC HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15616
+#EXTINF:-1,(PT) AXN Movies HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15620
+#EXTINF:-1,(PT) AXN HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15621
+#EXTINF:-1,(PT) AXN White HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15619
+#EXTINF:-1,(PT) Baby First TV
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15554
+#EXTINF:-1,(PT) BabyTV
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15553
+#EXTINF:-1,(PT) BENFICA 1
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15570
+#EXTINF:-1,(PT) Bloomberg
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15552
+#EXTINF:-1,(PT) Canal Odisseia
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15551
+#EXTINF:-1,(PT) CANAL PANDA
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15596
+#EXTINF:-1,(PT) Canal Q
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15615
+#EXTINF:-1,(PT) Cartoon Network
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15593
+#EXTINF:-1,(PT) Caça e Pesca
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15587
+#EXTINF:-1,(PT) Caçavision
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15586
+#EXTINF:-1,(PT) CBS Reality
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15608
+#EXTINF:-1,(PT) Cinemundo
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15604
+#EXTINF:-1,(PT) CINEMUNDO HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15603
+#EXTINF:-1,(PT) CMTV
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15613
+#EXTINF:-1,(PT) CMTV HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15614
+#EXTINF:-1,(PT) Crime  Investigation TV
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15585
+#EXTINF:-1,(PT) DISCOVERY CHANNEL
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15589
+#EXTINF:-1,(PT) DISCOVERY HD SHOWCASE
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15588
+#EXTINF:-1,(PT) DISNEY CHANNEL
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15594
+#EXTINF:-1,(PT) DISNEY JUNIOR
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15595
+#EXTINF:-1,(PT) Dog TV FHD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15583
+#EXTINF:-1,(PT) E! Entertainment
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15607
+#EXTINF:-1,(PT) EUROSPORT 1 HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15575
+#EXTINF:-1,(PT) Eurosport 2
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15574
+#EXTINF:-1,(PT) Fashion TV
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15550
+#EXTINF:-1,(PT) Fight Network
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15606
+#EXTINF:-1,(PT) FOX Comedy
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15622
+#EXTINF:-1,(PT) Fox Crime
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15628
+#EXTINF:-1,(PT) FOX Crime HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15629
+#EXTINF:-1,(PT) FOX HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15630
+#EXTINF:-1,(PT) FOX LIFE
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15626
+#EXTINF:-1,(PT) FOX Life HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15627
+#EXTINF:-1,(PT) FOX MOVIES
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15624
+#EXTINF:-1,(PT) FOX Movies HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15625
+#EXTINF:-1,(PT) FOX News
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15623
+#EXTINF:-1,(PT) Fuel TV
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15611
+#EXTINF:-1,(PT) Globo Portugal
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15631
+#EXTINF:-1,(PT) GLOBO PREMIUM
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15632
+#EXTINF:-1,(PT) Histoire
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15548
+#EXTINF:-1,(PT) HISTORIA
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15582
+#EXTINF:-1,(PT) Hollywood
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15602
+#EXTINF:-1,(PT) Hollywood HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15601
+#EXTINF:-1,(PT) iConcerts HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15563
+#EXTINF:-1,(PT) JimJam
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15561
+#EXTINF:-1,(PT) Kombat Sport
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15566
+#EXTINF:-1,(PT) LOCALVISAO TV HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15605
+#EXTINF:-1,(PT) MCM Pop
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15560
+#EXTINF:-1,(PT) MCM TOP
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15559
+#EXTINF:-1,(PT) MEZZO
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15547
+#EXTINF:-1,(PT) MEZZO LIVE HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15556
+#EXTINF:-1,(PT) Motors TV
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15565
+#EXTINF:-1,(PT) Motorvision
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15564
+#EXTINF:-1,(PT) MTV Portugal
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15546
+#EXTINF:-1,(PT) NAT GEO WILD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15590
+#EXTINF:-1,(PT) Nat Geo Wild HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15591
+#EXTINF:-1,(PT) National Geographic HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15592
+#EXTINF:-1,(PT) NBA TV
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15568
+#EXTINF:-1,(PT) Nickelodeon
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15545
+#EXTINF:-1,(PT) PFC Internacional
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15567
+#EXTINF:-1,(PT) PORTO CANAL
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15571
+#EXTINF:-1,(PT) Real Madrid TV
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15562
+#EXTINF:-1,(PT) RTP 1
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15647
+#EXTINF:-1,(PT) RTP 2
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15646
+#EXTINF:-1,(PT) RTP 3
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15645
+#EXTINF:-1,(PT) RTP ACORES
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15644
+#EXTINF:-1,(PT) RTP Africa
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15544
+#EXTINF:-1,(PT) RTP MADEIRA
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15643
+#EXTINF:-1,(PT) RTP MEMORIA
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15642
+#EXTINF:-1,(PT) RTPi
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15648
+#EXTINF:-1,(PT) SIC
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15641
+#EXTINF:-1,(PT) SIC Caras
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15636
+#EXTINF:-1,(PT) SIC K
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15640
+#EXTINF:-1,(PT) SIC MULHER
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15637
+#EXTINF:-1,(PT) SIC NOTICIAS
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15639
+#EXTINF:-1,(PT) SIC RADICAL
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15638
+#EXTINF:-1,(PT) SPORT TV 1 HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15580
+#EXTINF:-1,(PT) SPORT TV 2 HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15579
+#EXTINF:-1,(PT) SPORT TV 3 HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15578
+#EXTINF:-1,(PT) SPORT TV 4 HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15577
+#EXTINF:-1,(PT) SPORT TV 5 HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15576
+#EXTINF:-1,(PT) SPORTING TV
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15572
+#EXTINF:-1,(PT) SYFY
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15617
+#EXTINF:-1,(PT) TLC
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15543
+#EXTINF:-1,(PT) TOROS TV
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15573
+#EXTINF:-1,(PT) TRACE URBAN
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15542
+#EXTINF:-1,(PT) Travel Channel
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15541
+#EXTINF:-1,(PT) TV Canção Nova
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15540
+#EXTINF:-1,(PT) TV RECORD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15633
+#EXTINF:-1,(PT) TVC 1 HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15600
+#EXTINF:-1,(PT) TVC 2 HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15599
+#EXTINF:-1,(PT) TVC 3 HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15598
+#EXTINF:-1,(PT) TVC 4 HD
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15597
+#EXTINF:-1,(PT) TVI
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15635
+#EXTINF:-1,(PT) TVI 24
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15634
+#EXTINF:-1,(PT) TVI Ficção
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15618
+#EXTINF:-1,(PT) TVI Reality
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15610
+#EXTINF:-1,(PT) VH1
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15539
+#EXTINF:-1,(PT) VH1 CLASSIC
+http://moontools.me:8080/WALTERROMERO/JDbYkGPNDa/15538
