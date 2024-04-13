@@ -44,6 +44,43 @@ http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50714
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SportTVplus.pt" tvg-name="PT: SportTV + HD" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/100d2a4aad9c5e6abd77237096909ac5.png" group-title="Portugal - Desportos",PT: SportTV + HD
 http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50715
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/9fff2239f2437dd5fee490d821c22dc5.png" group-title="Portugal - Desportos",PT: ELEVEN SPORTS 1
+http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50734
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/9fff2239f2437dd5fee490d821c22dc5.png" group-title="Portugal - Desportos",PT: ELEVEN SPORTS 1 FHD
+http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50736
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/9fff2239f2437dd5fee490d821c22dc5.png" group-title="Portugal - Desportos",PT: ELEVEN SPORTS 1 HD
+http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50735
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/622ded6feacc6605aa3fb55be4e6eb9f.png" group-title="Portugal - Desportos",PT: ELEVEN SPORTS 2
+http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50738
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/622ded6feacc6605aa3fb55be4e6eb9f.png" group-title="Portugal - Desportos",PT: ELEVEN SPORTS 2 FHD
+http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50740
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/622ded6feacc6605aa3fb55be4e6eb9f.png" group-title="Portugal - Desportos",PT: ELEVEN SPORTS 2 HD
+http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50739
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/44a7318be1e63a4baf0552ea94f11a79.png" group-title="Portugal - Desportos",PT: ELEVEN SPORTS 3
+http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50742
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/44a7318be1e63a4baf0552ea94f11a79.png" group-title="Portugal - Desportos",PT: ELEVEN SPORTS 3 HD
+http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50743
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/1028607974df27db419d1a70eff17b48.png" group-title="Portugal - Desportos",PT: ELEVEN SPORTS 4
+http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50745
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/1028607974df27db419d1a70eff17b48.png" group-title="Portugal - Desportos",PT: ELEVEN SPORTS 4 HD
+http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50746
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/9bbd0e11f5e772e1f71e9c33053a60e6.png" group-title="Portugal - Desportos",PT: ELEVEN SPORTS 5
+http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50747
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/9bbd0e11f5e772e1f71e9c33053a60e6.png" group-title="Portugal - Desportos",PT: ELEVEN SPORTS 5 HD
+http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50748
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/5cdf4c55a7468756c512e6345c6d3b92.png" group-title="Portugal - Desportos",PT: ELEVEN SPORTS 6
+http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50749
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/5cdf4c55a7468756c512e6345c6d3b92.png" group-title="Portugal - Desportos",PT: ELEVEN SPORTS 6 HD
+http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50750
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.pt" tvg-name="PT: Eurosport 1" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/b820faa47330a2b299c00345c38d9801.png" group-title="Portugal - Desportos",PT: Eurosport 1
+http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50756
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.pt" tvg-name="PT: Eurosport 1 HD" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/37c905d5fde594060eca8d624cef9c0a.png" group-title="Portugal - Desportos",PT: Eurosport 1 HD
+http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50755
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.pt" tvg-name="PT: Eurosport 2" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/fcca910127e2cadc4f118a8152f606cf.png" group-title="Portugal - Desportos",PT: Eurosport 2
+http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50757
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.pt" tvg-name="PT: Eurosport 2 HD" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/fcca910127e2cadc4f118a8152f606cf.png" group-title="Portugal - Desportos",PT: Eurosport 2 HD
+http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50855
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BTV1.pt" tvg-name="PT: BTV" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/b0cbd75a88914b5542f16685e0782f52.png" group-title="Portugal - Desportos",PT: BTV
 http://trial.ifiesta.net:8080/TV-12860783703481/480545968585/50711
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BTV1.pt" tvg-name="PT: BTV FHD" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/956ac595853bb4a81c8437e09de3e829.png" group-title="Portugal - Desportos",PT: BTV FHD
