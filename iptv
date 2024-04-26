@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv1.pt" tvg-name="PT: SPORT.TV 1" tvg-logo="https://s.imgexpress.net/c36d52534cf95a75532d056da618b7f1f8d654dcadcaf93ccb62e51e4f67eaa1.png" group-title="PT - Desportos",PT: SPORT.TV 1
 http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/50717
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv1.pt" tvg-name="PT: SPORT.TV 1 FHD" tvg-logo="https://s.imgexpress.net/d58ffd852b209c7c12298454fb84876ada1b82ad48082ecdeb015997e173f6a5.png" group-title="PT - Desportos",PT: SPORT.TV 1 FHD
@@ -89,8 +90,6 @@ http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/50755
 http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/50757
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.pt" tvg-name="PT: Eurosport 2 HD" tvg-logo="https://s.imgexpress.net/aa9dad9d9567b7d820a2102583766cb9547baf0a67e8e0f2d32b3db613175a8b.png" group-title="PT - Desportos",PT: Eurosport 2 HD
 http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/50855
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NatGeo.pt" tvg-name="PT: Fashion TV" tvg-logo="https://s.imgexpress.net/c24d97048ff2374b5b47b3f199e8fa31f0e8b75f76a7e65477eda914fa3b4f78.png" group-title="PT - Entretenimento",PT: Fashion TV
-http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/50821
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fightnetworkhd.pt" tvg-name="PT: Fight Network HD" tvg-logo="https://s.imgexpress.net/be1d95f58cfef0f7ca6f118efd403175ce5f0274d68f1a9509356a7db307364d.png" group-title="PT - Desportos",PT: Fight Network HD
 http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/50873
 
@@ -144,21 +143,7 @@ http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/50285
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNB" tvg-name="BR: ESPN HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: ESPN HD
 http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/50286
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNB" tvg-name="BR: ESPN SD" tvg-logo="https://s.imgexpress.net/96fa25b02e472dd3c6557932439cc06f17e93680dc9ed81ed6b7b11b429330d0.png" group-title="BR",BR: ESPN SD
-http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/50287
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Fashion TV HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Fashion TV HD
-http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/50288
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FAMEXHD" tvg-name="BR: Film & Arts HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Film & Arts HD
-http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/50289
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FISCHTV" tvg-name="BR: Fish TV HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Fish TV HD
-http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/50290
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FISCHTV" tvg-name="BR: Fish TV SD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Fish TV SD
-http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/50291
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FNBRHD" tvg-name="BR: Food Network FHD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Food Network FHD
-http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/50292
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FNBRHD" tvg-name="BR: Food Network HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Food Network HD
-http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/50293
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FNBRHD" tvg-name="BR: Food Network SD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Food Network SD
-http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/50294
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FS2" tvg-name="BR: Fox Sports 2 FHD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Fox Sports 2 FHD
 http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/50295
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FS2" tvg-name="BR: Fox Sports 2 HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Fox Sports 2 HD
@@ -1430,6 +1415,18 @@ http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/192799
 http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/192800
 
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sky Sports",UK: Sky Sports F1
+http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/7029
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 (HEVC)" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sports (HEVC)",UK: Sky Sports F1 (HEVC)
+http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/14778
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 FHD" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sky Sports",UK: Sky Sports F1 FHD
+http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/7027
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 FHD (HEVC)" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sports (HEVC)",UK: Sky Sports F1 FHD (HEVC)
+http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/14776
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sky Sports",UK: Sky Sports F1 HD
+http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/7028
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 HD (HEVC)" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sports (HEVC)",UK: Sky Sports F1 HD (HEVC)
+http://trial.ifiesta.net:8080/TV-13092551366501/117426403338/14777
 
 
 
