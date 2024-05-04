@@ -1,39 +1,29 @@
 #EXTM3U
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv1.pt" tvg-name="PT: SPORT.TV 1" tvg-logo="https://s.imgexpress.net/c36d52534cf95a75532d056da618b7f1f8d654dcadcaf93ccb62e51e4f67eaa1.png" group-title="PT - Desportos",PT: SPORT.TV 1
-http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50717
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv1.pt" tvg-name="PT: SPORT.TV 1 FHD" tvg-logo="https://s.imgexpress.net/d58ffd852b209c7c12298454fb84876ada1b82ad48082ecdeb015997e173f6a5.png" group-title="PT - Desportos",PT: SPORT.TV 1 FHD
-http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50719
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv1.pt" tvg-name="PT: SPORT.TV 1 HD" tvg-logo="https://s.imgexpress.net/d58ffd852b209c7c12298454fb84876ada1b82ad48082ecdeb015997e173f6a5.png" group-title="PT - Desportos",PT: SPORT.TV 1 HD
-http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50718
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv2.pt" tvg-name="PT: SPORT.TV 2" tvg-logo="https://s.imgexpress.net/098e6acdc09b3c2e0abec6146d3e8288ebd03385baeccdc2ffa353c176afd487.png" group-title="PT - Desportos",PT: SPORT.TV 2
-http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50721
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv2.pt" tvg-name="PT: SPORT.TV 2 FHD" tvg-logo="https://s.imgexpress.net/c96fedc84bedbb0f79ac0a7fafdb59e4727f933762fde91f0137142e298933e0.png" group-title="PT - Desportos",PT: SPORT.TV 2 FHD
-http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50723
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv2.pt" tvg-name="PT: SPORT.TV 2 HD" tvg-logo="https://s.imgexpress.net/c96fedc84bedbb0f79ac0a7fafdb59e4727f933762fde91f0137142e298933e0.png" group-title="PT - Desportos",PT: SPORT.TV 2 HD
-http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50722
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv3.pt" tvg-name="PT: SPORT.TV 3" tvg-logo="https://s.imgexpress.net/dc8c861c960897b2e168056ff7cfcc3cf0b37dea5084644bebfa8247f0bb81a6.png" group-title="PT - Desportos",PT: SPORT.TV 3
-http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50724
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv3.pt" tvg-name="PT: SPORT.TV 3 FHD" tvg-logo="https://s.imgexpress.net/808061eb16c2f1d8bcbbf457897c9353871c2f1df7683ff5d85822857f96ab96.png" group-title="PT - Desportos",PT: SPORT.TV 3 FHD
-http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50726
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv3.pt" tvg-name="PT: SPORT.TV 3 HD" tvg-logo="https://s.imgexpress.net/808061eb16c2f1d8bcbbf457897c9353871c2f1df7683ff5d85822857f96ab96.png" group-title="PT - Desportos",PT: SPORT.TV 3 HD
-http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50725
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv4.pt" tvg-name="PT: SPORT.TV 4" tvg-logo="https://s.imgexpress.net/825ac58cbd2090261b515d3b907682486c2b52c7827f239ea3102e58d166c0f3.png" group-title="PT - Desportos",PT: SPORT.TV 4
-http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50728
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv4.pt" tvg-name="PT: SPORT.TV 4 FHD" tvg-logo="https://s.imgexpress.net/76fd2262d6f71d81b214ea014b5bf26010a3570af549f7fd61a37f607e4c0467.png" group-title="PT - Desportos",PT: SPORT.TV 4 FHD
-http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50730
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv4.pt" tvg-name="PT: SPORT.TV 4 HD" tvg-logo="https://s.imgexpress.net/76fd2262d6f71d81b214ea014b5bf26010a3570af549f7fd61a37f607e4c0467.png" group-title="PT - Desportos",PT: SPORT.TV 4 HD
-http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50729
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv5.pt" tvg-name="PT: SPORT.TV 5" tvg-logo="https://s.imgexpress.net/7f815eda42c3651e4e3a8669dd873be3d578be048926a556af4a1c8cf69b9cd4.png" group-title="PT - Desportos",PT: SPORT.TV 5
-http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50731
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv5.pt" tvg-name="PT: SPORT.TV 5 FHD" tvg-logo="https://s.imgexpress.net/45e0c8cf219ccf4784dd758f66989aa6166d591aab6454fdb15d44b342927222.png" group-title="PT - Desportos",PT: SPORT.TV 5 FHD
-http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50733
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 HD" tvg-logo="https://s.imgexpress.net/45e0c8cf219ccf4784dd758f66989aa6166d591aab6454fdb15d44b342927222.png" group-title="PT - Desportos",PT: SPORT TV 5 HD
-http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50732
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv6.pt" tvg-name="PT: SPORT.TV 6 FHD" tvg-logo="https://s.imgexpress.net/ec006a393d7b86699e0bff30b85a801d47c0007f7a7e78f4a42a1fffd8df5bf5.png" group-title="PT - Desportos",PT: SPORT.TV 6 FHD
-http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50914
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttvnba.pt" tvg-name="PT: SPORT.TV NBA FHD" tvg-logo="https://s.imgexpress.net/4b454b73635e97d191e1f3cb765c2f96701d50128cbf9c7416a92ad00a48b644.png" group-title="PT - Desportos",PT: SPORT.TV NBA FHD
-http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50751
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sp0rt TV 1" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv1hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 1
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/49069
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sp0rt TV 1 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv1hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 1 HD
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/49063
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: Sp0rt TV 2" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv2hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 2
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/49070
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: Sp0rt TV 2 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv2hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 2 HD
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/49064
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: Sp0rt TV 3" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv3hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 3
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/49071
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: Sp0rt TV 3 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv3hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 3 HD
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/49065
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sp0rt TV 4" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv4hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 4
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/49072
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sp0rt TV 4 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv4hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 4 HD
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/49066
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sp0rt TV 5" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv5hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 5
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/49073
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sp0rt TV 5 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv5hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 5 HD
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/49067
+#EXTINF:-1 tvg-ID="sporttv6.pt" tvg-name="PT: Sp0rt TV 6" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv6hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 6
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/49074
+#EXTINF:-1 tvg-ID="sporttv6.pt" tvg-name="PT: Sp0rt TV 6 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv6hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 6 HD
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/49068
 
 #EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="PT: Eleven Sp0rts 1" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts1.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 1
 http:/yz:80/2RDEZJ3869/owBb157P8o/49076
@@ -80,6 +70,39 @@ http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/9699
 #EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK: Sky Sports F1 HD 50FPS" tvg-logo="http://filedb.me/picons/united-kingdom/sky-sports-f1-hz-uk.png" group-title="U.K - Sky Sports",UK: Sky Sports F1 HD 50FPS
 http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/52325
 
+#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="UK: Channel 4" tvg-logo="http://filedb.me/picons/united-kingdom/channel-4-uk.png" group-title="U.K - Entertainment",UK: Channel 4
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/6987
+#EXTINF:-1 tvg-ID="channel4plus1.uk" tvg-name="UK: Channel 4 +1" tvg-logo="http://filedb.me/picons/united-kingdom/channel-4-plus-uk.png" group-title="U.K - Entertainment",UK: Channel 4 +1
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/34236
+#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="UK: Channel 4 HD" tvg-logo="http://filedb.me/picons/united-kingdom/channel-4-uk.png" group-title="U.K - Entertainment",UK: Channel 4 HD
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/13319
+#EXTINF:-1 tvg-ID="channel4plus1.uk" tvg-name="UK: Channel 4 London +1" tvg-logo="http://filedb.me/picons/united-kingdom/channel-4-uk.png" group-title="U.K - Entertainment",UK: Channel 4 London +1
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/10731
+#EXTINF:-1 tvg-ID="channel4plus1.uk" tvg-name="UK: Channel 4 North +1" tvg-logo="http://filedb.me/picons/united-kingdom/channel-4-plus-uk.png" group-title="U.K - Entertainment",UK: Channel 4 North +1
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/24939
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Channel 4 Northern Ireland" tvg-logo="" group-title="Ireland",UK: Channel 4 Northern Ireland
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/59347
+#EXTINF:-1 tvg-ID="channel4plus1.uk" tvg-name="UK: Channel 4 Scotland +1" tvg-logo="http://filedb.me/picons/united-kingdom/channel-4-plus-uk.png" group-title="U.K - Entertainment",UK: Channel 4 Scotland +1
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/24940
+#EXTINF:-1 tvg-ID="channel4plus1.uk" tvg-name="UK: Channel 4 South & East +1" tvg-logo="http://filedb.me/picons/united-kingdom/channel-4-plus-uk.png" group-title="U.K - Entertainment",UK: Channel 4 South & East +1
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/24941
+
+EXTINF:-1 tvg-ID="espn.us" tvg-name="USA: ESPN" tvg-logo="http://filedb.me/picons/united-states/espn-us.png" group-title="U.S.A - Sports (ESPN)",USA: ESPN
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/7325
+#EXTINF:-1 tvg-ID="espn2.us" tvg-name="USA: ESPN 2" tvg-logo="http://filedb.me/picons/united-states/espn-2-us.png" group-title="U.S.A - Sports (ESPN)",USA: ESPN 2
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/7326
+
+#EXTINF:-1 tvg-ID="tsn1.ca" tvg-name="CA: TSN 1" tvg-logo="" group-title="Canada - Sports",CA: TSN 1
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/17031
+#EXTINF:-1 tvg-ID="tsn2.ca" tvg-name="CA: TSN 2" tvg-logo="" group-title="Canada - Sports",CA: TSN 2
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/17030
+#EXTINF:-1 tvg-ID="tsn3.ca" tvg-name="CA: TSN 3" tvg-logo="" group-title="Canada - Sports",CA: TSN 3
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/17029
+#EXTINF:-1 tvg-ID="tsn4.ca" tvg-name="CA: TSN 4" tvg-logo="" group-title="Canada - Sports",CA: TSN 4
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/17028
+#EXTINF:-1 tvg-ID="tsn5.ca" tvg-name="CA: TSN 5" tvg-logo="" group-title="Canada - Sports",CA: TSN 5
+http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/17027
+
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Band Sports " tvg-logo="" group-title="Brazil",BR: Band Sports 
 http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/54730
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Band Sports HD" tvg-logo="" group-title="Brazil",BR: Band Sports HD
@@ -110,30 +133,6 @@ http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/45351
 #EXTINF:-1 tvg-ID="" tvg-name="ES: DAZN Laliga HD" tvg-logo="" group-title="ES - Deportes",ES: DAZN Laliga HD
 http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/45745
 
-#EXTINF:-1 tvg-ID="espn.us" tvg-name="USA: ESPN" tvg-logo="http://filedb.me/picons/united-states/espn-us.png" group-title="U.S.A - Sports (ESPN)",USA: ESPN
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/7325
-#EXTINF:-1 tvg-ID="espn2.us" tvg-name="USA: ESPN 2" tvg-logo="http://filedb.me/picons/united-states/espn-2-us.png" group-title="U.S.A - Sports (ESPN)",USA: ESPN 2
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/7326
-#EXTINF:-1 tvg-ID="" tvg-name="USA: ESPN Bases Loaded (only during live games)" tvg-logo="http://filedb.me/picons/united-states/espn-bases-loaded-us.png" group-title="U.S.A - Sports (ESPN)",USA: ESPN Bases Loaded (only during live games)
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/27289
-#EXTINF:-1 tvg-ID="espncollegeextra1.us" tvg-name="USA: ESPN College Extra 1" tvg-logo="http://filedb.me/picons/united-states/espn-college-extra-us.png" group-title="U.S.A - Sports (ESPN)",USA: ESPN College Extra 1
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/27290
-#EXTINF:-1 tvg-ID="espncollegeextra2.us" tvg-name="USA: ESPN College Extra 2" tvg-logo="http://filedb.me/picons/united-states/espn-college-extra-us.png" group-title="U.S.A - Sports (ESPN)",USA: ESPN College Extra 2
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/27291
-#EXTINF:-1 tvg-ID="espncollegeextra3.us" tvg-name="USA: ESPN College Extra 3" tvg-logo="http://filedb.me/picons/united-states/espn-college-extra-us.png" group-title="U.S.A - Sports (ESPN)",USA: ESPN College Extra 3
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/27292
-#EXTINF:-1 tvg-ID="espncollegeextra4.us" tvg-name="USA: ESPN College Extra 4" tvg-logo="http://filedb.me/picons/united-states/espn-college-extra-us.png" group-title="U.S.A - Sports (ESPN)",USA: ESPN College Extra 4
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/27293
-#EXTINF:-1 tvg-ID="espncollegeextra5.us" tvg-name="USA: ESPN College Extra 5" tvg-logo="http://filedb.me/picons/united-states/espn-college-extra-us.png" group-title="U.S.A - Sports (ESPN)",USA: ESPN College Extra 5
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/27294
-#EXTINF:-1 tvg-ID="espncollegeextra6.us" tvg-name="USA: ESPN College Extra 6" tvg-logo="http://filedb.me/picons/united-states/espn-college-extra-us.png" group-title="U.S.A - Sports (ESPN)",USA: ESPN College Extra 6
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/27295
-#EXTINF:-1 tvg-ID="espncollegeextra7.us" tvg-name="USA: ESPN College Extra 7" tvg-logo="http://filedb.me/picons/united-states/espn-college-extra-us.png" group-title="U.S.A - Sports (ESPN)",USA: ESPN College Extra 7
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/27296
-#EXTINF:-1 tvg-ID="espncollegeextra8.us" tvg-name="USA: ESPN College Extra 8" tvg-logo="http://filedb.me/picons/united-states/espn-college-extra-us.png" group-title="U.S.A - Sports (ESPN)",USA: ESPN College Extra 8
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/27297
-#EXTINF:-1 tvg-ID="espndeportes.us" tvg-name="USA: ESPN Deportes" tvg-logo="http://filedb.me/picons/united-states/espn-deportes-us.png" group-title="U.S.A - Sports (ESPN)",USA: ESPN Deportes
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/34685
 
 #EXTINF:-1 tvg-ID="" tvg-name="USA: ABC" tvg-logo="http://filedb.me/picons/united-states/abc-us.png" group-title="U.S.A - ABC",USA: ABC
 http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/27245
@@ -193,48 +192,6 @@ http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/34439
 http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/34440
 #EXTINF:-1 tvg-ID="abcwzvn.us" tvg-name="USA: ABC (WZVN) Fort Myers Florida" tvg-logo="http://filedb.me/picons/united-states/abc-7-wzvn-us.png" group-title="U.S.A - ABC",USA: ABC (WZVN) Fort Myers Florida
 http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/34441
-#EXTINF:-1 tvg-ID="abceastern.us" tvg-name="USA: ABC East" tvg-logo="http://filedb.me/picons/united-states/abc-us.png" group-title="U.S.A - ABC",USA: ABC East
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/16763
-#EXTINF:-1 tvg-ID="abcnewslive.us" tvg-name="USA: ABC News" tvg-logo="http://filedb.me/picons/united-states/abc-news-us.png" group-title="U.S.A - ABC",USA: ABC News
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/5783
-#EXTINF:-1 tvg-ID="abcwabc.us" tvg-name="USA: ABC NY" tvg-logo="http://filedb.me/picons/united-states/abc-7-wabc-us.png" group-title="U.S.A - ABC",USA: ABC NY
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/12109
-
-#EXTINF:-1 tvg-ID="tsn1.ca" tvg-name="CA: TSN 1" tvg-logo="" group-title="Canada - Sports",CA: TSN 1
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/17031
-#EXTINF:-1 tvg-ID="tsn2.ca" tvg-name="CA: TSN 2" tvg-logo="" group-title="Canada - Sports",CA: TSN 2
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/17030
-#EXTINF:-1 tvg-ID="tsn3.ca" tvg-name="CA: TSN 3" tvg-logo="" group-title="Canada - Sports",CA: TSN 3
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/17029
-#EXTINF:-1 tvg-ID="tsn4.ca" tvg-name="CA: TSN 4" tvg-logo="" group-title="Canada - Sports",CA: TSN 4
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/17028
-#EXTINF:-1 tvg-ID="tsn5.ca" tvg-name="CA: TSN 5" tvg-logo="" group-title="Canada - Sports",CA: TSN 5
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/17027
-
-#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="UK: Channel 4" tvg-logo="http://filedb.me/picons/united-kingdom/channel-4-uk.png" group-title="U.K - Entertainment",UK: Channel 4
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/6987
-#EXTINF:-1 tvg-ID="channel4plus1.uk" tvg-name="UK: Channel 4 +1" tvg-logo="http://filedb.me/picons/united-kingdom/channel-4-plus-uk.png" group-title="U.K - Entertainment",UK: Channel 4 +1
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/34236
-#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="UK: Channel 4 HD" tvg-logo="http://filedb.me/picons/united-kingdom/channel-4-uk.png" group-title="U.K - Entertainment",UK: Channel 4 HD
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/13319
-#EXTINF:-1 tvg-ID="channel4plus1.uk" tvg-name="UK: Channel 4 London +1" tvg-logo="http://filedb.me/picons/united-kingdom/channel-4-uk.png" group-title="U.K - Entertainment",UK: Channel 4 London +1
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/10731
-#EXTINF:-1 tvg-ID="channel4plus1.uk" tvg-name="UK: Channel 4 North +1" tvg-logo="http://filedb.me/picons/united-kingdom/channel-4-plus-uk.png" group-title="U.K - Entertainment",UK: Channel 4 North +1
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/24939
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Channel 4 Northern Ireland" tvg-logo="" group-title="Ireland",UK: Channel 4 Northern Ireland
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/59347
-#EXTINF:-1 tvg-ID="channel4plus1.uk" tvg-name="UK: Channel 4 Scotland +1" tvg-logo="http://filedb.me/picons/united-kingdom/channel-4-plus-uk.png" group-title="U.K - Entertainment",UK: Channel 4 Scotland +1
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/24940
-#EXTINF:-1 tvg-ID="channel4plus1.uk" tvg-name="UK: Channel 4 South & East +1" tvg-logo="http://filedb.me/picons/united-kingdom/channel-4-plus-uk.png" group-title="U.K - Entertainment",UK: Channel 4 South & East +1
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/24941
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="BG: Diema Sport" tvg-logo="" group-title="Bulgaria",BG: Diema Sport
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/64226
-#EXTINF:-1 tvg-ID="" tvg-name="BG: Diema Sport 3" tvg-logo="" group-title="Bulgaria",BG: Diema Sport 3
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/64225
-#EXTINF:-1 tvg-ID="" tvg-name="BG: DIEMA SPORT 2" tvg-logo="" group-title="Bulgaria",BG: DIEMA SPORT 2
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/64224
 
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Babes TV HD" tvg-logo="" group-title="Adult",XXX: Babes TV HD
 http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/24448
@@ -312,8 +269,6 @@ http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/24483
 http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/24484
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Meiden Van Holland Hard" tvg-logo="" group-title="Adult",XXX: Meiden Van Holland Hard
 http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/24485
-#EXTINF:-1 tvg-ID="" tvg-name="ARG: Miami TV" tvg-logo="" group-title="Argentina",ARG: Miami TV
-http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/64712
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Milf TV" tvg-logo="" group-title="Adult",XXX: Milf TV
 http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/24486
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Net XX" tvg-logo="" group-title="Adult",XXX: Net XX
@@ -428,7 +383,3 @@ http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/24539
 http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/24540
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Zest TV" tvg-logo="" group-title="Adult",XXX: Zest TV
 http://s1.shortdns.xyz:80/2RDEZJ3869/owBb157P8o/24541
-
-
-
-
