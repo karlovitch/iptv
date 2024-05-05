@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv1.pt" tvg-name="PT: SPORT.TV 1" tvg-logo="https://s.imgexpress.net/c36d52534cf95a75532d056da618b7f1f8d654dcadcaf93ccb62e51e4f67eaa1.png" group-title="PT - Desportos",PT: SPORT.TV 1
 http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50717
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv1.pt" tvg-name="PT: SPORT.TV 1 FHD" tvg-logo="https://s.imgexpress.net/d58ffd852b209c7c12298454fb84876ada1b82ad48082ecdeb015997e173f6a5.png" group-title="PT - Desportos",PT: SPORT.TV 1 FHD
@@ -84,6 +85,118 @@ http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50153
 http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50154
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BANDSP" tvg-name="BR: Band Sports SD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Band Sports SD
 http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50155
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Fórmula 1 TV" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Fórmula 1 TV
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo Anhanguera Goiania HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo Anhanguera Goiania HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50305
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo Brasilia HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo Brasilia HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50306
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo Centro América Cuiaba HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo Centro América Cuiaba HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50307
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo EPTV Araraquara HD" tvg-logo="https://s.imgexpress.net/c1fb181d90531fb8f0e58dab0fdaab4e697e09bff22c1e9ee362bbf19d7b5541.png" group-title="BR",BR: Globo EPTV Araraquara HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50308
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo EPTV Campinas HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo EPTV Campinas HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50309
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo EPTV Campinas SD" tvg-logo="https://s.imgexpress.net/c1fb181d90531fb8f0e58dab0fdaab4e697e09bff22c1e9ee362bbf19d7b5541.png" group-title="BR",BR: Globo EPTV Campinas SD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50310
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo EPTV Ribeirao Preto HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo EPTV Ribeirao Preto HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50311
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo EPTV São Carlos HD" tvg-logo="https://s.imgexpress.net/c1fb181d90531fb8f0e58dab0fdaab4e697e09bff22c1e9ee362bbf19d7b5541.png" group-title="BR",BR: Globo EPTV São Carlos HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50312
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo InterTV Alto Litoral HD" tvg-logo="https://s.imgexpress.net/c1fb181d90531fb8f0e58dab0fdaab4e697e09bff22c1e9ee362bbf19d7b5541.png" group-title="BR",BR: Globo InterTV Alto Litoral HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50313
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo InterTV Cabugi RN HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo InterTV Cabugi RN HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50314
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo InterTV Cabugi RN SD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo InterTV Cabugi RN SD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50315
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo InterTV Serra Mar HD" tvg-logo="https://s.imgexpress.net/c1fb181d90531fb8f0e58dab0fdaab4e697e09bff22c1e9ee362bbf19d7b5541.png" group-title="BR",BR: Globo InterTV Serra Mar HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50316
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo Minas HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo Minas HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50317
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo Minas SD" tvg-logo="https://s.imgexpress.net/c1fb181d90531fb8f0e58dab0fdaab4e697e09bff22c1e9ee362bbf19d7b5541.png" group-title="BR",BR: Globo Minas SD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50318
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="GLN" tvg-name="BR: Globo News FHD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo News FHD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50319
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="GLN" tvg-name="BR: Globo News HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo News HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50320
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="GLN" tvg-name="BR: Globo News SD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo News SD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50321
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="GLBRCFE" tvg-name="BR: Globo Nordeste FHD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo Nordeste FHD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50322
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="GLBRCFE" tvg-name="BR: Globo Nordeste HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo Nordeste HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50323
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="GLBRCFE" tvg-name="BR: Globo Nordeste SD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo Nordeste SD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50324
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo NSC Blumenau HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo NSC Blumenau HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50325
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo NSC Centro Oeste HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo NSC Centro Oeste HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50326
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Anhanguera Rio Verde HD" tvg-logo="https://s.imgexpress.net/c1fb181d90531fb8f0e58dab0fdaab4e697e09bff22c1e9ee362bbf19d7b5541.png" group-title="BR",BR: Globo TV Anhanguera Rio Verde HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50358
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Bahia FHD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Bahia FHD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50359
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Bahia HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Bahia HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50360
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Bahia SD" tvg-logo="https://s.imgexpress.net/c1fb181d90531fb8f0e58dab0fdaab4e697e09bff22c1e9ee362bbf19d7b5541.png" group-title="BR",BR: Globo TV Bahia SD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50361
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Cabo Branco HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Cabo Branco HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50362
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Cabo Branco SD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Cabo Branco SD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50363
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Caruaru (Asa Branca) HD" tvg-logo="https://s.imgexpress.net/c1fb181d90531fb8f0e58dab0fdaab4e697e09bff22c1e9ee362bbf19d7b5541.png" group-title="BR",BR: Globo TV Caruaru (Asa Branca) HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50364
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Clube Teresina HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Clube Teresina HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50365
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Clube Teresina SD" tvg-logo="https://s.imgexpress.net/c1fb181d90531fb8f0e58dab0fdaab4e697e09bff22c1e9ee362bbf19d7b5541.png" group-title="BR",BR: Globo TV Clube Teresina SD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50366
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Diario HD" tvg-logo="https://s.imgexpress.net/c1fb181d90531fb8f0e58dab0fdaab4e697e09bff22c1e9ee362bbf19d7b5541.png" group-title="BR",BR: Globo TV Diario HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50367
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Fronteira Paulista HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Fronteira Paulista HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50368
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Fronteira Paulista SD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Fronteira Paulista SD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50369
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Gazeta Norte HD" tvg-logo="https://s.imgexpress.net/c1fb181d90531fb8f0e58dab0fdaab4e697e09bff22c1e9ee362bbf19d7b5541.png" group-title="BR",BR: Globo TV Gazeta Norte HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50370
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Gazeta Sul ES HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Gazeta Sul ES HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50371
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Gazeta Vitória HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Gazeta Vitória HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50372
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Integracao Juiz de Fora SD" tvg-logo="https://s.imgexpress.net/c1fb181d90531fb8f0e58dab0fdaab4e697e09bff22c1e9ee362bbf19d7b5541.png" group-title="BR",BR: Globo TV Integracao Juiz de Fora SD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50373
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Integração Araxa SD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Integração Araxa SD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50374
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Integração Uberaba HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Integração Uberaba HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50375
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Itapetininga SD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Itapetininga SD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50376
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Liberal Belém HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Liberal Belém HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50377
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Mirante HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Mirante HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50378
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Morena HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Morena HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50379
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Nacional HD" tvg-logo="https://s.imgexpress.net/c1fb181d90531fb8f0e58dab0fdaab4e697e09bff22c1e9ee362bbf19d7b5541.png" group-title="BR",BR: Globo TV Nacional HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50380
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Rio Sul HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Rio Sul HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50381
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Sergipe HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Sergipe HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50382
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Tem Bauru HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Tem Bauru HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50383
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Tem Rio Preto HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Tem Rio Preto HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50384
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Tem Sorocaba HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Tem Sorocaba HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50385
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Tribuna Santos HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Tribuna Santos HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50386
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Tribuna Santos SD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Tribuna Santos SD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50387
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Vanguarda São José dos Campos HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Vanguarda São José dos Campos HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50388
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Vanguarda Taubaté HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Vanguarda Taubaté HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50389
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: Globo TV Verdes Mares Fortaleza HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Globo TV Verdes Mares Fortaleza HD
+http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/50390
+
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sky Sports",UK: Sky Sports F1
 http://trial.ifiesta.net:8080/TV-13239746903622/401162387801/7029
