@@ -1,1010 +1,617 @@
 #EXTM3U
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv1.pt" tvg-name="PT: SPORT.TV 1" tvg-logo="https://s.imgexpress.net/c36d52534cf95a75532d056da618b7f1f8d654dcadcaf93ccb62e51e4f67eaa1.png" group-title="PT - Desportos",PT: SPORT.TV 1
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50717
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv1.pt" tvg-name="PT: SPORT.TV 1 FHD" tvg-logo="https://s.imgexpress.net/d58ffd852b209c7c12298454fb84876ada1b82ad48082ecdeb015997e173f6a5.png" group-title="PT - Desportos",PT: SPORT.TV 1 FHD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50719
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv1.pt" tvg-name="PT: SPORT.TV 1 HD" tvg-logo="https://s.imgexpress.net/d58ffd852b209c7c12298454fb84876ada1b82ad48082ecdeb015997e173f6a5.png" group-title="PT - Desportos",PT: SPORT.TV 1 HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50718
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv2.pt" tvg-name="PT: SPORT.TV 2" tvg-logo="https://s.imgexpress.net/098e6acdc09b3c2e0abec6146d3e8288ebd03385baeccdc2ffa353c176afd487.png" group-title="PT - Desportos",PT: SPORT.TV 2
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50721
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv2.pt" tvg-name="PT: SPORT.TV 2 FHD" tvg-logo="https://s.imgexpress.net/c96fedc84bedbb0f79ac0a7fafdb59e4727f933762fde91f0137142e298933e0.png" group-title="PT - Desportos",PT: SPORT.TV 2 FHD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50723
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv2.pt" tvg-name="PT: SPORT.TV 2 HD" tvg-logo="https://s.imgexpress.net/c96fedc84bedbb0f79ac0a7fafdb59e4727f933762fde91f0137142e298933e0.png" group-title="PT - Desportos",PT: SPORT.TV 2 HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50722
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv3.pt" tvg-name="PT: SPORT.TV 3" tvg-logo="https://s.imgexpress.net/dc8c861c960897b2e168056ff7cfcc3cf0b37dea5084644bebfa8247f0bb81a6.png" group-title="PT - Desportos",PT: SPORT.TV 3
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50724
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv3.pt" tvg-name="PT: SPORT.TV 3 FHD" tvg-logo="https://s.imgexpress.net/808061eb16c2f1d8bcbbf457897c9353871c2f1df7683ff5d85822857f96ab96.png" group-title="PT - Desportos",PT: SPORT.TV 3 FHD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50726
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv3.pt" tvg-name="PT: SPORT.TV 3 HD" tvg-logo="https://s.imgexpress.net/808061eb16c2f1d8bcbbf457897c9353871c2f1df7683ff5d85822857f96ab96.png" group-title="PT - Desportos",PT: SPORT.TV 3 HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50725
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv4.pt" tvg-name="PT: SPORT.TV 4" tvg-logo="https://s.imgexpress.net/825ac58cbd2090261b515d3b907682486c2b52c7827f239ea3102e58d166c0f3.png" group-title="PT - Desportos",PT: SPORT.TV 4
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50728
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv4.pt" tvg-name="PT: SPORT.TV 4 FHD" tvg-logo="https://s.imgexpress.net/76fd2262d6f71d81b214ea014b5bf26010a3570af549f7fd61a37f607e4c0467.png" group-title="PT - Desportos",PT: SPORT.TV 4 FHD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50730
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv4.pt" tvg-name="PT: SPORT.TV 4 HD" tvg-logo="https://s.imgexpress.net/76fd2262d6f71d81b214ea014b5bf26010a3570af549f7fd61a37f607e4c0467.png" group-title="PT - Desportos",PT: SPORT.TV 4 HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50729
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv5.pt" tvg-name="PT: SPORT.TV 5" tvg-logo="https://s.imgexpress.net/7f815eda42c3651e4e3a8669dd873be3d578be048926a556af4a1c8cf69b9cd4.png" group-title="PT - Desportos",PT: SPORT.TV 5
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50731
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv5.pt" tvg-name="PT: SPORT.TV 5 FHD" tvg-logo="https://s.imgexpress.net/45e0c8cf219ccf4784dd758f66989aa6166d591aab6454fdb15d44b342927222.png" group-title="PT - Desportos",PT: SPORT.TV 5 FHD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50733
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 HD" tvg-logo="https://s.imgexpress.net/45e0c8cf219ccf4784dd758f66989aa6166d591aab6454fdb15d44b342927222.png" group-title="PT - Desportos",PT: SPORT TV 5 HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50732
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv6.pt" tvg-name="PT: SPORT.TV 6 FHD" tvg-logo="https://s.imgexpress.net/ec006a393d7b86699e0bff30b85a801d47c0007f7a7e78f4a42a1fffd8df5bf5.png" group-title="PT - Desportos",PT: SPORT.TV 6 FHD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50914
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttvnba.pt" tvg-name="PT: SPORT.TV NBA FHD" tvg-logo="https://s.imgexpress.net/4b454b73635e97d191e1f3cb765c2f96701d50128cbf9c7416a92ad00a48b644.png" group-title="PT - Desportos",PT: SPORT.TV NBA FHD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50751
-
 #EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sp0rt TV 1" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv1hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 1
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49069
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49069
 #EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sp0rt TV 1 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv1hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 1 HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49063
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49063
 #EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: Sp0rt TV 2" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv2hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 2
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49070
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49070
 #EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: Sp0rt TV 2 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv2hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 2 HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49064
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49064
 #EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: Sp0rt TV 3" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv3hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 3
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49071
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49071
 #EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: Sp0rt TV 3 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv3hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 3 HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49065
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49065
 #EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sp0rt TV 4" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv4hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 4
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49072
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49072
 #EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sp0rt TV 4 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv4hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 4 HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49066
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49066
 #EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sp0rt TV 5" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv5hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 5
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49073
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49073
 #EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sp0rt TV 5 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv5hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 5 HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49067
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49067
 #EXTINF:-1 tvg-ID="sporttv6.pt" tvg-name="PT: Sp0rt TV 6" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv6hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 6
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49074
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49074
 #EXTINF:-1 tvg-ID="sporttv6.pt" tvg-name="PT: Sp0rt TV 6 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv6hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 6 HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49068
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49068
 
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv1.pt" tvg-name="PT: SPORT.TV 1" tvg-logo="https://s.imgexpress.net/c36d52534cf95a75532d056da618b7f1f8d654dcadcaf93ccb62e51e4f67eaa1.png" group-title="PT - Desportos",PT: SPORT.TV 1
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50717
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv1.pt" tvg-name="PT: SPORT.TV 1 FHD" tvg-logo="https://s.imgexpress.net/d58ffd852b209c7c12298454fb84876ada1b82ad48082ecdeb015997e173f6a5.png" group-title="PT - Desportos",PT: SPORT.TV 1 FHD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50719
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv1.pt" tvg-name="PT: SPORT.TV 1 HD" tvg-logo="https://s.imgexpress.net/d58ffd852b209c7c12298454fb84876ada1b82ad48082ecdeb015997e173f6a5.png" group-title="PT - Desportos",PT: SPORT.TV 1 HD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50718
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv2.pt" tvg-name="PT: SPORT.TV 2" tvg-logo="https://s.imgexpress.net/098e6acdc09b3c2e0abec6146d3e8288ebd03385baeccdc2ffa353c176afd487.png" group-title="PT - Desportos",PT: SPORT.TV 2
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50721
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv2.pt" tvg-name="PT: SPORT.TV 2 FHD" tvg-logo="https://s.imgexpress.net/c96fedc84bedbb0f79ac0a7fafdb59e4727f933762fde91f0137142e298933e0.png" group-title="PT - Desportos",PT: SPORT.TV 2 FHD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50723
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv2.pt" tvg-name="PT: SPORT.TV 2 HD" tvg-logo="https://s.imgexpress.net/c96fedc84bedbb0f79ac0a7fafdb59e4727f933762fde91f0137142e298933e0.png" group-title="PT - Desportos",PT: SPORT.TV 2 HD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50722
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv3.pt" tvg-name="PT: SPORT.TV 3" tvg-logo="https://s.imgexpress.net/dc8c861c960897b2e168056ff7cfcc3cf0b37dea5084644bebfa8247f0bb81a6.png" group-title="PT - Desportos",PT: SPORT.TV 3
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50724
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv3.pt" tvg-name="PT: SPORT.TV 3 FHD" tvg-logo="https://s.imgexpress.net/808061eb16c2f1d8bcbbf457897c9353871c2f1df7683ff5d85822857f96ab96.png" group-title="PT - Desportos",PT: SPORT.TV 3 FHD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50726
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv3.pt" tvg-name="PT: SPORT.TV 3 HD" tvg-logo="https://s.imgexpress.net/808061eb16c2f1d8bcbbf457897c9353871c2f1df7683ff5d85822857f96ab96.png" group-title="PT - Desportos",PT: SPORT.TV 3 HD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50725
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv4.pt" tvg-name="PT: SPORT.TV 4" tvg-logo="https://s.imgexpress.net/825ac58cbd2090261b515d3b907682486c2b52c7827f239ea3102e58d166c0f3.png" group-title="PT - Desportos",PT: SPORT.TV 4
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50728
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv4.pt" tvg-name="PT: SPORT.TV 4 FHD" tvg-logo="https://s.imgexpress.net/76fd2262d6f71d81b214ea014b5bf26010a3570af549f7fd61a37f607e4c0467.png" group-title="PT - Desportos",PT: SPORT.TV 4 FHD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50730
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv4.pt" tvg-name="PT: SPORT.TV 4 HD" tvg-logo="https://s.imgexpress.net/76fd2262d6f71d81b214ea014b5bf26010a3570af549f7fd61a37f607e4c0467.png" group-title="PT - Desportos",PT: SPORT.TV 4 HD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50729
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv5.pt" tvg-name="PT: SPORT.TV 5" tvg-logo="https://s.imgexpress.net/7f815eda42c3651e4e3a8669dd873be3d578be048926a556af4a1c8cf69b9cd4.png" group-title="PT - Desportos",PT: SPORT.TV 5
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50731
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv5.pt" tvg-name="PT: SPORT.TV 5 FHD" tvg-logo="https://s.imgexpress.net/45e0c8cf219ccf4784dd758f66989aa6166d591aab6454fdb15d44b342927222.png" group-title="PT - Desportos",PT: SPORT.TV 5 FHD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50733
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 HD" tvg-logo="https://s.imgexpress.net/45e0c8cf219ccf4784dd758f66989aa6166d591aab6454fdb15d44b342927222.png" group-title="PT - Desportos",PT: SPORT TV 5 HD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50732
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttv6.pt" tvg-name="PT: SPORT.TV 6 FHD" tvg-logo="https://s.imgexpress.net/ec006a393d7b86699e0bff30b85a801d47c0007f7a7e78f4a42a1fffd8df5bf5.png" group-title="PT - Desportos",PT: SPORT.TV 6 FHD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50914
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporttvnba.pt" tvg-name="PT: SPORT.TV NBA FHD" tvg-logo="https://s.imgexpress.net/4b454b73635e97d191e1f3cb765c2f96701d50128cbf9c7416a92ad00a48b644.png" group-title="PT - Desportos",PT: SPORT.TV NBA FHD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50751
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="https://s.imgexpress.net/d519a5ebe7a003553eb1b43e0a8a31c2af5ec8906da18ed4032b0edf0066bf05.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 1
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50734
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="https://s.imgexpress.net/d519a5ebe7a003553eb1b43e0a8a31c2af5ec8906da18ed4032b0edf0066bf05.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 1 FHD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50736
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="https://s.imgexpress.net/d519a5ebe7a003553eb1b43e0a8a31c2af5ec8906da18ed4032b0edf0066bf05.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 1 HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50735
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="https://s.imgexpress.net/56b478ed40ce87d335086e3702d865428461f3f80742096a6148104f7902cb4c.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 2
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50738
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="https://s.imgexpress.net/56b478ed40ce87d335086e3702d865428461f3f80742096a6148104f7902cb4c.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 2 FHD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50740
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="https://s.imgexpress.net/56b478ed40ce87d335086e3702d865428461f3f80742096a6148104f7902cb4c.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 2 HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50739
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="https://s.imgexpress.net/19d2161560e9f8474362d440123f9bd3abaa3a4273d1c849d4ab5e6c9029977e.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 3
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50742
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="https://s.imgexpress.net/19d2161560e9f8474362d440123f9bd3abaa3a4273d1c849d4ab5e6c9029977e.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 3 HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50743
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="https://s.imgexpress.net/c4ca02f60721c211b0243d5d006d27b480e68906b6f651bba3234b74bedb6888.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 4
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50745
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="https://s.imgexpress.net/c4ca02f60721c211b0243d5d006d27b480e68906b6f651bba3234b74bedb6888.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 4 HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50746
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="https://s.imgexpress.net/2b471b04256349cc227dbdd9498471e73dd8f37f784d51260e58a685f02627c7.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 5
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50747
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="https://s.imgexpress.net/2b471b04256349cc227dbdd9498471e73dd8f37f784d51260e58a685f02627c7.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 5 HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50748
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="https://s.imgexpress.net/2ce2b37974b8557d1190875340f10352ff799766112cfba1e4b0bd60abb17ad9.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 6
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50749
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="https://s.imgexpress.net/2ce2b37974b8557d1190875340f10352ff799766112cfba1e4b0bd60abb17ad9.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 6 HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50750
 
 #EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="PT: Eleven Sp0rts 1" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts1.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 1
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49081
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49081
 #EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="PT: Eleven Sp0rts 1 HD" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts1.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 1 HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49075
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49075
 #EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="PT: Eleven Sp0rts 2" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts2.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 2
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49082
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49082
 #EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="PT: Eleven Sp0rts 2 HD" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts2.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 2 HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49076
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49076
 #EXTINF:-1 tvg-ID="elevensports3.pt" tvg-name="PT: Eleven Sp0rts 3" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts3.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 3
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49083
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49083
 #EXTINF:-1 tvg-ID="elevensports3.pt" tvg-name="PT: Eleven Sp0rts 3 HD" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts3.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 3 HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49077
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49077
 #EXTINF:-1 tvg-ID="elevensports4.pt" tvg-name="PT: Eleven Sp0rts 4" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts4.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 4
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49084
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49084
 #EXTINF:-1 tvg-ID="elevensports4.pt" tvg-name="PT: Eleven Sp0rts 4 HD" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts4.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 4 HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49078
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49078
 #EXTINF:-1 tvg-ID="elevensports5.pt" tvg-name="PT: Eleven Sp0rts 5" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts5.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 5
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49085
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49085
 #EXTINF:-1 tvg-ID="elevensports5.pt" tvg-name="PT: Eleven Sp0rts 5 HD" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts5.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 5 HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49079
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49079
 #EXTINF:-1 tvg-ID="elevensports6.pt" tvg-name="PT: Eleven Sp0rts 6" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts6.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 6
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49086
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49086
 #EXTINF:-1 tvg-ID="elevensports6.pt" tvg-name="PT: Eleven Sp0rts 6 HD" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts6.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 6 HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/49080
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/49080
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports Extra 1 HD" tvg-logo="https://filedb.me/picons/portugal/ptelevensportsextra1hd.png" group-title="Portugal - Desporto",PT: Eleven Sports Extra 1 HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/47688
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/47688
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports Extra 2 HD" tvg-logo="https://filedb.me/picons/portugal/ptelevensportsextra2hd.png" group-title="Portugal - Desporto",PT: Eleven Sports Extra 2 HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/47689
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/47689
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports Extra 3 HD" tvg-logo="https://filedb.me/picons/portugal/ptelevensportsextra3hd.png" group-title="Portugal - Desporto",PT: Eleven Sports Extra 3 HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/47690
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/47690
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports Extra 4 HD" tvg-logo="https://filedb.me/picons/portugal/ptelevensportsextra4hd.png" group-title="Portugal - Desporto",PT: Eleven Sports Extra 4 HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/47691
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/47691
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BTV1.pt" tvg-name="PT: BTV" tvg-logo="https://s.imgexpress.net/7472e273130f9d5db133cf6d501d26ad2eac5bf656e9fe92cea6b9996967cbb6.png" group-title="PT - Desportos",PT: BTV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50711
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BTV1.pt" tvg-name="PT: BTV FHD" tvg-logo="https://s.imgexpress.net/4d195af8e355f16c272aaff97dba8109902a3e9e10e4dfe11d1d3071169d3664.png" group-title="PT - Desportos",PT: BTV FHD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50713
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BTV1.pt" tvg-name="PT: BTV HD" tvg-logo="https://s.imgexpress.net/4d195af8e355f16c272aaff97dba8109902a3e9e10e4dfe11d1d3071169d3664.png" group-title="PT - Desportos",PT: BTV HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50712
-#EXTINF:-1 tvg-ID="benficatv.pt" tvg-name="PT: Benfica TV" tvg-logo="https://filedb.me/picons/portugal/btv-pt.png" group-title="Portugal - Desporto",PT: Benfica TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/33011
-#EXTINF:-1 tvg-ID="benficatv.pt" tvg-name="PT: Benfica TV HD" tvg-logo="https://filedb.me/picons/portugal/btv-pt.png" group-title="Portugal - Desporto",PT: Benfica TV HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/23841
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sky Sports",UK: Sky Sports F1
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/7029
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 (HEVC)" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sports (HEVC)",UK: Sky Sports F1 (HEVC)
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/14778
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 FHD" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sky Sports",UK: Sky Sports F1 FHD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/7027
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 FHD (HEVC)" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sports (HEVC)",UK: Sky Sports F1 FHD (HEVC)
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/14776
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sky Sports",UK: Sky Sports F1 HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/7028
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 HD (HEVC)" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sports (HEVC)",UK: Sky Sports F1 HD (HEVC)
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/14777
-#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://filedb.me/picons/united-kingdom/sky-sports-f1-hz-uk.png" group-title="U.K - Sky Sports",UK: Sky Sports F1
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/6859
-#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK: Sky Sports F1 HD" tvg-logo="http://filedb.me/picons/united-kingdom/sky-sports-f1-hz-uk.png" group-title="U.K - Sky Sports",UK: Sky Sports F1 HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/9699
-#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK: Sky Sports F1 HD 50FPS" tvg-logo="http://filedb.me/picons/united-kingdom/sky-sports-f1-hz-uk.png" group-title="U.K - Sky Sports",UK: Sky Sports F1 HD 50FPS
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/52325
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="daznf1.es" tvg-name="ES: DAZN F1" tvg-logo="https://s.imgexpress.net/ea72c0abde239b797572222e22e1fa052dcbf12f14affeca750fa5d1baa13c50.png" group-title="ES - Deportes",ES: DAZN F1
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/1315
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="daznf1.es" tvg-name="ES: DAZN F1 FHD" tvg-logo="https://s.imgexpress.net/ea72c0abde239b797572222e22e1fa052dcbf12f14affeca750fa5d1baa13c50.png" group-title="ES - Deportes",ES: DAZN F1 FHD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/1318
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="daznf1.es" tvg-name="ES: DAZN F1 HD" tvg-logo="https://s.imgexpress.net/ea72c0abde239b797572222e22e1fa052dcbf12f14affeca750fa5d1baa13c50.png" group-title="ES - Deportes",ES: DAZN F1 HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/1316
-#EXTINF:-1 tvg-ID="daznf1.es" tvg-name="ES: DAZN F1" tvg-logo="http://filedb.me/picons/spain/dazn-f1-es.png" group-title="ES - Deportes",ES: DAZN F1
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/33372
-#EXTINF:-1 tvg-ID="daznf1.es" tvg-name="ES: DAZN F1 HD" tvg-logo="http://filedb.me/picons/spain/dazn-f1-es.png" group-title="ES - Deportes",ES: DAZN F1 HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/33282
-#EXTINF:-1 tvg-ID="daznf14k.es" tvg-name="ES: Dazn F1 UHD 4K" tvg-logo="" group-title="ES - Deportes",ES: Dazn F1 UHD 4K
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/45351
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="https://s.imgexpress.net/d519a5ebe7a003553eb1b43e0a8a31c2af5ec8906da18ed4032b0edf0066bf05.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 1
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50734
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="https://s.imgexpress.net/d519a5ebe7a003553eb1b43e0a8a31c2af5ec8906da18ed4032b0edf0066bf05.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 1 FHD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50736
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="https://s.imgexpress.net/d519a5ebe7a003553eb1b43e0a8a31c2af5ec8906da18ed4032b0edf0066bf05.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 1 HD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50735
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="https://s.imgexpress.net/56b478ed40ce87d335086e3702d865428461f3f80742096a6148104f7902cb4c.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 2
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50738
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="https://s.imgexpress.net/56b478ed40ce87d335086e3702d865428461f3f80742096a6148104f7902cb4c.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 2 FHD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50740
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="https://s.imgexpress.net/56b478ed40ce87d335086e3702d865428461f3f80742096a6148104f7902cb4c.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 2 HD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50739
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="https://s.imgexpress.net/19d2161560e9f8474362d440123f9bd3abaa3a4273d1c849d4ab5e6c9029977e.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 3
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50742
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="https://s.imgexpress.net/19d2161560e9f8474362d440123f9bd3abaa3a4273d1c849d4ab5e6c9029977e.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 3 HD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50743
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="https://s.imgexpress.net/c4ca02f60721c211b0243d5d006d27b480e68906b6f651bba3234b74bedb6888.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 4
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50745
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="https://s.imgexpress.net/c4ca02f60721c211b0243d5d006d27b480e68906b6f651bba3234b74bedb6888.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 4 HD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50746
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="https://s.imgexpress.net/2b471b04256349cc227dbdd9498471e73dd8f37f784d51260e58a685f02627c7.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 5
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50747
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="https://s.imgexpress.net/2b471b04256349cc227dbdd9498471e73dd8f37f784d51260e58a685f02627c7.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 5 HD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50748
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="https://s.imgexpress.net/2ce2b37974b8557d1190875340f10352ff799766112cfba1e4b0bd60abb17ad9.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 6
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50749
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="https://s.imgexpress.net/2ce2b37974b8557d1190875340f10352ff799766112cfba1e4b0bd60abb17ad9.png" group-title="PT - Desportos",PT: ELEVEN SPORTS 6 HD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50750
 
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BANDSP" tvg-name="BR: Band Sports FHD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Band Sports FHD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50153
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BANDSP" tvg-name="BR: Band Sports HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Band Sports HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50154
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BANDSP" tvg-name="BR: Band Sports SD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Band Sports SD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50155
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Band Sports " tvg-logo="" group-title="Brazil",BR: Band Sports 
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/54730
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/54730
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Band Sports HD" tvg-logo="" group-title="Brazil",BR: Band Sports HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/54731
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/54731
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BANDSP" tvg-name="BR: Band Sports FHD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Band Sports FHD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50153
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BANDSP" tvg-name="BR: Band Sports HD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Band Sports HD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50154
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BANDSP" tvg-name="BR: Band Sports SD" tvg-logo="https://s.imgexpress.net/55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0.png" group-title="BR",BR: Band Sports SD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50155
 
 
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://filedb.me/picons/united-kingdom/sky-sports-f1-hz-uk.png" group-title="U.K - Sky Sports",UK: Sky Sports F1
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/6859
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK: Sky Sports F1 HD" tvg-logo="http://filedb.me/picons/united-kingdom/sky-sports-f1-hz-uk.png" group-title="U.K - Sky Sports",UK: Sky Sports F1 HD
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/9699
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK: Sky Sports F1 HD 50FPS" tvg-logo="http://filedb.me/picons/united-kingdom/sky-sports-f1-hz-uk.png" group-title="U.K - Sky Sports",UK: Sky Sports F1 HD 50FPS
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/52325
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sky Sports",UK: Sky Sports F1
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/7029
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 (HEVC)" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sports (HEVC)",UK: Sky Sports F1 (HEVC)
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/14778
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 FHD" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sky Sports",UK: Sky Sports F1 FHD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/7027
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 FHD (HEVC)" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sports (HEVC)",UK: Sky Sports F1 FHD (HEVC)
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/14776
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sky Sports",UK: Sky Sports F1 HD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/7028
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 HD (HEVC)" tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="UK - Sports (HEVC)",UK: Sky Sports F1 HD (HEVC)
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/14777
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TSN1MEL" tvg-name="CA: TSN 1 HD" tvg-logo="https://s.imgexpress.net/efcef37c639d022ab2b3bc96f62e2df85b987def5a3bae6de6154d70de8231a8.png" group-title="CA - Sports",CA: TSN 1 HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/38331
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TSN2MEL" tvg-name="CA: TSN2" tvg-logo="https://s.imgexpress.net/c4ca60403442ad9934faeacb71972b47a71f328e02624f45f7774aedeacc6364.png" group-title="CA - Sports",CA: TSN2
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/38332
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA: TSN3 HD" tvg-logo="https://s.imgexpress.net/2a3f05c5072f10e1d4a55fa31fadbbfd9f8c1b8f3b69cf86eef80686c698b8f0.png" group-title="CA - Sports",CA: TSN3 HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/38333
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TSN4HD" tvg-name="CA: TSN4 HD" tvg-logo="https://s.imgexpress.net/0d71680c824bc54bc16abdcaaa7d9d1631baebcc81dcb1436532f40547dcf6af.png" group-title="CA - Sports",CA: TSN4 HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/38334
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA: TSN5 HD" tvg-logo="https://s.imgexpress.net/82ad29aad835f27771d9cfe0fae413073ad1fdea66f479c242689250974d2fcc.png" group-title="CA - Sports",CA: TSN5 HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/38335
+
+EXTINF:-1 tvg-ID="daznf1.es" tvg-name="ES: DAZN F1" tvg-logo="http://filedb.me/picons/spain/dazn-f1-es.png" group-title="ES - Deportes",ES: DAZN F1
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/33372
+#EXTINF:-1 tvg-ID="daznf1.es" tvg-name="ES: DAZN F1 HD" tvg-logo="http://filedb.me/picons/spain/dazn-f1-es.png" group-title="ES - Deportes",ES: DAZN F1 HD
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/33282
+#EXTINF:-1 tvg-ID="daznf14k.es" tvg-name="ES: Dazn F1 UHD 4K" tvg-logo="" group-title="ES - Deportes",ES: Dazn F1 UHD 4K
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/45351
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="daznf1.es" tvg-name="ES: DAZN F1" tvg-logo="https://s.imgexpress.net/ea72c0abde239b797572222e22e1fa052dcbf12f14affeca750fa5d1baa13c50.png" group-title="ES - Deportes",ES: DAZN F1
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/1315
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="daznf1.es" tvg-name="ES: DAZN F1 FHD" tvg-logo="https://s.imgexpress.net/ea72c0abde239b797572222e22e1fa052dcbf12f14affeca750fa5d1baa13c50.png" group-title="ES - Deportes",ES: DAZN F1 FHD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/1318
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="daznf1.es" tvg-name="ES: DAZN F1 HD" tvg-logo="https://s.imgexpress.net/ea72c0abde239b797572222e22e1fa052dcbf12f14affeca750fa5d1baa13c50.png" group-title="ES - Deportes",ES: DAZN F1 HD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/1316
+
 #EXTINF:-1 tvg-ID="tsn1.ca" tvg-name="CA: TSN 1" tvg-logo="" group-title="Canada - Sports",CA: TSN 1
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/17031
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/17031
 #EXTINF:-1 tvg-ID="tsn2.ca" tvg-name="CA: TSN 2" tvg-logo="" group-title="Canada - Sports",CA: TSN 2
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/17030
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/17030
 #EXTINF:-1 tvg-ID="tsn3.ca" tvg-name="CA: TSN 3" tvg-logo="" group-title="Canada - Sports",CA: TSN 3
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/17029
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/17029
 #EXTINF:-1 tvg-ID="tsn4.ca" tvg-name="CA: TSN 4" tvg-logo="" group-title="Canada - Sports",CA: TSN 4
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/17028
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/17028
 #EXTINF:-1 tvg-ID="tsn5.ca" tvg-name="CA: TSN 5" tvg-logo="" group-title="Canada - Sports",CA: TSN 5
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/17027
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/17027
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TSN1MEL" tvg-name="CA: TSN 1 HD" tvg-logo="https://s.imgexpress.net/efcef37c639d022ab2b3bc96f62e2df85b987def5a3bae6de6154d70de8231a8.png" group-title="CA - Sports",CA: TSN 1 HD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/38331
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TSN2MEL" tvg-name="CA: TSN2" tvg-logo="https://s.imgexpress.net/c4ca60403442ad9934faeacb71972b47a71f328e02624f45f7774aedeacc6364.png" group-title="CA - Sports",CA: TSN2
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/38332
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA: TSN3 HD" tvg-logo="https://s.imgexpress.net/2a3f05c5072f10e1d4a55fa31fadbbfd9f8c1b8f3b69cf86eef80686c698b8f0.png" group-title="CA - Sports",CA: TSN3 HD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/38333
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TSN4HD" tvg-name="CA: TSN4 HD" tvg-logo="https://s.imgexpress.net/0d71680c824bc54bc16abdcaaa7d9d1631baebcc81dcb1436532f40547dcf6af.png" group-title="CA - Sports",CA: TSN4 HD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/38334
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA: TSN5 HD" tvg-logo="https://s.imgexpress.net/82ad29aad835f27771d9cfe0fae413073ad1fdea66f479c242689250974d2fcc.png" group-title="CA - Sports",CA: TSN5 HD
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/38335
+
+
+#
 
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Babes TV HD" tvg-logo="" group-title="Adult",XXX: Babes TV HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24448
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24448
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Balkan Erotic" tvg-logo="" group-title="Adult",XXX: Balkan Erotic
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24449
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24449
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Bang U" tvg-logo="" group-title="Adult",XXX: Bang U
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24450
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24450
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Bangerz" tvg-logo="" group-title="Adult",XXX: Bangerz
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24451
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24451
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Barely Legal TV" tvg-logo="" group-title="Adult",XXX: Barely Legal TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24452
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24452
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Beate Uhse.TV" tvg-logo="" group-title="Adult",XXX: Beate Uhse.TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24453
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24453
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Blue Hustler" tvg-logo="" group-title="Adult",XXX: Blue Hustler
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24454
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24454
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Blue Hustler Europe" tvg-logo="" group-title="Adult",XXX: Blue Hustler Europe
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24455
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24455
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Blue Hustler HD" tvg-logo="" group-title="Adult",XXX: Blue Hustler HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24456
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24456
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Brazzers TV" tvg-logo="" group-title="Adult",XXX: Brazzers TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24457
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24457
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Brazzers TV Europe" tvg-logo="" group-title="Adult",XXX: Brazzers TV Europe
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24458
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24458
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Brazzers TV Europe Russian" tvg-logo="" group-title="Adult",XXX: Brazzers TV Europe Russian
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24459
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24459
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Candy TV" tvg-logo="" group-title="Adult",XXX: Candy TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24460
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24460
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Candyman Gay Men" tvg-logo="" group-title="Adult",XXX: Candyman Gay Men
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24461
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24461
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Dorcel HD" tvg-logo="" group-title="Adult",XXX: Dorcel HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24462
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24462
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Dorcel XXX HD" tvg-logo="" group-title="Adult",XXX: Dorcel XXX HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24463
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24463
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Dream Porn HD" tvg-logo="" group-title="Adult",XXX: Dream Porn HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24464
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24464
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: DUSK!" tvg-logo="" group-title="Adult",XXX: DUSK!
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24465
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24465
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Emanuelle" tvg-logo="" group-title="Adult",XXX: Emanuelle
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24466
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24466
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Erox HD" tvg-logo="" group-title="Adult",XXX: Erox HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24467
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24467
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Erox XXX HD" tvg-logo="" group-title="Adult",XXX: Erox XXX HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24468
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24468
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Evil Angel HD" tvg-logo="" group-title="Adult",XXX: Evil Angel HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24469
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24469
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Extasy HD" tvg-logo="" group-title="Adult",XXX: Extasy HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24470
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24470
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Extrem" tvg-logo="" group-title="Adult",XXX: Extrem
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24471
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24471
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Exxxotica TV" tvg-logo="" group-title="Adult",XXX: Exxxotica TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24472
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24472
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Fashion TV" tvg-logo="" group-title="Adult",XXX: Fashion TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24473
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24473
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Fast Boyz Gay Men" tvg-logo="" group-title="Adult",XXX: Fast Boyz Gay Men
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24474
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24474
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Free X TV" tvg-logo="" group-title="Adult",XXX: Free X TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24475
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24475
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: French Lover" tvg-logo="" group-title="Adult",XXX: French Lover
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24476
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24476
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: French Lover Europe" tvg-logo="" group-title="Adult",XXX: French Lover Europe
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24477
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24477
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Hot Pleasure" tvg-logo="" group-title="Adult",XXX: Hot Pleasure
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24478
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24478
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Hot TV" tvg-logo="" group-title="Adult",XXX: Hot TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24479
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24479
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Hustler HD" tvg-logo="" group-title="Adult",XXX: Hustler HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24480
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24480
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Hustler TV" tvg-logo="" group-title="Adult",XXX: Hustler TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24481
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24481
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Jasmin TV" tvg-logo="" group-title="Adult",XXX: Jasmin TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24482
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24482
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Leo TV" tvg-logo="" group-title="Adult",XXX: Leo TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24483
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24483
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Lesbian Affair" tvg-logo="" group-title="Adult",XXX: Lesbian Affair
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24484
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24484
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Meiden Van Holland Hard" tvg-logo="" group-title="Adult",XXX: Meiden Van Holland Hard
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24485
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24485
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Milf TV" tvg-logo="" group-title="Adult",XXX: Milf TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24486
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24486
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Net XX" tvg-logo="" group-title="Adult",XXX: Net XX
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24487
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24487
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Nuart TV" tvg-logo="" group-title="Adult",XXX: Nuart TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24488
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24488
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Nuart TV HD" tvg-logo="" group-title="Adult",XXX: Nuart TV HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24489
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24489
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: O la la TV" tvg-logo="" group-title="Adult",XXX: O la la TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24490
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24490
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Oldtimer" tvg-logo="" group-title="Adult",XXX: Oldtimer
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24491
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24491
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Passie XXX" tvg-logo="" group-title="Adult",XXX: Passie XXX
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24492
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24492
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Passion XXX" tvg-logo="" group-title="Adult",XXX: Passion XXX
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24493
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24493
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Penthouse Black TV" tvg-logo="" group-title="Adult",XXX: Penthouse Black TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24494
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24494
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Penthouse Gold HD" tvg-logo="" group-title="Adult",XXX: Penthouse Gold HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24495
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24495
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Penthouse Passion HD" tvg-logo="" group-title="Adult",XXX: Penthouse Passion HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24496
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24496
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Penthouse Quickies HD" tvg-logo="" group-title="Adult",XXX: Penthouse Quickies HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24497
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24497
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Pink Erotic" tvg-logo="" group-title="Adult",XXX: Pink Erotic
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24498
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24498
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Pink Erotic 2" tvg-logo="" group-title="Adult",XXX: Pink Erotic 2
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24499
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24499
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Pink Erotic 3" tvg-logo="" group-title="Adult",XXX: Pink Erotic 3
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24500
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24500
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Pink Erotic 4" tvg-logo="" group-title="Adult",XXX: Pink Erotic 4
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24501
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24501
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Pink Erotic 5" tvg-logo="" group-title="Adult",XXX: Pink Erotic 5
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24502
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24502
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Pink Erotic 6" tvg-logo="" group-title="Adult",XXX: Pink Erotic 6
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24503
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24503
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Pink Erotic 7" tvg-logo="" group-title="Adult",XXX: Pink Erotic 7
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24504
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24504
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Pink Erotic 8" tvg-logo="" group-title="Adult",XXX: Pink Erotic 8
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24505
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24505
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Pink O TV" tvg-logo="" group-title="Adult",XXX: Pink O TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24506
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24506
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Playboy Europe" tvg-logo="" group-title="Adult",XXX: Playboy Europe
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24507
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24507
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Playboy Europe HD" tvg-logo="" group-title="Adult",XXX: Playboy Europe HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24508
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24508
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Playboy TV" tvg-logo="" group-title="Adult",XXX: Playboy TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24509
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24509
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Playboy TV HD" tvg-logo="" group-title="Adult",XXX: Playboy TV HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24510
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24510
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Playhouse" tvg-logo="" group-title="Adult",XXX: Playhouse
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24511
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24511
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Pr?vate TV HD" tvg-logo="" group-title="Adult",XXX: Pr?vate TV HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24513
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24513
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Prive TV" tvg-logo="" group-title="Adult",XXX: Prive TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24512
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24512
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Reality Kings TV" tvg-logo="" group-title="Adult",XXX: Reality Kings TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24514
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24514
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Red XXX" tvg-logo="" group-title="Adult",XXX: Red XXX
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24515
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24515
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Redlight HD" tvg-logo="" group-title="Adult",XXX: Redlight HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24516
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24516
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Russian Night" tvg-logo="" group-title="Adult",XXX: Russian Night
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24517
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24517
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Russian Night HD" tvg-logo="" group-title="Adult",XXX: Russian Night HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24518
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24518
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: SCT Classic" tvg-logo="" group-title="Adult",XXX: SCT Classic
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24519
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24519
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Secret Circle TV" tvg-logo="" group-title="Adult",XXX: Secret Circle TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24520
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24520
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: SEX ATION HD" tvg-logo="" group-title="Adult",XXX: SEX ATION HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24521
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24521
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Sext & Senso" tvg-logo="" group-title="Adult",XXX: Sext & Senso
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24522
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24522
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Sextreme" tvg-logo="" group-title="Adult",XXX: Sextreme
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24523
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24523
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Sexy HOT" tvg-logo="" group-title="Adult",XXX: Sexy HOT
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24524
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24524
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Silun TV" tvg-logo="" group-title="Adult",XXX: Silun TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24542
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24542
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Stars XXX HD" tvg-logo="" group-title="Adult",XXX: Stars XXX HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24525
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24525
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Super One HD" tvg-logo="" group-title="Adult",XXX: Super One HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24526
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24526
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Taboo" tvg-logo="" group-title="Adult",XXX: Taboo
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24527
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24527
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Venus TV" tvg-logo="" group-title="Adult",XXX: Venus TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24528
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24528
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Visit-X TV Man-X Gay Men" tvg-logo="" group-title="Adult",XXX: Visit-X TV Man-X Gay Men
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24529
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24529
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Vivid Red HD" tvg-logo="" group-title="Adult",XXX: Vivid Red HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24530
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24530
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Vivid TV Europe" tvg-logo="" group-title="Adult",XXX: Vivid TV Europe
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24531
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24531
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: X Bizarre" tvg-logo="" group-title="Adult",XXX: X Bizarre
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24532
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24532
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: X Bunga Bunga" tvg-logo="" group-title="Adult",XXX: X Bunga Bunga
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24533
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24533
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: X Desire" tvg-logo="" group-title="Adult",XXX: X Desire
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24534
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24534
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: X-MO Gay Men" tvg-logo="" group-title="Adult",XXX: X-MO Gay Men
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24535
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24535
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: X1" tvg-logo="" group-title="Adult",XXX: X1
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24536
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24536
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: XXL" tvg-logo="" group-title="Adult",XXX: XXL
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24537
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24537
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: XY Max HD" tvg-logo="" group-title="Adult",XXX: XY Max HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24538
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24538
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: XY Mix HD" tvg-logo="" group-title="Adult",XXX: XY Mix HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24539
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24539
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: XY Plus HD" tvg-logo="" group-title="Adult",XXX: XY Plus HD
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24540
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24540
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: Zest TV" tvg-logo="" group-title="Adult",XXX: Zest TV
-http://s1.shortdns.xyz:80/KEUSF8395J/0C1n6rCki9/24541
+http://s1.shortdns.xyz:80/7Q93DTPMCY/b2iNZf153f/24541
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: A3 Bikini TV" tvg-logo="" group-title="XXX",XXX: A3 Bikini TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51022
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51022
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: ALBA" tvg-logo="" group-title="XXX",XXX: ALBA
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51048
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51048
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Babes TV HD" tvg-logo="https://s.imgexpress.net/0fb45c23cfcc4c2e87cb0a7603a5ce865c73cdb14ee266b0d5075abd62f14edc.png" group-title="XXX",XXX: Babes TV HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50976
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50976
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Balkan Erotic" tvg-logo="" group-title="XXX",XXX: Balkan Erotic
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51044
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51044
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BANGU" tvg-name="XXX: Bang U" tvg-logo="https://s.imgexpress.net/d2ef4561d5fa50052ac4b28c4cc42f02661e67d54f1505b4cab2790e52924c6c.png" group-title="XXX",XXX: Bang U
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51023
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51023
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: BANGERZ" tvg-logo="" group-title="XXX",XXX: BANGERZ
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51024
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51024
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Barely Legal TV" tvg-logo="" group-title="XXX",XXX: Barely Legal TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51012
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51012
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Beate-Uhse.TV" tvg-logo="" group-title="XXX",XXX: Beate-Uhse.TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51045
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51045
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: BLACK TV" tvg-logo="" group-title="XXX",XXX: BLACK TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51006
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51006
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: BLACKED" tvg-logo="" group-title="XXX",XXX: BLACKED
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51009
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51009
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BLUHUEU" tvg-name="XXX: Blue Hustler" tvg-logo="https://s.imgexpress.net/30f6ba4160a05bc090ebdcade1daf9b848af284a6efbf69c7c13c41632b230b2.png" group-title="XXX",XXX: Blue Hustler
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51008
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51008
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BLUHUEU" tvg-name="XXX: Blue Hustler HD" tvg-logo="https://s.imgexpress.net/30f6ba4160a05bc090ebdcade1daf9b848af284a6efbf69c7c13c41632b230b2.png" group-title="XXX",XXX: Blue Hustler HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51007
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51007
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LBRAZZ" tvg-name="XXX: BRAZZERS HD" tvg-logo="" group-title="XXX",XXX: BRAZZERS HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51056
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51056
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BRAZRTV" tvg-name="XXX: BraZZers TV" tvg-logo="https://s.imgexpress.net/cd3028cf5377ca97263b33cb7a95bf9f87c0fff9114d887a8d1a4279721f16a1.png" group-title="XXX",XXX: BraZZers TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50988
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50988
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Candyman Gay Men" tvg-logo="" group-title="XXX",XXX: Candyman Gay Men
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51020
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51020
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Cent & Cento" tvg-logo="" group-title="XXX",XXX: Cent & Cento
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51040
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51040
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Dorcel HD" tvg-logo="https://s.imgexpress.net/d7a08be11fc06e92d2564db130ad1eb5c07ba90eae3e1686dbd594b28fe6c214.png" group-title="XXX",XXX: Dorcel HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50968
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50968
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="DORCXXX" tvg-name="XXX: Dorcel XXX HD" tvg-logo="https://s.imgexpress.net/d7a08be11fc06e92d2564db130ad1eb5c07ba90eae3e1686dbd594b28fe6c214.png" group-title="XXX",XXX: Dorcel XXX HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50969
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50969
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Dream Porn" tvg-logo="" group-title="XXX",XXX: Dream Porn
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51043
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51043
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="DUSKNL" tvg-name="XXX: DUSK!" tvg-logo="" group-title="XXX",XXX: DUSK!
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50982
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50982
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Emanuelle" tvg-logo="" group-title="XXX",XXX: Emanuelle
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51036
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51036
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="EROXE" tvg-name="XXX: Erox" tvg-logo="https://s.imgexpress.net/3db9d361a5623a024ae434343de07f355e9a8320a4be53411d862d5beafb5fca.png" group-title="XXX",XXX: Erox
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51049
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51049
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Erox XXX HD" tvg-logo="https://s.imgexpress.net/3db9d361a5623a024ae434343de07f355e9a8320a4be53411d862d5beafb5fca.png" group-title="XXX",XXX: Erox XXX HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50972
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50972
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="EVILAN" tvg-name="XXX: Evil Angel" tvg-logo="" group-title="XXX",XXX: Evil Angel
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50993
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50993
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Evil Angel" tvg-logo="" group-title="XXX",XXX: Evil Angel
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/82894
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/82894
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Extasy HD" tvg-logo="" group-title="XXX",XXX: Extasy HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51028
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51028
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="EXTRMUK" tvg-name="XXX: Extreme" tvg-logo="https://s.imgexpress.net/d4f2233f9eb696ef2ef619b6c88440548ffb41e991c65675461de58b17cedd7b.png" group-title="XXX",XXX: Extreme
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51034
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51034
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Exxxotica TV" tvg-logo="" group-title="XXX",XXX: Exxxotica TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51018
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51018
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Fantasy TV" tvg-logo="" group-title="XXX",XXX: Fantasy TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51004
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51004
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: FAP TV 2" tvg-logo="https://s.imgexpress.net/64ae9f5adfa696fb19d8419c2dcc4e5a458db382c876da14a779bd6623c3e359.png" group-title="XXX",XXX: FAP TV 2
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51061
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51061
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: FAP TV 3" tvg-logo="https://s.imgexpress.net/64ae9f5adfa696fb19d8419c2dcc4e5a458db382c876da14a779bd6623c3e359.png" group-title="XXX",XXX: FAP TV 3
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51062
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51062
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: FAP TV 4" tvg-logo="https://s.imgexpress.net/64ae9f5adfa696fb19d8419c2dcc4e5a458db382c876da14a779bd6623c3e359.png" group-title="XXX",XXX: FAP TV 4
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51063
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51063
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: FAP TV ANAL" tvg-logo="https://s.imgexpress.net/64ae9f5adfa696fb19d8419c2dcc4e5a458db382c876da14a779bd6623c3e359.png" group-title="XXX",XXX: FAP TV ANAL
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51064
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51064
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: FAP TV COMPILATION" tvg-logo="https://s.imgexpress.net/64ae9f5adfa696fb19d8419c2dcc4e5a458db382c876da14a779bd6623c3e359.png" group-title="XXX",XXX: FAP TV COMPILATION
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51068
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51068
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: FAP TV LESBIAN" tvg-logo="https://s.imgexpress.net/64ae9f5adfa696fb19d8419c2dcc4e5a458db382c876da14a779bd6623c3e359.png" group-title="XXX",XXX: FAP TV LESBIAN
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51067
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51067
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: FAP TV PARODY" tvg-logo="https://s.imgexpress.net/64ae9f5adfa696fb19d8419c2dcc4e5a458db382c876da14a779bd6623c3e359.png" group-title="XXX",XXX: FAP TV PARODY
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51065
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51065
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: FAP TV TEENS" tvg-logo="https://s.imgexpress.net/64ae9f5adfa696fb19d8419c2dcc4e5a458db382c876da14a779bd6623c3e359.png" group-title="XXX",XXX: FAP TV TEENS
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51066
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51066
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Fast Boyz" tvg-logo="" group-title="XXX",XXX: Fast Boyz
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51046
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51046
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Free X TV" tvg-logo="" group-title="XXX",XXX: Free X TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51041
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51041
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Free X TV 2" tvg-logo="" group-title="XXX",XXX: Free X TV 2
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51042
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51042
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: French Lover TV" tvg-logo="" group-title="XXX",XXX: French Lover TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51016
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51016
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: HOT HD" tvg-logo="https://s.imgexpress.net/409abb4ffc57015b37ec4bae1773130deac2ed29d8b105355bcdd326b2ff2939.png" group-title="XXX",XXX: HOT HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50962
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50962
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Hot Pleasure" tvg-logo="" group-title="XXX",XXX: Hot Pleasure
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51031
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51031
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: HOT TABOO" tvg-logo="" group-title="XXX",XXX: HOT TABOO
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51060
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51060
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Hot XXL HD" tvg-logo="" group-title="XXX",XXX: Hot XXL HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51038
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51038
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Hustler HD" tvg-logo="https://s.imgexpress.net/0328f81f1dcd68c1161b20ab0a837a51dfd9c10d75340aa9a0fc7ab0c094f78c.png" group-title="XXX",XXX: Hustler HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50965
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50965
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HUSTLR" tvg-name="XXX: Hustler TV" tvg-logo="https://s.imgexpress.net/0328f81f1dcd68c1161b20ab0a837a51dfd9c10d75340aa9a0fc7ab0c094f78c.png" group-title="XXX",XXX: Hustler TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50983
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50983
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Hustler TV" tvg-logo="https://s.imgexpress.net/053f97665449125ffa06f81798aaa7a6151c98ec4202222a2f7a60ae10611c90.png" group-title="XXX",XXX: Hustler TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/82912
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/82912
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Jasmin TV" tvg-logo="" group-title="XXX",XXX: Jasmin TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51021
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51021
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Legal TV" tvg-logo="" group-title="XXX",XXX: Legal TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51059
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51059
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Leo TV Gold" tvg-logo="" group-title="XXX",XXX: Leo TV Gold
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50989
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50989
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Lesbian Affair" tvg-logo="" group-title="XXX",XXX: Lesbian Affair
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51035
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51035
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LUSTPUR" tvg-name="XXX: LUST PUR" tvg-logo="https://s.imgexpress.net/cbdca99772d29c097c7a1cc69d04157e0fe131f8cd6a93ec3af1b75c443d717c.png" group-title="XXX",XXX: LUST PUR
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51003
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51003
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MVHOL" tvg-name="XXX: Meiden Van Holland Hard" tvg-logo="" group-title="XXX",XXX: Meiden Van Holland Hard
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50992
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50992
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: MIAMI TV XXX" tvg-logo="" group-title="XXX",XXX: MIAMI TV XXX
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50971
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50971
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Milf TV" tvg-logo="" group-title="XXX",XXX: Milf TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51032
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51032
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: MULTI 4K" tvg-logo="" group-title="XXX",XXX: MULTI 4K
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50990
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50990
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Naughty TV" tvg-logo="" group-title="XXX",XXX: Naughty TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51058
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51058
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Net XX" tvg-logo="" group-title="XXX",XXX: Net XX
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51029
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51029
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Nuart TV" tvg-logo="" group-title="XXX",XXX: Nuart TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51013
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51013
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: O la la TV" tvg-logo="" group-title="XXX",XXX: O la la TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51015
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51015
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Oldtimer" tvg-logo="" group-title="XXX",XXX: Oldtimer
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51027
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51027
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Passie XXX" tvg-logo="" group-title="XXX",XXX: Passie XXX
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50985
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50985
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Passion XXX" tvg-logo="https://s.imgexpress.net/086c9f8902c33f3c9ff02f30ec69a5e0ffa7471b5ec54f84efddf931c3e418dc.png" group-title="XXX",XXX: Passion XXX
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50986
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50986
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Passion XXX2" tvg-logo="" group-title="XXX",XXX: Passion XXX2
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/82942
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/82942
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Penthouse" tvg-logo="" group-title="XXX",XXX: Penthouse
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/82943
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/82943
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="PHGLD" tvg-name="XXX: Penthouse Gold HD" tvg-logo="https://s.imgexpress.net/b6b614740214bfe1162bd6e9e41d4d3f218ce68048d17a23f15435e3ea474424.png" group-title="XXX",XXX: Penthouse Gold HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50973
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50973
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: PENTHOUSE HD" tvg-logo="" group-title="XXX",XXX: PENTHOUSE HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50960
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50960
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="PENTGER" tvg-name="XXX: Penthouse Passion" tvg-logo="https://s.imgexpress.net/ccf5aac2c96a925b11b99e8b3249d25fcb231460c30ffd5b8897446a008274f4.png" group-title="XXX",XXX: Penthouse Passion
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51026
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51026
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="PHQUK" tvg-name="XXX: Penthouse Quickies HD" tvg-logo="https://s.imgexpress.net/3a22f7b9d2fa52348e173773b50fe4d00141308236c67199d97c0140743dfc9c.png" group-title="XXX",XXX: Penthouse Quickies HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50974
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50974
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: PERVMOM HD" tvg-logo="" group-title="XXX",XXX: PERVMOM HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51054
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51054
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Pink Erotic" tvg-logo="" group-title="XXX",XXX: Pink Erotic
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50994
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50994
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Pink Erotic 2" tvg-logo="" group-title="XXX",XXX: Pink Erotic 2
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50995
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50995
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Pink Erotic 3" tvg-logo="" group-title="XXX",XXX: Pink Erotic 3
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50996
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50996
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Pink Erotic 4" tvg-logo="" group-title="XXX",XXX: Pink Erotic 4
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50997
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50997
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Pink Erotic 5" tvg-logo="" group-title="XXX",XXX: Pink Erotic 5
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50998
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50998
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Pink Erotic 6" tvg-logo="" group-title="XXX",XXX: Pink Erotic 6
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50999
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50999
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Pink Erotic 7" tvg-logo="" group-title="XXX",XXX: Pink Erotic 7
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51000
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51000
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Pink Erotic 8" tvg-logo="" group-title="XXX",XXX: Pink Erotic 8
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51001
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51001
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: PINK O TV" tvg-logo="" group-title="XXX",XXX: PINK O TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51014
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51014
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Pink O TV" tvg-logo="" group-title="XXX",XXX: Pink O TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/82944
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/82944
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Pinko Club" tvg-logo="" group-title="XXX",XXX: Pinko Club
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51039
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51039
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Playboy Europe HD" tvg-logo="https://s.imgexpress.net/25eb1922c297992f95c7f97752eb701d9a6ad0ef9268be1477e40f0fe2417fcb.png" group-title="XXX",XXX: Playboy Europe HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51005
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51005
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="PLAYBOY" tvg-name="XXX: PLAYBOY TV" tvg-logo="https://s.imgexpress.net/25eb1922c297992f95c7f97752eb701d9a6ad0ef9268be1477e40f0fe2417fcb.png" group-title="XXX",XXX: PLAYBOY TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50964
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50964
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Playhouse" tvg-logo="" group-title="XXX",XXX: Playhouse
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51030
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51030
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: PREMIUM PORN" tvg-logo="" group-title="XXX",XXX: PREMIUM PORN
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50981
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50981
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Prıvate TV HD" tvg-logo="" group-title="XXX",XXX: Prıvate TV HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50967
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50967
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Pure Babes TV" tvg-logo="" group-title="XXX",XXX: Pure Babes TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51057
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51057
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RKTV" tvg-name="XXX: Reality Kings TV" tvg-logo="https://s.imgexpress.net/2da8b50da0828cd01309ade2bdb1ffece520a052a363c3fa985e657e69462daa.png" group-title="XXX",XXX: Reality Kings TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50987
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50987
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Red XXX" tvg-logo="" group-title="XXX",XXX: Red XXX
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51033
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51033
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Redlight HD" tvg-logo="https://s.imgexpress.net/258d6f63ff718f8a0ba34d47f08ccf8232d1c2401375472ea1cc7548e124f780.png" group-title="XXX",XXX: Redlight HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50966
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50966
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Russian Night" tvg-logo="" group-title="XXX",XXX: Russian Night
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51010
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51010
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Secret Circle TV" tvg-logo="" group-title="XXX",XXX: Secret Circle TV
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51017
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51017
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: SEX ATION HD" tvg-logo="" group-title="XXX",XXX: SEX ATION HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51025
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51025
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Sex Prive" tvg-logo="" group-title="XXX",XXX: Sex Prive
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51019
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51019
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SEXTREA" tvg-name="XXX: SEXTREME" tvg-logo="https://s.imgexpress.net/0d112d652e15817d76091ae84a3b7987f0610865ece28ad0f1352923e1c83c40.png" group-title="XXX",XXX: SEXTREME
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50961
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50961
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SEXYHOT" tvg-name="XXX: Sexy HOT" tvg-logo="https://s.imgexpress.net/5342aca1bc9050e15a123afdb7f5e090685e6ebddb2291da3d8f5e35ea87e002.png" group-title="XXX",XXX: Sexy HOT
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50991
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50991
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: SHELK" tvg-logo="" group-title="XXX",XXX: SHELK
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51037
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51037
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Super One HD" tvg-logo="" group-title="XXX",XXX: Super One HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50975
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50975
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Threesome" tvg-logo="" group-title="XXX",XXX: Threesome
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51011
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51011
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="VNUS" tvg-name="XXX: VENUS" tvg-logo="https://s.imgexpress.net/c3ae215e515fb12299dd751d258ed3ab59b8a6796715c643cf2f0ca88934b514.png" group-title="XXX",XXX: VENUS
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50963
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50963
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Vivid Red HD" tvg-logo="https://s.imgexpress.net/1a2834e37246e242ad3cd2ac7ab9e5f0a602429193821b7afea6d955c93cda99.png" group-title="XXX",XXX: Vivid Red HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50970
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50970
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Vivid TV Europe" tvg-logo="" group-title="XXX",XXX: Vivid TV Europe
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50980
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50980
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: VIXEN HD" tvg-logo="" group-title="XXX",XXX: VIXEN HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51055
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51055
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: X Bizarre" tvg-logo="" group-title="XXX",XXX: X Bizarre
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51051
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51051
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: X Bunga Bunga" tvg-logo="" group-title="XXX",XXX: X Bunga Bunga
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51053
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51053
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: X Desire" tvg-logo="" group-title="XXX",XXX: X Desire
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51052
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51052
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: X-MO" tvg-logo="" group-title="XXX",XXX: X-MO
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51047
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51047
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: X1" tvg-logo="" group-title="XXX",XXX: X1
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51050
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51050
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="XXL" tvg-name="XXX: XXL" tvg-logo="https://s.imgexpress.net/7689ae673c5725ce70a2e0138dbd7c6d11ff83e841fac9f50fd95d0f6b15eba3.png" group-title="XXX",XXX: XXL
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50984
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50984
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: XY Max HD" tvg-logo="" group-title="XXX",XXX: XY Max HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50978
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50978
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: XY Mix HD" tvg-logo="" group-title="XXX",XXX: XY Mix HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50979
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50979
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: XY Plus HD" tvg-logo="" group-title="XXX",XXX: XY Plus HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/50977
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/50977
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: ОХ-АХ HD" tvg-logo="https://s.imgexpress.net/3502307b1ad4d1feb6a725672021261560d86790e7c406fff81fd984baabbf1d.png" group-title="XXX",XXX: ОХ-АХ HD
-http://trial.ifiesta.net:8080/TV-13434781364723/830813223678/51069
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51069
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XXX: Шалун TV" tvg-logo="https://s.imgexpress.net/d5e8f51e0bb26925f35b7caab284b91dac4bbe96e59375a929996c0314c8cd44.png" group-title="XXX",XXX: Шалун TV
-
-#EXTINF:-1,Redlight HD
-http://fghtyj34554iu.iptvbot.biz/iptv/67GP8CPGFYPHNC/242/index.m3u
-#EXTINF:-1,Penthouse TV
-http://fghtyj34554iu.iptvbot.biz/iptv/67GP8CPGFYPHNC/1073/index.m3u
-#EXTINF:-1,Playboy
-http://fghtyj34554iu.iptvbot.biz/iptv/67GP8CPGFYPHNC/527/index.m3u
-#EXTINF:-1,Dorcel TV HD
-http://fghtyj34554iu.iptvbot.biz/iptv/67GP8CPGFYPHNC/245/index.m3u
-#EXTINF:-1,Private TV
-http://fghtyj34554iu.iptvbot.biz/iptv/67GP8CPGFYPHNC/243/index.m3u8
-#EXTINF:-1,PRIVE
-http://fghtyj34554iu.iptvbot.biz/iptv/67GP8CPGFYPHNC/877/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Casting Couch X 1" tvg-logo="https://img.fstatic.com/_0ARst8_1Lx0uXaWnd2U3lNvR94=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2013/02/e0ff847f8dd21dad23a8e770e9dbf1af.jpg" group-title="FILMES +18",Casting Couch X 1
-http://clienteworld.com:8080/pai/12345/4217
-#EXTINF:-1 tvg-id="" tvg-name="Casting Couch X 2" tvg-logo="https://img.fstatic.com/_0ARst8_1Lx0uXaWnd2U3lNvR94=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2013/02/e0ff847f8dd21dad23a8e770e9dbf1af.jpg" group-title="FILMES +18",Casting Couch X 2
-http://clienteworld.com:8080/pai/12345/4216
-#EXTINF:-1 tvg-id="" tvg-name="Casting Couch X 3" tvg-logo="https://img.fstatic.com/_0ARst8_1Lx0uXaWnd2U3lNvR94=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2013/02/e0ff847f8dd21dad23a8e770e9dbf1af.jpg" group-title="FILMES +18",Casting Couch X 3
-http://clienteworld.com:8080/pai/12345/4215
-#EXTINF:-1 tvg-id="" tvg-name="Casting Couch X 4" tvg-logo="https://img.fstatic.com/_0ARst8_1Lx0uXaWnd2U3lNvR94=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2013/02/e0ff847f8dd21dad23a8e770e9dbf1af.jpg" group-title="FILMES +18",Casting Couch X 4
-http://clienteworld.com:8080/pai/12345/4214
-#EXTINF:-1 tvg-id="" tvg-name="Casting Couch X 5" tvg-logo="https://img.fstatic.com/_0ARst8_1Lx0uXaWnd2U3lNvR94=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2013/02/e0ff847f8dd21dad23a8e770e9dbf1af.jpg" group-title="FILMES +18",Casting Couch X 5
-http://clienteworld.com:8080/pai/12345/4213
-#EXTINF:-1 tvg-id="" tvg-name="Casting Couch X 6" tvg-logo="https://img.fstatic.com/_0ARst8_1Lx0uXaWnd2U3lNvR94=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2013/02/e0ff847f8dd21dad23a8e770e9dbf1af.jpg" group-title="FILMES +18",Casting Couch X 6
-http://clienteworld.com:8080/pai/12345/4212
-#EXTINF:-1 tvg-id="" tvg-name="Casting Couch X 7" tvg-logo="https://img.fstatic.com/_0ARst8_1Lx0uXaWnd2U3lNvR94=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2013/02/e0ff847f8dd21dad23a8e770e9dbf1af.jpg" group-title="FILMES +18",Casting Couch X 7
-http://clienteworld.com:8080/pai/12345/4211
-#EXTINF:-1 tvg-id="" tvg-name="PORNPROS 1" tvg-logo="" group-title="FILMES +18",PORNPROS 1
-http://clienteworld.com:8080/pai/12345/4159
-#EXTINF:-1 tvg-id="" tvg-name="PORNPROS 10" tvg-logo="" group-title="FILMES +18",PORNPROS 10
-http://clienteworld.com:8080/pai/12345/4150
-#EXTINF:-1 tvg-id="" tvg-name="PORNPROS 11" tvg-logo="" group-title="FILMES +18",PORNPROS 11
-http://clienteworld.com:8080/pai/12345/4149
-#EXTINF:-1 tvg-id="" tvg-name="PORNPROS 12" tvg-logo="" group-title="FILMES +18",PORNPROS 12
-http://clienteworld.com:8080/pai/12345/4148
-#EXTINF:-1 tvg-id="" tvg-name="PORNPROS 13" tvg-logo="" group-title="FILMES +18",PORNPROS 13
-http://clienteworld.com:8080/pai/12345/4147
-#EXTINF:-1 tvg-id="" tvg-name="PORNPROS 2" tvg-logo="" group-title="FILMES +18",PORNPROS 2
-http://clienteworld.com:8080/pai/12345/4158
-#EXTINF:-1 tvg-id="" tvg-name="PORNPROS 3" tvg-logo="" group-title="FILMES +18",PORNPROS 3
-http://clienteworld.com:8080/pai/12345/4157
-#EXTINF:-1 tvg-id="" tvg-name="PORNPROS 4" tvg-logo="" group-title="FILMES +18",PORNPROS 4
-http://clienteworld.com:8080/pai/12345/4156
-#EXTINF:-1 tvg-id="" tvg-name="PORNPROS 5" tvg-logo="" group-title="FILMES +18",PORNPROS 5
-http://clienteworld.com:8080/pai/12345/4155
-#EXTINF:-1 tvg-id="" tvg-name="PORNPROS 6" tvg-logo="" group-title="FILMES +18",PORNPROS 6
-http://clienteworld.com:8080/pai/12345/4154
-#EXTINF:-1 tvg-id="" tvg-name="PORNPROS 7" tvg-logo="" group-title="FILMES +18",PORNPROS 7
-http://clienteworld.com:8080/pai/12345/4153
-#EXTINF:-1 tvg-id="" tvg-name="PORNPROS 8" tvg-logo="" group-title="FILMES +18",PORNPROS 8
-http://clienteworld.com:8080/pai/12345/4152
-#EXTINF:-1 tvg-id="" tvg-name="PORNPROS 9" tvg-logo="" group-title="FILMES +18",PORNPROS 9
-http://clienteworld.com:8080/pai/12345/4151
-#EXTINF:-1 tvg-id="" tvg-name="Exotic4K 1" tvg-logo="" group-title="FILMES +18",Exotic4K 1
-http://clienteworld.com:8080/pai/12345/4210
-#EXTINF:-1 tvg-id="" tvg-name="Exotic4K 10" tvg-logo="" group-title="FILMES +18",Exotic4K 10
-http://clienteworld.com:8080/pai/12345/4201
-#EXTINF:-1 tvg-id="" tvg-name="Exotic4K 2" tvg-logo="" group-title="FILMES +18",Exotic4K 2
-http://clienteworld.com:8080/pai/12345/4209
-#EXTINF:-1 tvg-id="" tvg-name="Exotic4K 3" tvg-logo="" group-title="FILMES +18",Exotic4K 3
-http://clienteworld.com:8080/pai/12345/4208
-#EXTINF:-1 tvg-id="" tvg-name="Exotic4K 4" tvg-logo="" group-title="FILMES +18",Exotic4K 4
-http://clienteworld.com:8080/pai/12345/4207
-#EXTINF:-1 tvg-id="" tvg-name="Exotic4K 6" tvg-logo="" group-title="FILMES +18",Exotic4K 6
-http://clienteworld.com:8080/pai/12345/4205
-#EXTINF:-1 tvg-id="" tvg-name="Exotic4K 7" tvg-logo="" group-title="FILMES +18",Exotic4K 7
-http://clienteworld.com:8080/pai/12345/4204
-#EXTINF:-1 tvg-id="" tvg-name="Exotic4K 8" tvg-logo="" group-title="FILMES +18",Exotic4K 8
-http://clienteworld.com:8080/pai/12345/4203
-#EXTINF:-1 tvg-id="" tvg-name="Exotic4K 9" tvg-logo="" group-title="FILMES +18",Exotic4K 9
-http://clienteworld.com:8080/pai/12345/4202
-#EXTINF:-1 tvg-id="" tvg-name="Fantasy HD" tvg-logo="" group-title="FILMES +18",Fantasy HD
-http://clienteworld.com:8080/pai/12345/4199
-#EXTINF:-1 tvg-id="" tvg-name="FantasyHD 1" tvg-logo="" group-title="FILMES +18",FantasyHD 1
-http://clienteworld.com:8080/pai/12345/4200
-#EXTINF:-1 tvg-id="" tvg-name="FantasyHD 3" tvg-logo="" group-title="FILMES +18",FantasyHD 3
-http://clienteworld.com:8080/pai/12345/4198
-#EXTINF:-1 tvg-id="" tvg-name="FantasyHD 4" tvg-logo="" group-title="FILMES +18",FantasyHD 4
-http://clienteworld.com:8080/pai/12345/4197
-#EXTINF:-1 tvg-id="" tvg-name="FantasyHD 5" tvg-logo="" group-title="FILMES +18",FantasyHD 5
-http://clienteworld.com:8080/pai/12345/4196
-#EXTINF:-1 tvg-id="" tvg-name="FantasyHD 6" tvg-logo="" group-title="FILMES +18",FantasyHD 6
-http://clienteworld.com:8080/pai/12345/4195
-#EXTINF:-1 tvg-id="" tvg-name="FantasyHD 7" tvg-logo="" group-title="FILMES +18",FantasyHD 7
-http://clienteworld.com:8080/pai/12345/4194
-#EXTINF:-1 tvg-id="" tvg-name="FantasyHD 8" tvg-logo="" group-title="FILMES +18",FantasyHD 8
-http://clienteworld.com:8080/pai/12345/4193
-#EXTINF:-1 tvg-id="" tvg-name="NUBILE 2" tvg-logo="" group-title="FILMES +18",NUBILE 2
-http://clienteworld.com:8080/pai/12345/4181
-#EXTINF:-1 tvg-id="" tvg-name="NUBILE 4" tvg-logo="" group-title="FILMES +18",NUBILE 4
-http://clienteworld.com:8080/pai/12345/4179
-#EXTINF:-1 tvg-id="" tvg-name="NUBILE 5" tvg-logo="" group-title="FILMES +18",NUBILE 5
-http://clienteworld.com:8080/pai/12345/4178
-#EXTINF:-1 tvg-id="" tvg-name="PASSION HD 1" tvg-logo="" group-title="FILMES +18",PASSION HD 1
-http://clienteworld.com:8080/pai/12345/4177
-#EXTINF:-1 tvg-id="" tvg-name="PASSION HD 10" tvg-logo="" group-title="FILMES +18",PASSION HD 10
-http://clienteworld.com:8080/pai/12345/4168
-#EXTINF:-1 tvg-id="" tvg-name="PASSION HD 11" tvg-logo="" group-title="FILMES +18",PASSION HD 11
-http://clienteworld.com:8080/pai/12345/4167
-#EXTINF:-1 tvg-id="" tvg-name="PASSION HD 12" tvg-logo="" group-title="FILMES +18",PASSION HD 12
-http://clienteworld.com:8080/pai/12345/4166
-#EXTINF:-1 tvg-id="" tvg-name="PASSION HD 13" tvg-logo="" group-title="FILMES +18",PASSION HD 13
-http://clienteworld.com:8080/pai/12345/4165
-#EXTINF:-1 tvg-id="" tvg-name="PASSION HD 14" tvg-logo="" group-title="FILMES +18",PASSION HD 14
-http://clienteworld.com:8080/pai/12345/4164
-#EXTINF:-1 tvg-id="" tvg-name="PASSION HD 15" tvg-logo="" group-title="FILMES +18",PASSION HD 15
-http://clienteworld.com:8080/pai/12345/4163
-#EXTINF:-1 tvg-id="" tvg-name="PASSION HD 16" tvg-logo="" group-title="FILMES +18",PASSION HD 16
-http://clienteworld.com:8080/pai/12345/4162
-#EXTINF:-1 tvg-id="" tvg-name="PASSION HD 17" tvg-logo="" group-title="FILMES +18",PASSION HD 17
-http://clienteworld.com:8080/pai/12345/4161
-#EXTINF:-1 tvg-id="" tvg-name="PASSION HD 18" tvg-logo="" group-title="FILMES +18",PASSION HD 18
-http://clienteworld.com:8080/pai/12345/4160
-#EXTINF:-1 tvg-id="" tvg-name="PASSION HD 3" tvg-logo="" group-title="FILMES +18",PASSION HD 3
-http://clienteworld.com:8080/pai/12345/4175
-#EXTINF:-1 tvg-id="" tvg-name="PASSION HD 4" tvg-logo="" group-title="FILMES +18",PASSION HD 4
-http://clienteworld.com:8080/pai/12345/4174
-#EXTINF:-1 tvg-id="" tvg-name="PASSION HD 5" tvg-logo="" group-title="FILMES +18",PASSION HD 5
-http://clienteworld.com:8080/pai/12345/4173
-#EXTINF:-1 tvg-id="" tvg-name="PASSION HD 6" tvg-logo="" group-title="FILMES +18",PASSION HD 6
-http://clienteworld.com:8080/pai/12345/4172
-#EXTINF:-1 tvg-id="" tvg-name="PASSION HD 7" tvg-logo="" group-title="FILMES +18",PASSION HD 7
-http://clienteworld.com:8080/pai/12345/4171
-#EXTINF:-1 tvg-id="" tvg-name="PASSION HD 8" tvg-logo="" group-title="FILMES +18",PASSION HD 8
-http://clienteworld.com:8080/pai/12345/4170
-#EXTINF:-1 tvg-id="" tvg-name="PASSION HD 9" tvg-logo="" group-title="FILMES +18",PASSION HD 9
-http://clienteworld.com:8080/pai/12345/4169
-#EXTINF:-1 tvg-id="" tvg-name="Babes 17" tvg-logo="" group-title="ADULTOS",Babes 17
-http://clienteworld.com:8080/pai/12345/4218
-#EXTINF:-1 tvg-id="" tvg-name="POVD 1" tvg-logo="" group-title="FILMES +18",POVD 1
-http://clienteworld.com:8080/pai/12345/4146
-#EXTINF:-1 tvg-id="" tvg-name="POVD 2" tvg-logo="" group-title="FILMES +18",POVD 2
-http://clienteworld.com:8080/pai/12345/4145
-#EXTINF:-1 tvg-id="" tvg-name="POVD 3" tvg-logo="" group-title="FILMES +18",POVD 3
-http://clienteworld.com:8080/pai/12345/4144
-#EXTINF:-1 tvg-id="" tvg-name="POVD 4" tvg-logo="" group-title="FILMES +18",POVD 4
-http://clienteworld.com:8080/pai/12345/4143
-#EXTINF:-1 tvg-id="" tvg-name="POVD 5" tvg-logo="" group-title="FILMES +18",POVD 5
-http://clienteworld.com:8080/pai/12345/4142
-#EXTINF:-1 tvg-id="" tvg-name="POVD 6" tvg-logo="" group-title="FILMES +18",POVD 6
-http://clienteworld.com:8080/pai/12345/4141
-#EXTINF:-1 tvg-id="" tvg-name="POVD 7" tvg-logo="" group-title="FILMES +18",POVD 7
-http://clienteworld.com:8080/pai/12345/4140
-#EXTINF:-1 tvg-id="" tvg-name="POVD 8" tvg-logo="" group-title="FILMES +18",POVD 8
-http://clienteworld.com:8080/pai/12345/4139
-#EXTINF:-1 tvg-id="" tvg-name="POVD 9" tvg-logo="" group-title="FILMES +18",POVD 9
-http://clienteworld.com:8080/pai/12345/4138
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 01" tvg-logo="" group-title="FILMES +18",PureMature 01
-http://clienteworld.com:8080/pai/12345/4137
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 02" tvg-logo="" group-title="FILMES +18",PureMature 02
-http://clienteworld.com:8080/pai/12345/4136
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 03" tvg-logo="" group-title="FILMES +18",PureMature 03
-http://clienteworld.com:8080/pai/12345/4135
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 04" tvg-logo="" group-title="FILMES +18",PureMature 04
-http://clienteworld.com:8080/pai/12345/4134
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 05" tvg-logo="" group-title="FILMES +18",PureMature 05
-http://clienteworld.com:8080/pai/12345/4133
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 06" tvg-logo="" group-title="FILMES +18",PureMature 06
-http://clienteworld.com:8080/pai/12345/4132
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 07" tvg-logo="" group-title="FILMES +18",PureMature 07
-http://clienteworld.com:8080/pai/12345/4131
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 08" tvg-logo="" group-title="FILMES +18",PureMature 08
-http://clienteworld.com:8080/pai/12345/4130
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 09" tvg-logo="" group-title="FILMES +18",PureMature 09
-http://clienteworld.com:8080/pai/12345/4129
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 10" tvg-logo="" group-title="FILMES +18",PureMature 10
-http://clienteworld.com:8080/pai/12345/4128
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 11" tvg-logo="" group-title="FILMES +18",PureMature 11
-http://clienteworld.com:8080/pai/12345/4127
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 12" tvg-logo="" group-title="FILMES +18",PureMature 12
-http://clienteworld.com:8080/pai/12345/4126
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 13" tvg-logo="" group-title="FILMES +18",PureMature 13
-http://clienteworld.com:8080/pai/12345/4125
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 14" tvg-logo="" group-title="FILMES +18",PureMature 14
-http://clienteworld.com:8080/pai/12345/4124
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 15" tvg-logo="" group-title="FILMES +18",PureMature 15
-http://clienteworld.com:8080/pai/12345/4123
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 16" tvg-logo="" group-title="FILMES +18",PureMature 16
-http://clienteworld.com:8080/pai/12345/4122
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 17" tvg-logo="" group-title="FILMES +18",PureMature 17
-http://clienteworld.com:8080/pai/12345/4121
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 18" tvg-logo="" group-title="FILMES +18",PureMature 18
-http://clienteworld.com:8080/pai/12345/4120
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 19" tvg-logo="" group-title="FILMES +18",PureMature 19
-http://clienteworld.com:8080/pai/12345/4119
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 20" tvg-logo="" group-title="FILMES +18",PureMature 20
-http://clienteworld.com:8080/pai/12345/4118
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 21" tvg-logo="" group-title="FILMES +18",PureMature 21
-http://clienteworld.com:8080/pai/12345/4117
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 23" tvg-logo="" group-title="FILMES +18",PureMature 23
-http://clienteworld.com:8080/pai/12345/4115
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 25" tvg-logo="" group-title="FILMES +18",PureMature 25
-http://clienteworld.com:8080/pai/12345/4113
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 26" tvg-logo="" group-title="FILMES +18",PureMature 26
-http://clienteworld.com:8080/pai/12345/4112
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 27" tvg-logo="" group-title="FILMES +18",PureMature 27
-http://clienteworld.com:8080/pai/12345/4111
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 28" tvg-logo="" group-title="FILMES +18",PureMature 28
-http://clienteworld.com:8080/pai/12345/4110
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 29" tvg-logo="" group-title="FILMES +18",PureMature 29
-http://clienteworld.com:8080/pai/12345/4109
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 30" tvg-logo="" group-title="FILMES +18",PureMature 30
-http://clienteworld.com:8080/pai/12345/4108
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 31" tvg-logo="" group-title="FILMES +18",PureMature 31
-http://clienteworld.com:8080/pai/12345/4107
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 32" tvg-logo="" group-title="FILMES +18",PureMature 32
-http://clienteworld.com:8080/pai/12345/4106
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 33" tvg-logo="" group-title="FILMES +18",PureMature 33
-http://clienteworld.com:8080/pai/12345/4105
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 34" tvg-logo="" group-title="FILMES +18",PureMature 34
-http://clienteworld.com:8080/pai/12345/4104
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 35" tvg-logo="" group-title="FILMES +18",PureMature 35
-http://clienteworld.com:8080/pai/12345/4103
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 36" tvg-logo="" group-title="FILMES +18",PureMature 36
-http://clienteworld.com:8080/pai/12345/4102
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 37" tvg-logo="" group-title="FILMES +18",PureMature 37
-http://clienteworld.com:8080/pai/12345/4101
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 38" tvg-logo="" group-title="FILMES +18",PureMature 38
-http://clienteworld.com:8080/pai/12345/4100
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 39" tvg-logo="" group-title="FILMES +18",PureMature 39
-http://clienteworld.com:8080/pai/12345/4099
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 40" tvg-logo="" group-title="FILMES +18",PureMature 40
-http://clienteworld.com:8080/pai/12345/4098
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 41" tvg-logo="" group-title="FILMES +18",PureMature 41
-http://clienteworld.com:8080/pai/12345/4097
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 42" tvg-logo="" group-title="FILMES +18",PureMature 42
-http://clienteworld.com:8080/pai/12345/4096
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 43" tvg-logo="" group-title="FILMES +18",PureMature 43
-http://clienteworld.com:8080/pai/12345/4095
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 44" tvg-logo="" group-title="FILMES +18",PureMature 44
-http://clienteworld.com:8080/pai/12345/4094
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 45" tvg-logo="" group-title="FILMES +18",PureMature 45
-http://clienteworld.com:8080/pai/12345/4093
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 46" tvg-logo="" group-title="FILMES +18",PureMature 46
-http://clienteworld.com:8080/pai/12345/4092
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 47" tvg-logo="" group-title="FILMES +18",PureMature 47
-http://clienteworld.com:8080/pai/12345/4091
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 48" tvg-logo="" group-title="FILMES +18",PureMature 48
-http://clienteworld.com:8080/pai/12345/4090
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 49" tvg-logo="" group-title="FILMES +18",PureMature 49
-http://clienteworld.com:8080/pai/12345/4089
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 50" tvg-logo="" group-title="FILMES +18",PureMature 50
-http://clienteworld.com:8080/pai/12345/4088
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 51" tvg-logo="" group-title="FILMES +18",PureMature 51
-http://clienteworld.com:8080/pai/12345/4087
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 52" tvg-logo="" group-title="FILMES +18",PureMature 52
-http://clienteworld.com:8080/pai/12345/4086
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 53" tvg-logo="" group-title="FILMES +18",PureMature 53
-http://clienteworld.com:8080/pai/12345/4085
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 54" tvg-logo="" group-title="FILMES +18",PureMature 54
-http://clienteworld.com:8080/pai/12345/4084
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 55" tvg-logo="" group-title="FILMES +18",PureMature 55
-http://clienteworld.com:8080/pai/12345/4083
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 56" tvg-logo="" group-title="FILMES +18",PureMature 56
-http://clienteworld.com:8080/pai/12345/4082
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 57" tvg-logo="" group-title="FILMES +18",PureMature 57
-http://clienteworld.com:8080/pai/12345/4081
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 58" tvg-logo="" group-title="FILMES +18",PureMature 58
-http://clienteworld.com:8080/pai/12345/4080
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 59" tvg-logo="" group-title="FILMES +18",PureMature 59
-http://clienteworld.com:8080/pai/12345/4079
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 60" tvg-logo="" group-title="FILMES +18",PureMature 60
-http://clienteworld.com:8080/pai/12345/4078
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 62" tvg-logo="" group-title="FILMES +18",PureMature 62
-http://clienteworld.com:8080/pai/12345/4076
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 63" tvg-logo="" group-title="FILMES +18",PureMature 63
-http://clienteworld.com:8080/pai/12345/4075
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 64" tvg-logo="" group-title="FILMES +18",PureMature 64
-http://clienteworld.com:8080/pai/12345/4074
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 65" tvg-logo="" group-title="FILMES +18",PureMature 65
-http://clienteworld.com:8080/pai/12345/4073
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 66" tvg-logo="" group-title="FILMES +18",PureMature 66
-http://clienteworld.com:8080/pai/12345/4072
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 68" tvg-logo="" group-title="FILMES +18",PureMature 68
-http://clienteworld.com:8080/pai/12345/4071
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 69" tvg-logo="" group-title="FILMES +18",PureMature 69
-http://clienteworld.com:8080/pai/12345/4070
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 70" tvg-logo="" group-title="FILMES +18",PureMature 70
-http://clienteworld.com:8080/pai/12345/4069
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 71" tvg-logo="" group-title="FILMES +18",PureMature 71
-http://clienteworld.com:8080/pai/12345/4068
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 72" tvg-logo="" group-title="FILMES +18",PureMature 72
-http://clienteworld.com:8080/pai/12345/4067
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 73" tvg-logo="" group-title="FILMES +18",PureMature 73
-http://clienteworld.com:8080/pai/12345/4066
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 74" tvg-logo="" group-title="FILMES +18",PureMature 74
-http://clienteworld.com:8080/pai/12345/4065
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 75" tvg-logo="" group-title="FILMES +18",PureMature 75
-http://clienteworld.com:8080/pai/12345/4064
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 76" tvg-logo="" group-title="FILMES +18",PureMature 76
-http://clienteworld.com:8080/pai/12345/4063
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 77" tvg-logo="" group-title="FILMES +18",PureMature 77
-http://clienteworld.com:8080/pai/12345/4062
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 78" tvg-logo="" group-title="FILMES +18",PureMature 78
-http://clienteworld.com:8080/pai/12345/4061
-#EXTINF:-1 tvg-id="" tvg-name="PureMature 79" tvg-logo="" group-title="FILMES +18",PureMature 79
-http://clienteworld.com:8080/pai/12345/4060
-#EXTINF:-1 tvg-id="" tvg-name="TINY4K 1" tvg-logo="" group-title="FILMES +18",TINY4K 1
-http://clienteworld.com:8080/pai/12345/4059
-#EXTINF:-1 tvg-id="" tvg-name="TINY4K 10" tvg-logo="" group-title="FILMES +18",TINY4K 10
-http://clienteworld.com:8080/pai/12345/4050
-#EXTINF:-1 tvg-id="" tvg-name="TINY4K 11" tvg-logo="" group-title="FILMES +18",TINY4K 11
-http://clienteworld.com:8080/pai/12345/4049
-#EXTINF:-1 tvg-id="" tvg-name="TINY4K 2" tvg-logo="" group-title="FILMES +18",TINY4K 2
-http://clienteworld.com:8080/pai/12345/4058
-#EXTINF:-1 tvg-id="" tvg-name="TINY4K 3" tvg-logo="" group-title="FILMES +18",TINY4K 3
-http://clienteworld.com:8080/pai/12345/4057
-#EXTINF:-1 tvg-id="" tvg-name="TINY4K 4" tvg-logo="" group-title="FILMES +18",TINY4K 4
-http://clienteworld.com:8080/pai/12345/4056
-#EXTINF:-1 tvg-id="" tvg-name="TINY4K 5" tvg-logo="" group-title="FILMES +18",TINY4K 5
-http://clienteworld.com:8080/pai/12345/4055
-#EXTINF:-1 tvg-id="" tvg-name="TINY4K 7" tvg-logo="" group-title="FILMES +18",TINY4K 7
-http://clienteworld.com:8080/pai/12345/4053
-#EXTINF:-1 tvg-id="" tvg-name="TINY4K 8" tvg-logo="" group-title="FILMES +18",TINY4K 8
-http://clienteworld.com:8080/pai/12345/4052
-#EXTINF:-1 tvg-id="" tvg-name="TINY4K 9" tvg-logo="" group-title="FILMES +18",TINY4K 9
-http://clienteworld.com:8080/pai/12345/4051
-#EXTINF:-1 tvg-id="" tvg-name="Videos:Adult 4K: VOD1" tvg-logo="" group-title="FILMES +18",Videos:Adult 4K: VOD1
-http://clienteworld.com:8080/pai/12345/4874
-#EXTINF:-1 tvg-id="" tvg-name="Videos:Adult 4K: VOD10" tvg-logo="" group-title="FILMES +18",Videos:Adult 4K: VOD10
-http://clienteworld.com:8080/pai/12345/4873
-#EXTINF:-1 tvg-id="" tvg-name="Videos:Adult 4K: VOD11" tvg-logo="" group-title="FILMES +18",Videos:Adult 4K: VOD11
-http://clienteworld.com:8080/pai/12345/4872
-#EXTINF:-1 tvg-id="" tvg-name="Videos:Adult 4K: VOD2" tvg-logo="" group-title="FILMES +18",Videos:Adult 4K: VOD2
-http://clienteworld.com:8080/pai/12345/4871
-#EXTINF:-1 tvg-id="" tvg-name="Videos:Adult 4K: VOD3" tvg-logo="" group-title="FILMES +18",Videos:Adult 4K: VOD3
-http://clienteworld.com:8080/pai/12345/4870
-#EXTINF:-1 tvg-id="" tvg-name="Videos:Adult 4K: VOD4" tvg-logo="" group-title="FILMES +18",Videos:Adult 4K: VOD4
-http://clienteworld.com:8080/pai/12345/4869
-#EXTINF:-1 tvg-id="" tvg-name="Videos:Adult 4K: VOD5" tvg-logo="" group-title="FILMES +18",Videos:Adult 4K: VOD5
-http://clienteworld.com:8080/pai/12345/4868
-#EXTINF:-1 tvg-id="" tvg-name="Videos:Adult 4K: VOD7" tvg-logo="" group-title="FILMES +18",Videos:Adult 4K: VOD7
-http://clienteworld.com:8080/pai/12345/4866
-#EXTINF:-1 tvg-id="" tvg-name="Videos:Adult 4K: VOD8" tvg-logo="" group-title="FILMES +18",Videos:Adult 4K: VOD8
-http://clienteworld.com:8080/pai/12345/4865
-#EXTINF:-1 tvg-id="" tvg-name="Videos:Adult 4K: VOD9" tvg-logo="" group-title="FILMES +18",Videos:Adult 4K: VOD9
-http://clienteworld.com:8080/pai/12345/4864
-#EXTINF:-1,XXX: PLAYBOY HD (BR1)
-http://51.15.15.119:25461/92/123/58359
-#EXTINF:-1,XXX: PLAYBOY SD (BR1)
-http://51.15.15.119:25461/92/123/58358
-#EXTINF:-1,XXX: SEXTREME SD (BR1)
-http://51.15.15.119:25461/92/123/58357
-#EXTINF:-1,XXX: SEXY HOT SD (BR1)
-http://51.15.15.119:25461/92/123/58356
-#EXTINF:-1,XXX: VENUS SD (BR1)
-http://51.15.15.119:25461/92/123/58355
-#EXTINF:-1,XXX: 24HS ADULTO (BR2)
-http://51.15.15.119:25461/92/123/62572
-#EXTINF:-1,XXX: 24HS ADULTO LGBT (BR2)
-http://51.15.15.119:25461/92/123/62571
-#EXTINF:-1,XXX: 24HS: BRASILEIRINHAS (BR2)
-http://51.15.15.119:25461/92/123/62485
-#EXTINF:-1,XXX: 24HS: LESBIAN (BR2)
-http://51.15.15.119:25461/92/123/62484
-#EXTINF:-1,Reality kings XXX
-http://istream.dyndns.tv:8000/Giovanniragnetti/skype/2121
-#EXTINF:-1,Dorcel HD XXX
-http://istream.dyndns.tv:8000/Giovanniragnetti/skype/2120
-#EXTINF:-1,Satisfaction XXX
-http://istream.dyndns.tv:8000/Giovanniragnetti/skype/1821
-#EXTINF:-1,Redlight HD XXX
-http://istream.dyndns.tv:8000/Giovanniragnetti/skype/1820
-#EXTINF:-1,CENTOXCENTO XXX
-http://istream.dyndns.tv:8000/Giovanniragnetti/skype/1124
-#EXTINF:-1,Exotica TV XXX
-http://istream.dyndns.tv:8000/Giovanniragnetti/skype/1125
-#EXTINF:-1,Superone XXX
-http://istream.dyndns.tv:8000/Giovanniragnetti/skype/1126
-#EXTINF:-1,Vivid TV
-http://istream.dyndns.tv:8000/Giovanniragnetti/skype/1127
-#EXTINF:-1,Pink O TV XXX
-http://istream.dyndns.tv:8000/Giovanniragnetti/skype/1129
-#EXTINF:-1,Venus XXX
-http://istream.dyndns.tv:8000/Giovanniragnetti/skype/1130
-#EXTINF:-1,Sesto Senso XXX
-http://istream.dyndns.tv:8000/Giovanniragnetti/skype/3319
-#EXTINF:-1,Brazzers Europa XXX
-http://istream.dyndns.tv:8000/Giovanniragnetti/skype/3320
-#EXTINF:-1,Hustler TV XXX
-http://istream.dyndns.tv:8000/Giovanniragnetti/skype/3318
-#EXTINF:-1,Evil Angel XXX
-http://istream.dyndns.tv:8000/Giovanniragnetti/skype/3322
-#EXTINF:-1,Penthouse XXX
-http://istream.dyndns.tv:8000/Giovanniragnetti/skype/3321
+http://trial.ifiesta.net:8080/TV-13503458739093/326709583505/51002
