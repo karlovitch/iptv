@@ -1,5 +1,78 @@
 #EXTM3U
 
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/19156/index.m3u8
+#EXTINF:0,ELEVEN SPORTS 1 UHD PT
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/19158/index.m3u8
+#EXTINF:0,BENFICA 4K TV UHD PT
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/19160/index.m3u8
+#EXTINF:0,SPORT TV 1 4K UHD PT
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/19161/index.m3u8
+
+#EXTINF:0,SKY SPORTS F1 UK
+#EXTGRP:Великобритания | United Kingdom
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/7342/index.m3u8
+#EXTINF:0,Sky Sport F1 FHD DE
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/10079/index.m3u8
+
+#EXTINF:0,TNT SPORTS 1 HD
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/19051/index.m3u8
+#EXTINF:0,TNT SPORTS 2 HD
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/19052/index.m3u8
+#EXTINF:0,TNT SPORTS 3 HD
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/19053/index.m3u8
+#EXTINF:0,TNT SPORTS 4 HD
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/19054/index.m3u8
+#EXTINF:0,TNT SPORTS 6 HD
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/19055/index.m3u8
+
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/20098/index.m3u8
+#EXTINF:0,ViP Sport 1
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/20099/index.m3u8
+#EXTINF:0,ViP Sport 2
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/20103/index.m3u8
+#EXTINF:0,ViP Sport 3
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/20104/index.m3u8
+#EXTINF:0,ViP Sport 4
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/20105/index.m3u8
+#EXTINF:0,ViP Sport 5
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/20106/index.m3u8
+#EXTINF:0,ViP Sport 6
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/20107/index.m3u8
+#EXTINF:0,ViP Sport 7
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/20108/index.m3u8
+#EXTINF:0,ViP Sport 8
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/20109/index.m3u8
+#EXTINF:0,ViP Sport 9
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/20110/index.m3u8
+#EXTINF:0,ViP Sport 10
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/20100/index.m3u8
+#EXTINF:0,ViP Sport 11
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/20101/index.m3u8
+#EXTINF:0,ViP Sport 12
+#EXTGRP:Спорт
+http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/20102/index.m3u8
+
+
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports FHD" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes",BandSports FHD
 http://rdns.tv:80/pkzle7st/qtcdz0nprosa/4030
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports FHD [H265]" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes",BandSports FHD [H265]
