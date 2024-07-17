@@ -85,7 +85,6 @@ http://rdns.tv:80/pkzle7st/qtcdz0nprosa/332425
 http://rdns.tv:80/pkzle7st/qtcdz0nprosa/4504
 
 
-#EXTM3U
 #EXTINF:-1 tvg-id="Sport.sk" tvg-logo="https://i.imgur.com/oAtcxNZ.png" group-title="Sports",:Šport (1080p)
 http://88.212.7.10/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Sports",A Spor (1080p) [Not 24/7]
