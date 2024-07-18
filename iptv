@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 SD
 http://869842410113339545.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/339545.ts
 #EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-6-pt.png" group-title="Portugal",PT: SPORT TV 6 FHD
@@ -79,152 +80,35 @@ http://869842410113888589.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/888589.ts
 #EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 HD
 http://869842410113888590.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/888590.ts
 
-
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 SD
-http://678095340978339545.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/339545.ts
-#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-6-pt.png" group-title="Portugal",PT: SPORT TV 6 FHD
-http://678095340978416381.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/416381.ts
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 SD
-http://678095340978623298.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/623298.ts
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA SD" tvg-logo="https://www.nba.com/assets/nbatv/logo/grid/nba-tv-horiz-color.png" group-title="Portugal",PT: SPORT TV NBA SD
-http://678095340978690408.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/690408.ts
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV + FHD" tvg-logo="https://tvepg.eu/img/portugal/reviews/sport_tv_plus/european_qualifiers_antevisao_jornadas_9_e_10.png" group-title="Portugal",PT: SPORT TV + FHD
-http://678095340978777315.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/777315.ts
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9bf5af3772129242bc57be6863073ff7.png" group-title="Portugal",PT: SPORT TV 5 HD
-http://678095340978777317.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/777317.ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 SD" tvg-logo="http://live21.site/LOGOS/picons/SPORT_TV2.png" group-title="Portugal",PT: SPORT TV 2 SD
-http://678095340978798248.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/798248.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTV 1 FHD" tvg-logo="" group-title="Portugal",PT: SPORTV 1 FHD
-http://678095340978802499.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/802499.ts
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 HD
-http://678095340978871946.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/871946.ts
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 SD" tvg-logo="https://i1.wp.com/1.bp.blogspot.com/-sSoHu8yNg7Q/V_YOzJcaLKI/AAAAAAAABq0/bJ4dJhM-DvIh8dugy8d63VfChRbzei6-ACLcB/s1600/urrwxq1436898891.png" group-title="Portugal",PT: SPORT TV 4 SD
-http://678095340978874009.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/874009.ts
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT: SPORT TV 6 SD" tvg-logo="" group-title="Portugal",PT: SPORT TV 6 SD
-http://678095340978886650.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/886650.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 [LIVE DURING EVENTS ONLY] SD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 [LIVE DURING EVENTS ONLY] SD
-http://678095340978887795.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/887795.ts
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 5 FHD
-http://678095340978887796.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/887796.ts
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 FHD
-http://678095340978888589.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/888589.ts
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 HD
-http://678095340978888590.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/888590.ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://live.phenixiptv.com:8080/images/8a71fc2c6ef35d9e1220103f85278a6a.png" group-title="SVIP SPORTS",PT: SPORT TV 2 FHD
-http://678095340978318977.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/318977.ts
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="http://live.phenixiptv.com:8080/images/aa7c9dd5238e7a946b8031b7218c8279.png" group-title="SVIP SPORTS",PT: SPORT TV 3 SD
-http://678095340978318982.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/318982.ts
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 SD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9bf5af3772129242bc57be6863073ff7.png" group-title="SVIP SPORTS",PT: SPORT TV 5 SD
-http://678095340978318994.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/318994.ts
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HEVC" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 1 HEVC
-http://678095340978422954.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/422954.ts
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV NBA FHD
-http://678095340978437114.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/437114.ts
-#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 6 FHD
-http://678095340978757268.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/757268.ts
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 SD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 4 SD
-http://678095340978849521.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/849521.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 FIBRA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 6 FIBRA FHD
-http://678095340978852924.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/852924.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FIBRA SD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 4 FIBRA SD
-http://678095340978868953.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/868953.ts
-EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FIBRA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 1 FIBRA FHD
-http://678095340978877467.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/877467.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 1 [VDF SCRITP] HD
-http://678095340978877468.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/877468.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FIBRA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 2 FIBRA FHD
-http://678095340978877469.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/877469.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 2 [VDF SCRITP] HD
-http://678095340978877470.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/877470.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 3 [VDF SCRITP] HD
-http://678095340978877472.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/877472.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 4 [VDF SCRITP] HD
-http://678095340978877473.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/877473.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 6 [VDF SCRITP] HD
-http://678095340978877477.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/877477.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV MAIS HD [VDF] FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV MAIS HD [VDF] FHD
-http://678095340978877478.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/877478.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV NBA [VDF SCRITP] HD
-http://678095340978877479.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/877479.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FIBRA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 5 FIBRA FHD
-http://678095340978879799.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/879799.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 5 [VDF SCRITP] HD
-http://678095340978881418.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/881418.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FIBRA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 3 FIBRA FHD
-http://678095340978882934.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/882934.ts
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 3 FHD
-http://678095340978888098.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/888098.ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 2 HD
-http://678095340978889421.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/889421.ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 HEVC" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 2 HEVC
-http://678095340978889422.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/889422.ts
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6 HD
-http://678095340978744516.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/744516.ts
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 HEVC" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="Portugal",PT: ELEVEN SPORTS 3 HEVC
-http://678095340978746355.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/746355.ts
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 SD
-http://678095340978755739.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/755739.ts
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 HD
-http://678095340978798232.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/798232.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3ᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3ᶠᴴᴰ FHD
-http://678095340978802464.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/802464.ts
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 FHD
-http://678095340978802465.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/802465.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6ᶠᴴᴰ HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6ᶠᴴᴰ HD
-http://678095340978817728.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/817728.ts
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 2 HD
-http://678095340978821804.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/821804.ts
-#EXTINF:-1 tvg-id="Eleven 1 (35).pt" tvg-name="PT: ELEVEN 1 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 1 FHD
-http://678095340978845747.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/845747.ts
-#EXTINF:-1 tvg-id="Eleven 3 (37).pt" tvg-name="PT: ELEVEN 3 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 3 SD
-http://678095340978845748.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/845748.ts
-#EXTINF:-1 tvg-id="Eleven 4 (38).pt" tvg-name="PT: ELEVEN 4 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN 4 HD
-http://678095340978845749.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/845749.ts
-#EXTINF:-1 tvg-id="Eleven 5 (39).pt" tvg-name="PT: ELEVEN 5 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 5 FHD
-http://678095340978845750.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/845750.ts
-#EXTINF:-1 tvg-id="Eleven 6 (40).pt" tvg-name="PT: ELEVEN 6 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 6 SD
-http://678095340978845751.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/845751.ts
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORT 1 HEVC" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 1 HEVC
-http://678095340978880248.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/880248.ts
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORT 2 HEVC" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 2 HEVC
-http://678095340978880889.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/880889.ts
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORT 3 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 3 FHD
-http://678095340978880890.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/880890.ts
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORT 5 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 5 HD
-http://678095340978880892.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/880892.ts
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORT 6 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 6 HD
-http://678095340978880893.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/880893.ts
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 HD
-http://678095340978884814.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/884814.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD HEVEC HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 HD HEVEC HD
-http://678095340978885439.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/885439.ts
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 HEVC" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 2 HEVC
-http://678095340978885440.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/885440.ts
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 HD
-http://678095340978886857.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/886857.ts
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jDWzt5jHJDcpQzKZvIWOYVDMX6t5A2SBO4PnVRXEkw7eQ.png" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 2 FHD
-http://678095340978318939.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/318939.ts
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 6 HD
-http://678095340978447325.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/447325.ts
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 HEVC" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 3 HEVC
-http://678095340978660566.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/660566.ts
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 HEVC" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 1 HEVC
-http://678095340978779952.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/779952.ts
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 5 HD
-http://678095340978784141.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/784141.ts
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORT 1 HEVC" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORT 1 HEVC
-http://678095340978848240.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/848240.ts
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 4 FHD
-http://678095340978859415.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/859415.ts
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORT 2 HD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORT 2 HD
-http://678095340978873576.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/873576.ts
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORT 3 SD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORT 3 SD
-http://678095340978882933.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/882933.ts
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORT 5 FHD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORT 5 FHD
-http://678095340978885054.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/885054.ts
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORT 6 SD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORT 6 SD
-http://678095340978888095.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/888095.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA" tvg-logo="" group-title="NBA",PT: SPORT TV NBA
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/468026
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV +
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/481424
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/481425
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/481426
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 3
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/481427
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 4
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/481428
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 5
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/481429
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 6
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/481430
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 1
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/481366
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 2
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/481367
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 3
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/481368
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 4
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/481369
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 5
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/481370
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 6
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/481371
+#EXTINF:-1 tvg-id="" tvg-name="PT: Benfica TV" tvg-logo="" group-title="PORTUGAL",PT: Benfica TV
 
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 FHD1 HD" tvg-logo="" group-title="SVIP SPORTS",UK: SKY SPORTS F1 FHD1 HD
@@ -250,30 +134,10 @@ http://869842410113815575.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/815575.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORTS | HEVC" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/band-sports.jpg" group-title="Brazil",BR: BAND SPORTS | HEVC
 http://869842410113889566.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/889566.ts
 
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 (BACKUP) HD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS F1 (BACKUP) HD
-http://678095340978306439.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/306439.ts
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1 SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNgP3K3hGb9dr0jv94ekiGr.png" group-title="UK Sport",UK: SKY SPORTS F1 SD
-http://678095340978306441.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/306441.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 VIP HD" tvg-logo="" group-title="SVIP SPORTS",UK: SKY SPORTS F1 VIP HD
-http://678095340978848301.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/848301.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 (BACKUP) HD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS F1 (BACKUP) HD
-http://678095340978306439.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/306439.ts
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1 SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNgP3K3hGb9dr0jv94ekiGr.png" group-title="UK Sport",UK: SKY SPORTS F1 SD
-http://678095340978306441.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/306441.ts
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1 HD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS F1 HD
-http://678095340978812802.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/812802.ts
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK: SKY SPORTS F1 FHD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS F1 FHD
-http://678095340978885401.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/885401.ts
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BR: BAND SPORTS | HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/band-sports.jpg" group-title="Brazil",BR: BAND SPORTS | HD
-http://678095340978332743.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/332743.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORTS VIP FHD" tvg-logo="http://estoxy.net:80/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumsC8UjZ9Nr6jeObwVIxW2IuNk1glkru7fSdRS-Ha4OHRA.png" group-title="SVIP SPORTS",BR: BAND SPORTS VIP FHD
-http://678095340978888442.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/888442.ts
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BR: BAND SPORTS SD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/band-sports.jpg" group-title="Brazil",BR: BAND SPORTS SD
-http://678095340978815575.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/815575.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORTS | HEVC" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/band-sports.jpg" group-title="Brazil",BR: BAND SPORTS | HEVC
-http://678095340978889566.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/889566.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1" tvg-logo="" group-title="UNITED KINGDON",UK: Sky Sports F1
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/464444
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sports" tvg-logo="" group-title="BRAZIL",BR: Band Sports
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/480320
 
 
 #EXTINF:-1 tvg-id="" tvg-name="XXX: BLACKED HD" tvg-logo="" group-title="ADULTS",XXX: BLACKED HD
@@ -529,258 +393,632 @@ http://869842410113886745.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/886745.ts
 #EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 3 FHD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 3 FHD
 http://869842410113887068.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/887068.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACKED HD" tvg-logo="" group-title="ADULTS",XXX: BLACKED HD
-http://678095340978755112.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/755112.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS FHD" tvg-logo="" group-title="ADULTS",XXX: BRAZZERS FHD
-http://678095340978755114.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/755114.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV ANAL FHD" tvg-logo="" group-title="ADULTS",XXX: FAP TV ANAL FHD
-http://678095340978755139.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/755139.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV TEENS HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV TEENS HD
-http://678095340978755143.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/755143.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVATE FHD" tvg-logo="" group-title="ADULTS",XXX: PRIVATE FHD
-http://678095340978755230.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/755230.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 1 FHD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 1 FHD
-http://678095340978759888.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759888.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 4 FHD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 4 FHD
-http://678095340978759890.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759890.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLUE HUSTLER SD" tvg-logo="" group-title="ADULTS",XXX: BLUE HUSTLER SD
-http://678095340978759895.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759895.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL XXX HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: DORCEL XXX HD XXX FHD
-http://678095340978759896.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759896.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROX XXX HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: EROX XXX HD XXX FHD
-http://678095340978759901.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759901.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV COMPILATION FHD" tvg-logo="" group-title="ADULTS",XXX: FAP TV COMPILATION FHD
-http://678095340978759906.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759906.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER FHD" tvg-logo="" group-title="ADULTS",XXX: HUSTLER FHD
-http://678095340978759913.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759913.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: RUSSKAYA NOCH HD" tvg-logo="" group-title="ADULTS",XXX: RUSSKAYA NOCH HD
-http://678095340978759964.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759964.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS TV XXX SD" tvg-logo="" group-title="ADULTS",XXX: VENUS TV XXX SD
-http://678095340978759974.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759974.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID RED FHD" tvg-logo="" group-title="ADULTS",XXX: VIVID RED FHD
-http://678095340978759975.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759975.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: X-MO GAY XXX FHD" tvg-logo="" group-title="ADULTS",XXX: X-MO GAY XXX FHD
-http://678095340978759977.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759977.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT FHD" tvg-logo="" group-title="ADULTS",XXX: REDLIGHT FHD
-http://678095340978763027.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/763027.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - BOXTRUCKSEX TV FHD" tvg-logo="" group-title="ADULTS",XXX: AD - BOXTRUCKSEX TV FHD
-http://678095340978771543.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/771543.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - BRASILEIRINHAS HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - BRASILEIRINHAS HEVC
-http://678095340978771544.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/771544.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - CASTINGCOUCH HD TV HD" tvg-logo="" group-title="ADULTS",XXX: AD - CASTINGCOUCH HD TV HD
-http://678095340978771545.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/771545.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - CASTINGCOUCHHD TV HD" tvg-logo="" group-title="ADULTS",XXX: AD - CASTINGCOUCHHD TV HD
-http://678095340978771546.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/771546.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - LA NEW GIRL CHANNEL FHD" tvg-logo="" group-title="ADULTS",XXX: AD - LA NEW GIRL CHANNEL FHD
-http://678095340978771558.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/771558.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - PRIMAL FETISH HD" tvg-logo="" group-title="ADULTS",XXX: AD - PRIMAL FETISH HD
-http://678095340978771565.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/771565.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DREAM PORN XXX SD" tvg-logo="" group-title="ADULTS",XXX: DREAM PORN XXX SD
-http://678095340978777164.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/777164.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - PRIVATE HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - PRIVATE HEVC
-http://678095340978783412.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/783412.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV 4 FHD" tvg-logo="" group-title="ADULTS",XXX: FAP TV 4 FHD
-http://678095340978783414.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/783414.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAST BOYZ GAY XXX HD" tvg-logo="" group-title="ADULTS",XXX: FAST BOYZ GAY XXX HD
-http://678095340978785901.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/785901.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - VIXEN HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - VIXEN HEVC
-http://678095340978789838.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/789838.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DUSK! XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: DUSK! XXX HEVC
-http://678095340978791734.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791734.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EVIL ANGEL HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: EVIL ANGEL HD XXX FHD
-http://678095340978791737.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791737.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTASY HD XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: EXTASY HD XXX HEVC
-http://678095340978791738.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791738.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FANTASY XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: FANTASY XXX HEVC
-http://678095340978791739.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791739.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT PLEASURE XXX HD" tvg-logo="" group-title="ADULTS",XXX: HOT PLEASURE XXX HD
-http://678095340978791742.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791742.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT XXL HD XXX HD" tvg-logo="" group-title="ADULTS",XXX: HOT XXL HD XXX HD
-http://678095340978791743.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791743.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: LEGAL TV XXX FHD" tvg-logo="" group-title="ADULTS",XXX: LEGAL TV XXX FHD
-http://678095340978791745.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791745.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: LEO TV GOLD XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: LEO TV GOLD XXX HEVC
-http://678095340978791746.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791746.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: LUST PUR FHD" tvg-logo="" group-title="ADULTS",XXX: LUST PUR FHD
-http://678095340978791747.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791747.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MILF TV XXX FHD" tvg-logo="" group-title="ADULTS",XXX: MILF TV XXX FHD
-http://678095340978791749.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791749.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSIE XXX XXX SD" tvg-logo="" group-title="ADULTS",XXX: PASSIE XXX XXX SD
-http://678095340978791754.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791754.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE REALITY TV FHD" tvg-logo="" group-title="ADULTS",XXX: PENTHOUSE REALITY TV FHD
-http://678095340978791756.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791756.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 2 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 2 XXX SD
-http://678095340978791757.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791757.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 3 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 3 XXX SD
-http://678095340978791758.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791758.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC XXX SD
-http://678095340978791764.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791764.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYHOUSE XXX FHD" tvg-logo="" group-title="ADULTS",XXX: PLAYHOUSE XXX FHD
-http://678095340978791767.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791767.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REALITY KINGS TV XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: REALITY KINGS TV XXX HEVC
-http://678095340978791768.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791768.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: RED XXX XXX FHD" tvg-logo="" group-title="ADULTS",XXX: RED XXX XXX FHD
-http://678095340978791769.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791769.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEX PRIVE TV XXX FHD" tvg-logo="" group-title="ADULTS",XXX: SEX PRIVE TV XXX FHD
-http://678095340978791789.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791789.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXTREME XXX SD" tvg-logo="" group-title="ADULTS",XXX: SEXTREME XXX SD
-http://678095340978791790.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791790.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SHALUN TV HD" tvg-logo="" group-title="ADULTS",XXX: SHALUN TV HD
-http://678095340978791791.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791791.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: X1 XXX SD" tvg-logo="" group-title="ADULTS",XXX: X1 XXX SD
-http://678095340978791798.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791798.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXL SD" tvg-logo="" group-title="ADULTS",XXX: XXL SD
-http://678095340978791799.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791799.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MAX HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: XY MAX HD XXX FHD
-http://678095340978791800.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791800.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MIX HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: XY MIX HD XXX FHD
-http://678095340978791801.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791801.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: JASMIN HD" tvg-logo="" group-title="ADULTS",XXX: JASMIN HD
-http://678095340978792668.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/792668.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK O TV SD" tvg-logo="" group-title="ADULTS",XXX: PINK O TV SD
-http://678095340978798363.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/798363.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: LESBIAN AFFAIR XXX FHD" tvg-logo="" group-title="ADULTS",XXX: LESBIAN AFFAIR XXX FHD
-http://678095340978799894.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/799894.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MIAMI TV XXX FHD" tvg-logo="" group-title="ADULTS",XXX: MIAMI TV XXX FHD
-http://678095340978807932.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/807932.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: NET XX XXX SD" tvg-logo="" group-title="ADULTS",XXX: NET XX XXX SD
-http://678095340978821448.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/821448.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV LESBIAN HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV LESBIAN HD
-http://678095340978822195.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/822195.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV PARODY HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV PARODY HD
-http://678095340978822196.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/822196.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ADULT TINY4K 1 HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - ADULT TINY4K 1 HEVC
-http://678095340978823032.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/823032.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ADULT TINY4K 4 HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - ADULT TINY4K 4 HEVC
-http://678095340978823033.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/823033.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - HOT CLUB 2 FHD" tvg-logo="" group-title="ADULTS",XXX: AD - HOT CLUB 2 FHD
-http://678095340978823043.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/823043.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - PENTHOUSE GOLD HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - PENTHOUSE GOLD HEVC
-http://678095340978823046.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/823046.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - PENTHOUSE PASSION HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - PENTHOUSE PASSION HEVC
-http://678095340978823047.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/823047.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BABES TV HD XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: BABES TV HD XXX HEVC
-http://678095340978823052.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/823052.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SUPER ONE HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: SUPER ONE HD XXX FHD
-http://678095340978823053.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/823053.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SUPER ONE XXX FHD" tvg-logo="" group-title="ADULTS",XXX: SUPER ONE XXX FHD
-http://678095340978823054.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/823054.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY PLUS HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: XY PLUS HD XXX FHD
-http://678095340978823055.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/823055.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - BLUE HUSTLER SD" tvg-logo="" group-title="ADULTS",XXX: AD - BLUE HUSTLER SD
-http://678095340978824894.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/824894.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - AMERICAN PORNSTAR CHANNELS FHD" tvg-logo="" group-title="ADULTS",XXX: AD - AMERICAN PORNSTAR CHANNELS FHD
-http://678095340978827674.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/827674.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ATK HAIRY TV FHD" tvg-logo="" group-title="ADULTS",XXX: AD - ATK HAIRY TV FHD
-http://678095340978827675.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/827675.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - BBC PIE TV FHD" tvg-logo="" group-title="ADULTS",XXX: AD - BBC PIE TV FHD
-http://678095340978827676.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/827676.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - LA NEW GIRL 2 FHD" tvg-logo="" group-title="ADULTS",XXX: AD - LA NEW GIRL 2 FHD
-http://678095340978827677.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/827677.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - TEENS LOVE TO SWALLOW FHD" tvg-logo="" group-title="ADULTS",XXX: AD - TEENS LOVE TO SWALLOW FHD
-http://678095340978827678.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/827678.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ERO X FHD" tvg-logo="" group-title="ADULTS",XXX: ERO X FHD
-http://678095340978829973.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/829973.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - HOT SD" tvg-logo="" group-title="ADULTS",XXX: AD - HOT SD
-http://678095340978830863.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/830863.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BANG U XXX FHD" tvg-logo="" group-title="ADULTS",XXX: BANG U XXX FHD
-http://678095340978830865.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/830865.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - DORCEL TV HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - DORCEL TV HEVC
-http://678095340978832533.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/832533.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTREM XXX SD" tvg-logo="" group-title="ADULTS",XXX: EXTREM XXX SD
-http://678095340978832535.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/832535.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PREMIUM PORN SD" tvg-logo="" group-title="ADULTS",XXX: PREMIUM PORN SD
-http://678095340978832536.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/832536.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CENTO X CENTO SD" tvg-logo="" group-title="ADULTS",XXX: CENTO X CENTO SD
-http://678095340978833407.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/833407.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MEIDEN VAN HOLLAND HARD XXX SD" tvg-logo="" group-title="ADULTS",XXX: MEIDEN VAN HOLLAND HARD XXX SD
-http://678095340978833408.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/833408.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSION XXX FHD" tvg-logo="" group-title="ADULTS",XXX: PASSION XXX FHD
-http://678095340978833410.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/833410.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: X BUNGA BUNGA XXX SD" tvg-logo="" group-title="ADULTS",XXX: X BUNGA BUNGA XXX SD
-http://678095340978836103.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/836103.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BALKAN EROTIC XXX HD" tvg-logo="" group-title="ADULTS",XXX: BALKAN EROTIC XXX HD
-http://678095340978836807.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/836807.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: OLDTIMER XXX SD" tvg-logo="" group-title="ADULTS",XXX: OLDTIMER XXX SD
-http://678095340978836808.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/836808.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 4 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 4 XXX SD
-http://678095340978836809.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/836809.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 5 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 5 XXX SD
-http://678095340978836810.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/836810.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 6 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 6 XXX SD
-http://678095340978836811.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/836811.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 7 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 7 XXX SD
-http://678095340978836812.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/836812.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 8 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 8 XXX SD
-http://678095340978836813.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/836813.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: TABOO XXX FHD" tvg-logo="" group-title="ADULTS",XXX: TABOO XXX FHD
-http://678095340978836814.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/836814.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY EUROPE HD" tvg-logo="" group-title="ADULTS",XXX: PLAYBOY EUROPE HD
-http://678095340978840029.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/840029.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: X BIZARRE XXX SD" tvg-logo="" group-title="ADULTS",XXX: X BIZARRE XXX SD
-http://678095340978840030.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/840030.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: X DESIRE XXX SD" tvg-logo="" group-title="ADULTS",XXX: X DESIRE XXX SD
-http://678095340978840601.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/840601.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - HOT CLUB 1 HD" tvg-logo="" group-title="ADULTS",XXX: AD - HOT CLUB 1 HD
-http://678095340978841333.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/841333.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEX ATION HD XXX SD" tvg-logo="" group-title="ADULTS",XXX: SEX ATION HD XXX SD
-http://678095340978842582.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/842582.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID TV EUROPE XXX SD" tvg-logo="" group-title="ADULTS",XXX: VIVID TV EUROPE XXX SD
-http://678095340978844392.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/844392.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - VIVID RED SD" tvg-logo="" group-title="ADULTS",XXX: AD - VIVID RED SD
-http://678095340978849204.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/849204.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EMANUELLE XXX FHD" tvg-logo="" group-title="ADULTS",XXX: EMANUELLE XXX FHD
-http://678095340978849205.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/849205.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV 2 HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV 2 HD
-http://678095340978852954.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/852954.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 2 SD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 2 SD
-http://678095340978857009.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/857009.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT XXX HD" tvg-logo="" group-title="ADULTS",XXX: SEXY HOT XXX HD
-http://678095340978857010.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/857010.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - HOT CLUB 3 SD" tvg-logo="" group-title="ADULTS",XXX: AD - HOT CLUB 3 SD
-http://678095340978863751.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/863751.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - MEIDEN VAN HOLLAND TV SD" tvg-logo="" group-title="ADULTS",XXX: AD - MEIDEN VAN HOLLAND TV SD
-http://678095340978864622.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/864622.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - PLAYBOY TV SD" tvg-logo="" group-title="ADULTS",XXX: AD - PLAYBOY TV SD
-http://678095340978866528.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/866528.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - REDLIGHT HD" tvg-logo="" group-title="ADULTS",XXX: AD - REDLIGHT HD
-http://678095340978868848.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/868848.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - HOT CLUB 4 SD" tvg-logo="" group-title="ADULTS",XXX: AD - HOT CLUB 4 SD
-http://678095340978871352.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/871352.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: OH AH TV HD" tvg-logo="" group-title="ADULTS",XXX: OH AH TV HD
-http://678095340978871812.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/871812.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER TV XXX SD" tvg-logo="" group-title="ADULTS",XXX: HUSTLER TV XXX SD
-http://678095340978872665.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/872665.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV 3 HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV 3 HD
-http://678095340978874052.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/874052.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT TV XXX SD" tvg-logo="" group-title="ADULTS",XXX: HOT TV XXX SD
-http://678095340978875184.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/875184.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: NUART HD" tvg-logo="" group-title="ADULTS",XXX: NUART HD
-http://678095340978875561.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/875561.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACK TV XXX SD" tvg-logo="" group-title="ADULTS",XXX: BLACK TV XXX SD
-http://678095340978876514.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/876514.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: O LA LA SD" tvg-logo="" group-title="ADULTS",XXX: O LA LA SD
-http://678095340978880210.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/880210.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ALBA XXX 1 FHD" tvg-logo="" group-title="ADULTS",XXX: AD - ALBA XXX 1 FHD
-http://678095340978884902.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/884902.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ALBA XXX 2 FHD" tvg-logo="" group-title="ADULTS",XXX: AD - ALBA XXX 2 FHD
-http://678095340978884903.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/884903.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ALBA XXX 4 HD" tvg-logo="" group-title="ADULTS",XXX: AD - ALBA XXX 4 HD
-http://678095340978884904.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/884904.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ALBA XXX 5 HD" tvg-logo="" group-title="ADULTS",XXX: AD - ALBA XXX 5 HD
-http://678095340978884905.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/884905.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ALBA XXX 6 HD" tvg-logo="" group-title="ADULTS",XXX: AD - ALBA XXX 6 HD
-http://678095340978884906.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/884906.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - XY MIX HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - XY MIX HEVC
-http://678095340978884908.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/884908.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL FHD" tvg-logo="" group-title="ADULTS",XXX: DORCEL FHD
-http://678095340978884909.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/884909.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - FAKE FHD" tvg-logo="" group-title="ADULTS",XXX: AD - FAKE FHD
-http://678095340978885568.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/885568.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - XXL TV SD" tvg-logo="" group-title="ADULTS",XXX: AD - XXL TV SD
-http://678095340978886745.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/886745.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 3 FHD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 3 FHD
-http://678095340978887068.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/887068.ts
+#EXTINF:-1 tvg-id="" tvg-name="Abuela peluda movie from XXXDan video site" tvg-logo="" group-title="VIDEOS ADULTOS",Abuela peluda movie from XXXDan video site
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abusing Her Bush - Video - Free Porn Videos - hclips.com" tvg-logo="" group-title="VIDEOS ADULTOS",Abusing Her Bush - Video - Free Porn Videos - hclips.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acabada Lechera En La Cara, Senos Naturales - Videosection.com" tvg-logo="" group-title="VIDEOS ADULTOS",Acabada Lechera En La Cara, Senos Naturales - Videosection.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="After A Bit Of Talking, I Got Her Completely Naked And Pounded Her Tight Pussy." tvg-logo="" group-title="VIDEOS ADULTOS",After A Bit Of Talking, I Got Her Completely Naked And Pounded Her Tight Pussy.
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ahorcada Mientras Se Hace Una Mamada, Senos Gigantes, Coño Peludo - HDSex.org" tvg-logo="" group-title="VIDEOS ADULTOS",Ahorcada Mientras Se Hace Una Mamada, Senos Gigantes, Coño Peludo - HDSex.org
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anabella is frolicking her fleshy pussy for american" tvg-logo="" group-title="VIDEOS ADULTOS",Anabella is frolicking her fleshy pussy for american
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anal threesome along Asian slut Reika - Hell Porno" tvg-logo="" group-title="VIDEOS ADULTOS",Anal threesome along Asian slut Reika - Hell Porno
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aragne GreenTopGreyTight DVD - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Aragne GreenTopGreyTight DVD - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Au Naturel Scene-01" tvg-logo="" group-title="VIDEOS ADULTOS",Au Naturel Scene-01
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523912.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Australian gf banged on GotPorn (14800621)" tvg-logo="" group-title="VIDEOS ADULTOS",Australian gf banged on GotPorn (14800621)
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Awesome hottie with juicy boobies Noeru Mitsushima rides stiff dick awesome - YourLust.com" tvg-logo="" group-title="VIDEOS ADULTOS",Awesome hottie with juicy boobies Noeru Mitsushima rides stiff dick awesome - YourLust.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Babe in glasses jumps on a cock with her hairy teen twat - Any Porn" tvg-logo="" group-title="VIDEOS ADULTOS",Babe in glasses jumps on a cock with her hairy teen twat - Any Porn
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beautiful bitch in stockings Aleska Diamond is fucked by horny stud - AnySex.com Video" tvg-logo="" group-title="VIDEOS ADULTOS",Beautiful bitch in stockings Aleska Diamond is fucked by horny stud - AnySex.com Video
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beautys pussy delight concupiscent fellows - Sunporno Uncensored" tvg-logo="" group-title="VIDEOS ADULTOS",Beautys pussy delight concupiscent fellows - Sunporno Uncensored
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Being Serviced Brashly XXX - Sunporno Uncensored" tvg-logo="" group-title="VIDEOS ADULTOS",Being Serviced Brashly XXX - Sunporno Uncensored
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Best pornstar Juliette March in Amazing Solo Girl, Big Ass sex clip - HdZog - Free XXX HD, High Quality Sex Tube" tvg-logo="" group-title="VIDEOS ADULTOS",Best pornstar Juliette March in Amazing Solo Girl, Big Ass sex clip - HdZog - Free XXX HD, High Quality Sex Tube
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Best unshaven pussy Porn Videos" tvg-logo="" group-title="VIDEOS ADULTOS",Best unshaven pussy Porn Videos
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big-tit mom Lady Bug helps a cute teen masturbate and come _ Xozilla.com" tvg-logo="" group-title="VIDEOS ADULTOS",Big-tit mom Lady Bug helps a cute teen masturbate and come _ Xozilla.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black guy eat s very hairy pussy - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Black guy eat s very hairy pussy - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="black midget girl gets smashed by white dude and cream filled movie from XXXDan video site" tvg-logo="" group-title="VIDEOS ADULTOS",black midget girl gets smashed by white dude and cream filled movie from XXXDan video site
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blue eyed temptress Anya Olsen is sucking a huge cock before a steamy pussy pounding - AnySex.com Video" tvg-logo="" group-title="VIDEOS ADULTOS",Blue eyed temptress Anya Olsen is sucking a huge cock before a steamy pussy pounding - AnySex.com Video
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523924.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Británico, Abuela - Videosection.com" tvg-logo="" group-title="VIDEOS ADULTOS",Británico, Abuela - Videosection.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523925.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BUSTY STEPMOM FUCKS STEPSON & GIRLFRIEND IN 4K - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",BUSTY STEPMOM FUCKS STEPSON & GIRLFRIEND IN 4K - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casting maduras peludas, peludas a cuatro movie from XXXDan video site" tvg-logo="" group-title="VIDEOS ADULTOS",Casting maduras peludas, peludas a cuatro movie from XXXDan video site
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chica Masturbandose, Videos Hd, Adolescencia - HDSex.org" tvg-logo="" group-title="VIDEOS ADULTOS",Chica Masturbandose, Videos Hd, Adolescencia - HDSex.org
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="close-up hairy movie from XXXDan video site" tvg-logo="" group-title="VIDEOS ADULTOS",close-up hairy movie from XXXDan video site
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosota - M - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Cosota - M - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="couplexnxx secret clip on 05_30_15 08-01 from Chaturbate - Video - Free Porn Videos - hclips.com" tvg-logo="" group-title="VIDEOS ADULTOS",couplexnxx secret clip on 05_30_15 08-01 from Chaturbate - Video - Free Porn Videos - hclips.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coños peludos corridas dentro, corridas coños peludos movie from JizzBunker.com video site" tvg-logo="" group-title="VIDEOS ADULTOS",Coños peludos corridas dentro, corridas coños peludos movie from JizzBunker.com video site
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cute tgirl teases and pumps her fat and hairy shecock - Sunporno Uncensored" tvg-logo="" group-title="VIDEOS ADULTOS",Cute tgirl teases and pumps her fat and hairy shecock - Sunporno Uncensored
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cutie with Goo on her Face (New! 11 Mar 2021)" tvg-logo="" group-title="VIDEOS ADULTOS",Cutie with Goo on her Face (New! 11 Mar 2021)
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cámara Espía, Desnudo - Videosection.com" tvg-logo="" group-title="VIDEOS ADULTOS",Cámara Espía, Desnudo - Videosection.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dark Haired Slut Caroline Devours A Big Dick And Swallows Cum" tvg-logo="" group-title="VIDEOS ADULTOS",Dark Haired Slut Caroline Devours A Big Dick And Swallows Cum
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dazzling brunette delights having her hairy pussy roughly... - Any Porn" tvg-logo="" group-title="VIDEOS ADULTOS",Dazzling brunette delights having her hairy pussy roughly... - Any Porn
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diana Douglas enjoys masturbating in her hallway - Compilation - WeAreHairy - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Diana Douglas enjoys masturbating in her hallway - Compilation - WeAreHairy - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diana Gold en Sexy Diana - Anilos - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Diana Gold en Sexy Diana - Anilos - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drugaya BlackLingerieGreyBed DVD - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Drugaya BlackLingerieGreyBed DVD - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dykes Rub Their Hairy Parts Together - Free Porn Video" tvg-logo="" group-title="VIDEOS ADULTOS",Dykes Rub Their Hairy Parts Together - Free Porn Video
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523941.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista, Bailando Sensualmente, Atkhairy - HDSex.org" tvg-logo="" group-title="VIDEOS ADULTOS",Entrevista, Bailando Sensualmente, Atkhairy - HDSex.org
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523942.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escena adulta cachonda Peludo el mejor espectáculo - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Escena adulta cachonda Peludo el mejor espectáculo - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523943.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Cultist Teen Exploited By Mean Social Worker! - Sex Video" tvg-logo="" group-title="VIDEOS ADULTOS",Ex-Cultist Teen Exploited By Mean Social Worker! - Sex Video
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523944.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Extra hairy teen Valkyree hot solo video _ Xozilla.com" tvg-logo="" group-title="VIDEOS ADULTOS",Extra hairy teen Valkyree hot solo video _ Xozilla.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523945.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Favorite Uncle massage porn video _ Xozilla.com" tvg-logo="" group-title="VIDEOS ADULTOS",Favorite Uncle massage porn video _ Xozilla.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Filthy MILF Nikki Gets Licked Her Hairy Quim By Young Boy - Sex Video" tvg-logo="" group-title="VIDEOS ADULTOS",Filthy MILF Nikki Gets Licked Her Hairy Quim By Young Boy - Sex Video
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523947.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fine ass babe loves the big sperm shot on her hairy snatch - XBabe video" tvg-logo="" group-title="VIDEOS ADULTOS",Fine ass babe loves the big sperm shot on her hairy snatch - XBabe video
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flat chested hooker Lina Arian eats cum from his hands and gets fucked - AnySex.com Video" tvg-logo="" group-title="VIDEOS ADULTOS",Flat chested hooker Lina Arian eats cum from his hands and gets fucked - AnySex.com Video
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523949.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Frida PinkTopBlackTights DVD - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Frida PinkTopBlackTights DVD - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="fun fun _ Upornia.com" tvg-logo="" group-title="VIDEOS ADULTOS",fun fun _ Upornia.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Girl Caught Him Fucking Mother In Law Hairy Cunt - HdZog - Free XXX HD, High Quality Sex Tube" tvg-logo="" group-title="VIDEOS ADULTOS",Girl Caught Him Fucking Mother In Law Hairy Cunt - HdZog - Free XXX HD, High Quality Sex Tube
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523952.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs Kong" tvg-logo="" group-title="VIDEOS ADULTOS",Godzilla vs Kong
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523953.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gorgeous Brunette Washing Her Hairy Pussy On Hidden Cam - HdZog - Free XXX HD, High Quality Sex Tube" tvg-logo="" group-title="VIDEOS ADULTOS",Gorgeous Brunette Washing Her Hairy Pussy On Hidden Cam - HdZog - Free XXX HD, High Quality Sex Tube
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Graphis - Manaka Minami 2 2 _ Upornia.com" tvg-logo="" group-title="VIDEOS ADULTOS",Graphis - Manaka Minami 2 2 _ Upornia.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523955.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Haarige Privat Fotzen 2 - Tubepornclassic.com" tvg-logo="" group-title="VIDEOS ADULTOS",Haarige Privat Fotzen 2 - Tubepornclassic.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523956.mkv
+#EXTINF:-1 tvg-id="" tvg-name="hairy anal casting chick - Alpha Porno" tvg-logo="" group-title="VIDEOS ADULTOS",hairy anal casting chick - Alpha Porno
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523957.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hairy and busty amateurs 2" tvg-logo="" group-title="VIDEOS ADULTOS",Hairy and busty amateurs 2
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523958.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hairy aussie riding dick on GotPorn (15638627)" tvg-logo="" group-title="VIDEOS ADULTOS",Hairy aussie riding dick on GotPorn (15638627)
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523959.mkv
+#EXTINF:-1 tvg-id="" tvg-name="hairy babe with lovense has some fun movie from XXXDan video site" tvg-logo="" group-title="VIDEOS ADULTOS",hairy babe with lovense has some fun movie from XXXDan video site
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hairy Cunt Swallows Big Cock In A Wondrous Cowgirl Ride" tvg-logo="" group-title="VIDEOS ADULTOS",Hairy Cunt Swallows Big Cock In A Wondrous Cowgirl Ride
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523961.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hairy Cunt Swallows Big Cock In A Wondrous Cowgirl Ride_2" tvg-logo="" group-title="VIDEOS ADULTOS",Hairy Cunt Swallows Big Cock In A Wondrous Cowgirl Ride_2
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hairy girl hardcore threesome outdoors - Hell Porno" tvg-logo="" group-title="VIDEOS ADULTOS",Hairy girl hardcore threesome outdoors - Hell Porno
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hairy girl Vanessa J likes to keep on her heels - Compilation - WeAreHairy - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Hairy girl Vanessa J likes to keep on her heels - Compilation - WeAreHairy - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523964.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hairy Harlot Banged In Her Juicy Thai Pussy - Sex Video" tvg-logo="" group-title="VIDEOS ADULTOS",Hairy Harlot Banged In Her Juicy Thai Pussy - Sex Video
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hairy mature hardcore with facial load - Hell Porno" tvg-logo="" group-title="VIDEOS ADULTOS",Hairy mature hardcore with facial load - Hell Porno
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523966.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hairy Redhead Penny Pax getting Hammered - BabesTube.com" tvg-logo="" group-title="VIDEOS ADULTOS",Hairy Redhead Penny Pax getting Hammered - BabesTube.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523967.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hairy teen cum inside xxx Itsy Bitsy HotSpot on GotPorn (15353723)" tvg-logo="" group-title="VIDEOS ADULTOS",Hairy teen cum inside xxx Itsy Bitsy HotSpot on GotPorn (15353723)
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523968.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HOG.TV - Hairy mom Lida and boy" tvg-logo="" group-title="VIDEOS ADULTOS",HOG.TV - Hairy mom Lida and boy
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523969.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Holiday - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Holiday - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523970.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Horny Homemade video with Hairy, Young_Old scenes - Video - Free Porn Videos - hclips.com" tvg-logo="" group-title="VIDEOS ADULTOS",Horny Homemade video with Hairy, Young_Old scenes - Video - Free Porn Videos - hclips.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523971.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Horny mature woman wants a young man to cum deep inside her sweet cunt - YourLust.com" tvg-logo="" group-title="VIDEOS ADULTOS",Horny mature woman wants a young man to cum deep inside her sweet cunt - YourLust.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523972.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Horny retro models in XXX video _ Analdin.com - Tube Porno." tvg-logo="" group-title="VIDEOS ADULTOS",Horny retro models in XXX video _ Analdin.com - Tube Porno.
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523973.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hot Babe Hump And Oral Intercourse From Lena Paul _ Xozilla.com" tvg-logo="" group-title="VIDEOS ADULTOS",Hot Babe Hump And Oral Intercourse From Lena Paul _ Xozilla.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hot guy drills a hairy coochie _ Xozilla.com" tvg-logo="" group-title="VIDEOS ADULTOS",Hot guy drills a hairy coochie _ Xozilla.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hot MILF With Glasses And Wet Pussy - Sex Video" tvg-logo="" group-title="VIDEOS ADULTOS",Hot MILF With Glasses And Wet Pussy - Sex Video
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523976.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hot Seduction in the Snow" tvg-logo="" group-title="VIDEOS ADULTOS",Hot Seduction in the Snow
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hot teen masturbate hairy pussy - Video - Free Porn Videos - hclips.com" tvg-logo="" group-title="VIDEOS ADULTOS",Hot teen masturbate hairy pussy - Video - Free Porn Videos - hclips.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hprice With Helena Price - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Hprice With Helena Price - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Huge Tits Asian Gives The Best Healing - HdZog - Free XXX HD, High Quality Sex Tube" tvg-logo="" group-title="VIDEOS ADULTOS",Huge Tits Asian Gives The Best Healing - HdZog - Free XXX HD, High Quality Sex Tube
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I can fuck my stepmother all day" tvg-logo="" group-title="VIDEOS ADULTOS",I can fuck my stepmother all day
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Incredible pornstar in Hottest Big Ass, Hairy xxx scene - HdZog - Free XXX HD, High Quality Sex Tube" tvg-logo="" group-title="VIDEOS ADULTOS",Incredible pornstar in Hottest Big Ass, Hairy xxx scene - HdZog - Free XXX HD, High Quality Sex Tube
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523982.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Indian khushi and raj desi porn flick" tvg-logo="" group-title="VIDEOS ADULTOS",Indian khushi and raj desi porn flick
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523983.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Irresistible hairy pussy on milf - Hell Porno" tvg-logo="" group-title="VIDEOS ADULTOS",Irresistible hairy pussy on milf - Hell Porno
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523984.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Want To Lick All - HdZog - Free XXX HD, High Quality Sex Tube" tvg-logo="" group-title="VIDEOS ADULTOS",I Want To Lick All - HdZog - Free XXX HD, High Quality Sex Tube
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523985.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Janine" tvg-logo="" group-title="VIDEOS ADULTOS",Janine
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523986.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kira - Solo _ Upornia.com" tvg-logo="" group-title="VIDEOS ADULTOS",Kira - Solo _ Upornia.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523987.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Labios Grandes, Bien Cerrado, Chica Masturbandose - HDSex.org" tvg-logo="" group-title="VIDEOS ADULTOS",Labios Grandes, Bien Cerrado, Chica Masturbandose - HDSex.org
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love Home Porn Beauty loses at pool and takes a cock" tvg-logo="" group-title="VIDEOS ADULTOS",Love Home Porn Beauty loses at pool and takes a cock
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lustful Gilf Diana Gold Hot Sex Scene - HdZog - Free XXX HD, High Quality Sex Tube" tvg-logo="" group-title="VIDEOS ADULTOS",Lustful Gilf Diana Gold Hot Sex Scene - HdZog - Free XXX HD, High Quality Sex Tube
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523990.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Madres para coger peludas, aficionada peluda movie from JizzBunker.com video site" tvg-logo="" group-title="VIDEOS ADULTOS",Madres para coger peludas, aficionada peluda movie from JizzBunker.com video site
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Making it Big" tvg-logo="" group-title="VIDEOS ADULTOS",Making it Big
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mamá poco atractiva con pequeños mambos y tupido agujero en la manguera - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Mamá poco atractiva con pequeños mambos y tupido agujero en la manguera - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mature chick Mikela Kennedy gets her hairy pussy fucked hard" tvg-logo="" group-title="VIDEOS ADULTOS",Mature chick Mikela Kennedy gets her hairy pussy fucked hard
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mature European bitch in stockings dildoes her aching hai... - Any Porn" tvg-logo="" group-title="VIDEOS ADULTOS",Mature European bitch in stockings dildoes her aching hai... - Any Porn
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mature takes a cumshot in her pubic hair - Hell Porno" tvg-logo="" group-title="VIDEOS ADULTOS",Mature takes a cumshot in her pubic hair - Hell Porno
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Meeting Smurfette - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Meeting Smurfette - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Miroslava_Misti - Compilation - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Miroslava_Misti - Compilation - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523998.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MORE KAY big nips pussy lips, close up BUSH - Video - Free Porn Videos - hclips.com" tvg-logo="" group-title="VIDEOS ADULTOS",MORE KAY big nips pussy lips, close up BUSH - Video - Free Porn Videos - hclips.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/523999.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naturalist Babe Lena Ramone Gets Her Daily Interracial Sex Dose" tvg-logo="" group-title="VIDEOS ADULTOS",Naturalist Babe Lena Ramone Gets Her Daily Interracial Sex Dose
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naughty Japanese AV model and sexy maid share hard cock - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Naughty Japanese AV model and sexy maid share hard cock - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Neue Regeln Fur Meinen Neffen - Slutty Tante - Brianna Beach - Video - Free Porn Videos - hclips.com" tvg-logo="" group-title="VIDEOS ADULTOS",Neue Regeln Fur Meinen Neffen - Slutty Tante - Brianna Beach - Video - Free Porn Videos - hclips.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nice ass Ainara hairy pussy throbbed hardcore while yelling - Any Porn" tvg-logo="" group-title="VIDEOS ADULTOS",Nice ass Ainara hairy pussy throbbed hardcore while yelling - Any Porn
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nice Hairy Girl Playing - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Nice Hairy Girl Playing - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nikki Sweet In 52 Kg Petite Teen Stunner From Utah Poved In Casting _ Upornia.com" tvg-logo="" group-title="VIDEOS ADULTOS",Nikki Sweet In 52 Kg Petite Teen Stunner From Utah Poved In Casting _ Upornia.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No matter how hairy her pussy is, he is fucking her anyway - Any Porn" tvg-logo="" group-title="VIDEOS ADULTOS",No matter how hairy her pussy is, he is fucking her anyway - Any Porn
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nudist unshaved vulva perfect figure teenies bare voyeur spy beach" tvg-logo="" group-title="VIDEOS ADULTOS",Nudist unshaved vulva perfect figure teenies bare voyeur spy beach
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nympho Izzy Lush seduces her nerd stepbrother and bangs him like a dirty whore - AnySex.com Video" tvg-logo="" group-title="VIDEOS ADULTOS",Nympho Izzy Lush seduces her nerd stepbrother and bangs him like a dirty whore - AnySex.com Video
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="On the day of the Honeymoon Sexy Bhabhi Fucks her Lover (New! 2 Apr 2021)" tvg-logo="" group-title="VIDEOS ADULTOS",On the day of the Honeymoon Sexy Bhabhi Fucks her Lover (New! 2 Apr 2021)
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outdoors video of natural boobs Sonoda Mion having passio... - Any Porn" tvg-logo="" group-title="VIDEOS ADULTOS",Outdoors video of natural boobs Sonoda Mion having passio... - Any Porn
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor workout - busty babe with hairy pussy jogging naked in her patio" tvg-logo="" group-title="VIDEOS ADULTOS",Outdoor workout - busty babe with hairy pussy jogging naked in her patio
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pelicula Las Sandalias del pescador completa en español – gloria.tv" tvg-logo="" group-title="VIDEOS ADULTOS",Pelicula Las Sandalias del pescador completa en español – gloria.tv
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Petite Brunette With Glasses Gets Her Hairy Cunt Slammed - Sex Video" tvg-logo="" group-title="VIDEOS ADULTOS",Petite Brunette With Glasses Gets Her Hairy Cunt Slammed - Sex Video
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Porn Bis - Tubepornclassic.com" tvg-logo="" group-title="VIDEOS ADULTOS",Porn Bis - Tubepornclassic.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Porno Between Frends - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Porno Between Frends - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pretty Asian hoe Nozomi Koizumi is having dirty sex with two dudes - AnySex.com Video" tvg-logo="" group-title="VIDEOS ADULTOS",Pretty Asian hoe Nozomi Koizumi is having dirty sex with two dudes - AnySex.com Video
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pretty girl gets her hairy pussy hotly fucked in many pos... - Any Porn" tvg-logo="" group-title="VIDEOS ADULTOS",Pretty girl gets her hairy pussy hotly fucked in many pos... - Any Porn
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Publicagent, Primer Plano, Fakehub - HDSex.org" tvg-logo="" group-title="VIDEOS ADULTOS",Publicagent, Primer Plano, Fakehub - HDSex.org
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Qué grande es el cine - El evangelio según San Mateo - RTVE.es" tvg-logo="" group-title="VIDEOS ADULTOS",Qué grande es el cine - El evangelio según San Mateo - RTVE.es
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Really Hot Adult - Video - Free Porn Videos - hclips.com" tvg-logo="" group-title="VIDEOS ADULTOS",Really Hot Adult - Video - Free Porn Videos - hclips.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Redhead slut gets fucked in her pussy" tvg-logo="" group-title="VIDEOS ADULTOS",Redhead slut gets fucked in her pussy
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Redhead Voyeur Teen With A Hairy Pussy Loves Getting Naked Outdoors" tvg-logo="" group-title="VIDEOS ADULTOS",Redhead Voyeur Teen With A Hairy Pussy Loves Getting Naked Outdoors
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rhys Adams in Interview Movie - ATKExotics - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Rhys Adams in Interview Movie - ATKExotics - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RodneyMoore - April Oneil - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",RodneyMoore - April Oneil - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roughly fucked in her hairy twat after posing nude and quite slutty - Hell Porno" tvg-logo="" group-title="VIDEOS ADULTOS",Roughly fucked in her hairy twat after posing nude and quite slutty - Hell Porno
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rúbias, Brazos Peludos, Pezones Hinchados - HDSex.org" tvg-logo="" group-title="VIDEOS ADULTOS",Rúbias, Brazos Peludos, Pezones Hinchados - HDSex.org
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="School Teacher's Secret Scene-01" tvg-logo="" group-title="VIDEOS ADULTOS",School Teacher's Secret Scene-01
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Secretly Aroused in Color 3206, Free New in Xxx HD Porn a2" tvg-logo="" group-title="VIDEOS ADULTOS",Secretly Aroused in Color 3206, Free New in Xxx HD Porn a2
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sex Ed II" tvg-logo="" group-title="VIDEOS ADULTOS",Sex Ed II
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sexy brunette teen Jillian Janson asshole ripped real good on GotPorn (4078607)" tvg-logo="" group-title="VIDEOS ADULTOS",Sexy brunette teen Jillian Janson asshole ripped real good on GotPorn (4078607)
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sexy maiden deboras cunny filled with cock on GotPorn (15415645)" tvg-logo="" group-title="VIDEOS ADULTOS",Sexy maiden deboras cunny filled with cock on GotPorn (15415645)
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sexy slut sucking cock and getting her ass and pussy nailed - Any Porn" tvg-logo="" group-title="VIDEOS ADULTOS",Sexy slut sucking cock and getting her ass and pussy nailed - Any Porn
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sexy Woman With Hairy Pussy" tvg-logo="" group-title="VIDEOS ADULTOS",Sexy Woman With Hairy Pussy
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Short Haired Mature Lady Bushy Pussy Railed (8-06 min) - ALOTporn.com" tvg-logo="" group-title="VIDEOS ADULTOS",Short Haired Mature Lady Bushy Pussy Railed (8-06 min) - ALOTporn.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sislovesme - hot teenage (Audrey Grace) fucks her stepbrother" tvg-logo="" group-title="VIDEOS ADULTOS",Sislovesme - hot teenage (Audrey Grace) fucks her stepbrother
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Skintight sexy dress on erotic tease - Hell Porno" tvg-logo="" group-title="VIDEOS ADULTOS",Skintight sexy dress on erotic tease - Hell Porno
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sleeping Teen Step Sister Fuck _ Upornia.com" tvg-logo="" group-title="VIDEOS ADULTOS",Sleeping Teen Step Sister Fuck _ Upornia.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stepbro Brother Love Make Charlotte Feels Good Porn Videos" tvg-logo="" group-title="VIDEOS ADULTOS",Stepbro Brother Love Make Charlotte Feels Good Porn Videos
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sweetie is ready for a healthy dose of dick to ram her ass - Alpha Porno" tvg-logo="" group-title="VIDEOS ADULTOS",Sweetie is ready for a healthy dose of dick to ram her ass - Alpha Porno
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Taste Of Sinn" tvg-logo="" group-title="VIDEOS ADULTOS",Taste Of Sinn
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tetas Naturalmente Grandes, Peludo - Videosection.com" tvg-logo="" group-title="VIDEOS ADULTOS",Tetas Naturalmente Grandes, Peludo - Videosection.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tetonas, Lencería, Por Detrás - HDSex.org" tvg-logo="" group-title="VIDEOS ADULTOS",Tetonas, Lencería, Por Detrás - HDSex.org
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Texas Patti - Milf Landlord Requires Housing Fee - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Texas Patti - Milf Landlord Requires Housing Fee - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="True Amateur Girl Next Door Type Casted (Full Sc.) - HD porn video" tvg-logo="" group-title="VIDEOS ADULTOS",True Amateur Girl Next Door Type Casted (Full Sc.) - HD porn video
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tutti Frutti 2017 Mom Suzy back again Premium Video HD _ Upornia.com" tvg-logo="" group-title="VIDEOS ADULTOS",Tutti Frutti 2017 Mom Suzy back again Premium Video HD _ Upornia.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two Moms On One Cock Porn Videos" tvg-logo="" group-title="VIDEOS ADULTOS",Two Moms On One Cock Porn Videos
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="une bellle tailleuse de pipe - Video - Free Porn Videos - hclips.com" tvg-logo="" group-title="VIDEOS ADULTOS",une bellle tailleuse de pipe - Video - Free Porn Videos - hclips.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vanessa - Compilation - WeAreHairy - Video porno - TXXX.com" tvg-logo="" group-title="VIDEOS ADULTOS",Vanessa - Compilation - WeAreHairy - Video porno - TXXX.com
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Veronika Mars shows off her young hairy pussy - solo masturbation" tvg-logo="" group-title="VIDEOS ADULTOS",Veronika Mars shows off her young hairy pussy - solo masturbation
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="video" tvg-logo="" group-title="VIDEOS ADULTOS",video
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Videos Hd, Porno Para Mujeres, Lo Más Frecuentados - HDSex.org" tvg-logo="" group-title="VIDEOS ADULTOS",Videos Hd, Porno Para Mujeres, Lo Más Frecuentados - HDSex.org
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Videos Hd, Vegestorio, Viejo Y Joven - HDSex.org" tvg-logo="" group-title="VIDEOS ADULTOS",Videos Hd, Vegestorio, Viejo Y Joven - HDSex.org
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="video_2" tvg-logo="" group-title="VIDEOS ADULTOS",video_2
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="video_3" tvg-logo="" group-title="VIDEOS ADULTOS",video_3
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="video_4" tvg-logo="" group-title="VIDEOS ADULTOS",video_4
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="video_5" tvg-logo="" group-title="VIDEOS ADULTOS",video_5
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="video_6" tvg-logo="" group-title="VIDEOS ADULTOS",video_6
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="video_7" tvg-logo="" group-title="VIDEOS ADULTOS",video_7
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="video_8" tvg-logo="" group-title="VIDEOS ADULTOS",video_8
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="video_9" tvg-logo="" group-title="VIDEOS ADULTOS",video_9
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="video_10" tvg-logo="" group-title="VIDEOS ADULTOS",video_10
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vote for BUSH! Moving Gallery Music Video (New! 14 Mar 2021)" tvg-logo="" group-title="VIDEOS ADULTOS",Vote for BUSH! Moving Gallery Music Video (New! 14 Mar 2021)
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wife in and after shower, great hairy pussy shots - watch on VoyeurHit.com. The world of free voyeur video, spy video and hidden cameras" tvg-logo="" group-title="VIDEOS ADULTOS",Wife in and after shower, great hairy pussy shots - watch on VoyeurHit.com. The world of free voyeur video, spy video and hidden cameras
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xHamster.com Free Porn Videos - HellPorno.net" tvg-logo="" group-title="VIDEOS ADULTOS",xHamster.com Free Porn Videos - HellPorno.net
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xHamster.com Free Porn Videos - HellPorno.net_2" tvg-logo="" group-title="VIDEOS ADULTOS",xHamster.com Free Porn Videos - HellPorno.net_2
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xHamster.com Free Porn Videos - HellPorno.net_3" tvg-logo="" group-title="VIDEOS ADULTOS",xHamster.com Free Porn Videos - HellPorno.net_3
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xHamster.com Free Porn Videos - HellPorno.net_4" tvg-logo="" group-title="VIDEOS ADULTOS",xHamster.com Free Porn Videos - HellPorno.net_4
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xHamster.com Free Porn Videos - HellPorno.net_5" tvg-logo="" group-title="VIDEOS ADULTOS",xHamster.com Free Porn Videos - HellPorno.net_5
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xHamster.com Free Porn Videos - HellPorno.net_6" tvg-logo="" group-title="VIDEOS ADULTOS",xHamster.com Free Porn Videos - HellPorno.net_6
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xHamster.com Free Porn Videos - HellPorno.net_7" tvg-logo="" group-title="VIDEOS ADULTOS",xHamster.com Free Porn Videos - HellPorno.net_7
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xHamster.com Free Porn Videos - HellPorno.net_8" tvg-logo="" group-title="VIDEOS ADULTOS",xHamster.com Free Porn Videos - HellPorno.net_8
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xHamster.com Free Porn Videos - HellPorno.net_9" tvg-logo="" group-title="VIDEOS ADULTOS",xHamster.com Free Porn Videos - HellPorno.net_9
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xHamster.com Free Porn Videos - HellPorno.net_10" tvg-logo="" group-title="VIDEOS ADULTOS",xHamster.com Free Porn Videos - HellPorno.net_10
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xHamster.com Free Porn Videos - HellPorno.net_11" tvg-logo="" group-title="VIDEOS ADULTOS",xHamster.com Free Porn Videos - HellPorno.net_11
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xHamster.com Free Porn Videos - HellPorno.net_12" tvg-logo="" group-title="VIDEOS ADULTOS",xHamster.com Free Porn Videos - HellPorno.net_12
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xHamster.com Free Porn Videos - HellPorno.net_13" tvg-logo="" group-title="VIDEOS ADULTOS",xHamster.com Free Porn Videos - HellPorno.net_13
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xHamster.com Free Porn Videos - HellPorno.net_14" tvg-logo="" group-title="VIDEOS ADULTOS",xHamster.com Free Porn Videos - HellPorno.net_14
+http://a5.cechire.com:8000/movie/34hzH6VK3P/XuESc42zRb/524077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD1" tvg-logo="" group-title="canales xxx",XXX: Alba XXX HD1
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569752
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD1 +1" tvg-logo="" group-title="canales xxx",XXX: Alba XXX HD1 +1
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569753
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD2" tvg-logo="" group-title="canales xxx",XXX: Alba XXX HD2
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569754
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD2 +1" tvg-logo="" group-title="canales xxx",XXX: Alba XXX HD2 +1
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569755
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD2 +2" tvg-logo="" group-title="canales xxx",XXX: Alba XXX HD2 +2
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569756
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD3" tvg-logo="" group-title="canales xxx",XXX: Alba XXX HD3
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569757
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD4" tvg-logo="" group-title="canales xxx",XXX: Alba XXX HD4
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569758
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD5" tvg-logo="" group-title="canales xxx",XXX: Alba XXX HD5
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569759
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD6" tvg-logo="" group-title="canales xxx",XXX: Alba XXX HD6
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569760
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD7" tvg-logo="" group-title="canales xxx",XXX: Alba XXX HD7
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569761
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD8" tvg-logo="" group-title="canales xxx",XXX: Alba XXX HD8
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569762
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Anal 4K" tvg-logo="" group-title="canales xxx",XXX: Anal 4K
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569763
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Analized" tvg-logo="" group-title="canales xxx",XXX: Analized
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569764
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ATK EXOTICS" tvg-logo="" group-title="canales xxx",XXX: ATK EXOTICS
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569765
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ATK Galleria" tvg-logo="" group-title="canales xxx",XXX: ATK Galleria
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569766
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ATK Hairy" tvg-logo="" group-title="canales xxx",XXX: ATK Hairy
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569767
+#EXTINF:-1 tvg-id="" tvg-name="XXX: babes" tvg-logo="" group-title="canales xxx",XXX: babes
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569768
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Balkan Erotic" tvg-logo="" group-title="canales xxx",XXX: Balkan Erotic
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569769
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BANANA FEVER" tvg-logo="" group-title="canales xxx",XXX: BANANA FEVER
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569770
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Bang U" tvg-logo="" group-title="canales xxx",XXX: Bang U
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569771
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Bangerz" tvg-logo="" group-title="canales xxx",XXX: Bangerz
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569772
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Barely Legal TV" tvg-logo="" group-title="canales xxx",XXX: Barely Legal TV
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569773
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Beate Uhse TV" tvg-logo="" group-title="canales xxx",XXX: Beate Uhse TV
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569774
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Blue Hustler" tvg-logo="" group-title="canales xxx",XXX: Blue Hustler
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569775
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers" tvg-logo="" group-title="canales xxx",XXX: Brazzers
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569776
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers +1" tvg-logo="" group-title="canales xxx",XXX: Brazzers +1
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569777
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers +2" tvg-logo="" group-title="canales xxx",XXX: Brazzers +2
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569778
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers +4" tvg-logo="" group-title="canales xxx",XXX: Brazzers +4
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569779
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers TV Europe" tvg-logo="" group-title="canales xxx",XXX: Brazzers TV Europe
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569780
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERZ +3" tvg-logo="" group-title="canales xxx",XXX: BRAZZERZ +3
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569781
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Cento X Cento TV" tvg-logo="" group-title="canales xxx",XXX: Cento X Cento TV
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569782
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Cherry Pimps" tvg-logo="" group-title="canales xxx",XXX: Cherry Pimps
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569783
+#EXTINF:-1 tvg-id="" tvg-name="XXX: CUM LOUDER" tvg-logo="" group-title="canales xxx",XXX: CUM LOUDER
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569784
+#EXTINF:-1 tvg-id="" tvg-name="XXX: danejones" tvg-logo="" group-title="canales xxx",XXX: danejones
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569785
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Darling TV2" tvg-logo="" group-title="canales xxx",XXX: Darling TV2
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569786
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DDF Network" tvg-logo="" group-title="canales xxx",XXX: DDF Network
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569787
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Desire" tvg-logo="" group-title="canales xxx",XXX: Desire
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569788
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dorcel TV" tvg-logo="" group-title="canales xxx",XXX: Dorcel TV
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569789
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dorcel XXX" tvg-logo="" group-title="canales xxx",XXX: Dorcel XXX
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569790
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dream Porn" tvg-logo="" group-title="canales xxx",XXX: Dream Porn
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569791
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dusk" tvg-logo="" group-title="canales xxx",XXX: Dusk
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569792
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Emanuelle" tvg-logo="" group-title="canales xxx",XXX: Emanuelle
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569793
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic" tvg-logo="" group-title="canales xxx",XXX: erotic
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569794
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 2" tvg-logo="" group-title="canales xxx",XXX: erotic 2
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569795
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 3" tvg-logo="" group-title="canales xxx",XXX: erotic 3
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569796
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 4" tvg-logo="" group-title="canales xxx",XXX: erotic 4
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569797
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 5" tvg-logo="" group-title="canales xxx",XXX: erotic 5
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569798
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 6" tvg-logo="" group-title="canales xxx",XXX: erotic 6
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569799
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 7" tvg-logo="" group-title="canales xxx",XXX: erotic 7
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569800
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 8" tvg-logo="" group-title="canales xxx",XXX: erotic 8
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569801
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Erotic Spice" tvg-logo="" group-title="canales xxx",XXX: Erotic Spice
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569802
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Erox" tvg-logo="" group-title="canales xxx",XXX: Erox
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569803
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Eroxxx" tvg-logo="" group-title="canales xxx",XXX: Eroxxx
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569804
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EVIL ANGEL +1" tvg-logo="" group-title="canales xxx",XXX: EVIL ANGEL +1
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569805
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Evil Angel TV" tvg-logo="" group-title="canales xxx",XXX: Evil Angel TV
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569806
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXPO EROX" tvg-logo="" group-title="canales xxx",XXX: EXPO EROX
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569807
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Extasy TV" tvg-logo="" group-title="canales xxx",XXX: Extasy TV
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569808
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTREME" tvg-logo="" group-title="canales xxx",XXX: EXTREME
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569809
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Exxxotica" tvg-logo="" group-title="canales xxx",XXX: Exxxotica
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569810
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Fantazzy TV" tvg-logo="" group-title="canales xxx",XXX: Fantazzy TV
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569811
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FTV Midnight" tvg-logo="" group-title="canales xxx",XXX: FTV Midnight
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569812
+#EXTINF:-1 tvg-id="" tvg-name="XXX: GAY MEN" tvg-logo="" group-title="canales xxx",XXX: GAY MEN
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569813
+#EXTINF:-1 tvg-id="" tvg-name="XXX: GAY TV" tvg-logo="" group-title="canales xxx",XXX: GAY TV
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569814
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HITZEFREI" tvg-logo="" group-title="canales xxx",XXX: HITZEFREI
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569815
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Horny Hostel" tvg-logo="" group-title="canales xxx",XXX: Horny Hostel
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569816
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT" tvg-logo="" group-title="canales xxx",XXX: HOT
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569817
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT 1+" tvg-logo="" group-title="canales xxx",XXX: HOT 1+
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569818
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT Gold" tvg-logo="" group-title="canales xxx",XXX: HOT Gold
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569819
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT GUYS FUCK" tvg-logo="" group-title="canales xxx",XXX: HOT GUYS FUCK
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569820
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT GUYS FUCK +1" tvg-logo="" group-title="canales xxx",XXX: HOT GUYS FUCK +1
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569821
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT Pleasure" tvg-logo="" group-title="canales xxx",XXX: HOT Pleasure
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569822
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT XXL" tvg-logo="" group-title="canales xxx",XXX: HOT XXL
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569823
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler HD" tvg-logo="" group-title="canales xxx",XXX: Hustler HD
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569824
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler TV RED" tvg-logo="" group-title="canales xxx",XXX: Hustler TV RED
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569825
+#EXTINF:-1 tvg-id="" tvg-name="XXX: IPPA" tvg-logo="" group-title="canales xxx",XXX: IPPA
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569826
+#EXTINF:-1 tvg-id="" tvg-name="XXX: IPPA +1" tvg-logo="" group-title="canales xxx",XXX: IPPA +1
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569827
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LEO TV" tvg-logo="" group-title="canales xxx",XXX: LEO TV
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569828
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LEO TV Gold" tvg-logo="" group-title="canales xxx",XXX: LEO TV Gold
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569829
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Meiden Van Holland" tvg-logo="" group-title="canales xxx",XXX: Meiden Van Holland
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569830
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MI Interracial" tvg-logo="" group-title="canales xxx",XXX: MI Interracial
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569831
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV" tvg-logo="" group-title="canales xxx",XXX: Miami TV
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569832
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV Colombia" tvg-logo="" group-title="canales xxx",XXX: Miami TV Colombia
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569833
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV International" tvg-logo="" group-title="canales xxx",XXX: Miami TV International
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569834
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV Mexico" tvg-logo="" group-title="canales xxx",XXX: Miami TV Mexico
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569835
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MILF TV" tvg-logo="" group-title="canales xxx",XXX: MILF TV
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569836
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MILFED" tvg-logo="" group-title="canales xxx",XXX: MILFED
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569837
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MOFOS" tvg-logo="" group-title="canales xxx",XXX: MOFOS
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569838
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MOM TEACH SEX" tvg-logo="" group-title="canales xxx",XXX: MOM TEACH SEX
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569839
+#EXTINF:-1 tvg-id="" tvg-name="XXX: NAKED NEWS" tvg-logo="" group-title="canales xxx",XXX: NAKED NEWS
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569840
+#EXTINF:-1 tvg-id="" tvg-name="XXX: NET XX" tvg-logo="" group-title="canales xxx",XXX: NET XX
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569841
+#EXTINF:-1 tvg-id="" tvg-name="XXX: NET XXL" tvg-logo="" group-title="canales xxx",XXX: NET XXL
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569842
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Nuart" tvg-logo="" group-title="canales xxx",XXX: Nuart
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569843
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Nubile Films" tvg-logo="" group-title="canales xxx",XXX: Nubile Films
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569844
+#EXTINF:-1 tvg-id="" tvg-name="XXX: O.La.La" tvg-logo="" group-title="canales xxx",XXX: O.La.La
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569845
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Passie XXX" tvg-logo="" group-title="canales xxx",XXX: Passie XXX
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569846
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Passie XXX Milf Shake" tvg-logo="" group-title="canales xxx",XXX: Passie XXX Milf Shake
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569847
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Passion XXX" tvg-logo="" group-title="canales xxx",XXX: Passion XXX
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569848
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Passion XXX +1" tvg-logo="" group-title="canales xxx",XXX: Passion XXX +1
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569849
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE Gold" tvg-logo="" group-title="canales xxx",XXX: PENTHOUSE Gold
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569850
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE Passion" tvg-logo="" group-title="canales xxx",XXX: PENTHOUSE Passion
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569851
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE REALITY TV" tvg-logo="" group-title="canales xxx",XXX: PENTHOUSE REALITY TV
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569852
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Perv Mom" tvg-logo="" group-title="canales xxx",XXX: Perv Mom
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569853
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINKO CLUB" tvg-logo="" group-title="canales xxx",XXX: PINKO CLUB
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569854
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY" tvg-logo="" group-title="canales xxx",XXX: PLAYBOY
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569855
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY Brasil" tvg-logo="" group-title="canales xxx",XXX: PLAYBOY Brasil
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569856
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY Latino" tvg-logo="" group-title="canales xxx",XXX: PLAYBOY Latino
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569857
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY USA" tvg-logo="" group-title="canales xxx",XXX: PLAYBOY USA
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569858
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYHOUSE" tvg-logo="" group-title="canales xxx",XXX: PLAYHOUSE
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569859
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Private TV" tvg-logo="" group-title="canales xxx",XXX: Private TV
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569860
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Reality Kings TV" tvg-logo="" group-title="canales xxx",XXX: Reality Kings TV
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569861
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Reality Kings TV +1" tvg-logo="" group-title="canales xxx",XXX: Reality Kings TV +1
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569862
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Red Lips" tvg-logo="" group-title="canales xxx",XXX: Red Lips
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569863
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT" tvg-logo="" group-title="canales xxx",XXX: REDLIGHT
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569864
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Russkaya Noch" tvg-logo="" group-title="canales xxx",XXX: Russkaya Noch
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569865
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Secret Circle" tvg-logo="" group-title="canales xxx",XXX: Secret Circle
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569866
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Sexart" tvg-logo="" group-title="canales xxx",XXX: Sexart
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569867
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SeXation" tvg-logo="" group-title="canales xxx",XXX: SeXation
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569868
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Sextreme" tvg-logo="" group-title="canales xxx",XXX: Sextreme
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569869
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Sexy HOT" tvg-logo="" group-title="canales xxx",XXX: Sexy HOT
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569870
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SINEMATICA" tvg-logo="" group-title="canales xxx",XXX: SINEMATICA
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569871
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Sugar Street" tvg-logo="" group-title="canales xxx",XXX: Sugar Street
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569872
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SuperOne" tvg-logo="" group-title="canales xxx",XXX: SuperOne
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569873
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TRANS ANGELS" tvg-logo="" group-title="canales xxx",XXX: TRANS ANGELS
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569874
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TRANS ANGELS PornBox" tvg-logo="" group-title="canales xxx",XXX: TRANS ANGELS PornBox
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569875
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TRANS PICCANTE" tvg-logo="" group-title="canales xxx",XXX: TRANS PICCANTE
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569876
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS" tvg-logo="" group-title="canales xxx",XXX: VENUS
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569877
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VISIT-X TV" tvg-logo="" group-title="canales xxx",XXX: VISIT-X TV
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569878
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Vivid Red" tvg-logo="" group-title="canales xxx",XXX: Vivid Red
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569879
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Vivid Touch" tvg-logo="" group-title="canales xxx",XXX: Vivid Touch
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569880
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Vivid TV" tvg-logo="" group-title="canales xxx",XXX: Vivid TV
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569881
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIXEN" tvg-logo="" group-title="canales xxx",XXX: VIXEN
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569882
+#EXTINF:-1 tvg-id="" tvg-name="XXX: WHITE BOXXX" tvg-logo="" group-title="canales xxx",XXX: WHITE BOXXX
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569883
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X Bizarre" tvg-logo="" group-title="canales xxx",XXX: X Bizarre
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569884
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X Bunga Bunga" tvg-logo="" group-title="canales xxx",XXX: X Bunga Bunga
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569885
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XXL" tvg-logo="" group-title="canales xxx",XXX: XXL
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569886
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY Max" tvg-logo="" group-title="canales xxx",XXX: XY Max
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569887
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY Mix" tvg-logo="" group-title="canales xxx",XXX: XY Mix
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569888
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY Plus" tvg-logo="" group-title="canales xxx",XXX: XY Plus
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569889
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Щёлк" tvg-logo="" group-title="canales xxx",XXX: Щёлк
+http://a5.cechire.com:8000/34hzH6VK3P/XuESc42zRb/569890
 
 
 
