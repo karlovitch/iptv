@@ -1,47 +1,35 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 SD
 http://869842410113339545.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/339545.ts
-
 #EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-6-pt.png" group-title="Portugal",PT: SPORT TV 6 FHD
 http://869842410113416381.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/416381.ts
-
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 SD
 http://869842410113623298.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/623298.ts
-
 #EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA SD" tvg-logo="https://www.nba.com/assets/nbatv/logo/grid/nba-tv-horiz-color.png" group-title="Portugal",PT: SPORT TV NBA SD
 http://869842410113690408.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/690408.ts
-
 #EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6 HD
 http://869842410113744516.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/744516.ts
-
 #EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 HEVC" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="Portugal",PT: ELEVEN SPORTS 3 HEVC
 http://869842410113746355.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/746355.ts
-
 #EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 SD
 http://869842410113755739.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/755739.ts
 #EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT: EUROSPORT 2 SD" tvg-logo="https://www.sportda.com/wp-content/uploads/2018/10/14618607951807.png" group-title="Portugal",PT: EUROSPORT 2 SD
 http://869842410113755751.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/755751.ts
-
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9bf5af3772129242bc57be6863073ff7.png" group-title="Portugal",PT: SPORT TV 5 HD
 http://869842410113777317.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/777317.ts
-
 #EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 HD
 http://869842410113798232.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/798232.ts
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 SD" tvg-logo="http://live21.site/LOGOS/picons/SPORT_TV2.png" group-title="Portugal",PT: SPORT TV 2 SD
 http://869842410113798248.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/798248.ts
-
 #EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: SPORTING FHD" tvg-logo="" group-title="Portugal",PT: SPORTING FHD
 http://869842410113802498.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/802498.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORTV 1 FHD" tvg-logo="" group-title="Portugal",PT: SPORTV 1 FHD
 http://869842410113802499.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/802499.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6ᶠᴴᴰ HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6ᶠᴴᴰ HD
 http://869842410113817728.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/817728.ts
 #EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 2 HD
 http://869842410113821804.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/821804.ts
-
 #EXTINF:-1 tvg-id="Eleven 1 (35).pt" tvg-name="PT: ELEVEN 1 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 1 FHD
 http://869842410113845747.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/845747.ts
 #EXTINF:-1 tvg-id="Eleven 3 (37).pt" tvg-name="PT: ELEVEN 3 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 3 SD
@@ -52,24 +40,18 @@ http://869842410113845749.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/845749.ts
 http://869842410113845750.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/845750.ts
 #EXTINF:-1 tvg-id="Eleven 6 (40).pt" tvg-name="PT: ELEVEN 6 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 6 SD
 http://869842410113845751.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/845751.ts
-
 #EXTINF:-1 tvg-id="BTVMulticamaras.pt" tvg-name="PT: BTV HD" tvg-logo="" group-title="Portugal",PT: BTV HD
 http://869842410113851883.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/851883.ts
-
 #EXTINF:-1 tvg-id="BTVMulticamaras.pt" tvg-name="PT: BENFICA TV FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/benfica-tv.png" group-title="Portugal",PT: BENFICA TV FHD
 http://869842410113868629.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/868629.ts
 #EXTINF:-1 tvg-id="BTVMulticamaras.pt" tvg-name="PT: BENFICA FHD" tvg-logo="http://tudoaqui.xyz/LOGOS/picons/Benfica_TV_1.png" group-title="Portugal",PT: BENFICA FHD
 http://869842410113869253.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/869253.ts
-
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 HD
 http://869842410113871946.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/871946.ts
-
 #EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 SD" tvg-logo="https://i1.wp.com/1.bp.blogspot.com/-sSoHu8yNg7Q/V_YOzJcaLKI/AAAAAAAABq0/bJ4dJhM-DvIh8dugy8d63VfChRbzei6-ACLcB/s1600/urrwxq1436898891.png" group-title="Portugal",PT: SPORT TV 4 SD
 http://869842410113874009.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/874009.ts
-
 #EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORT 1 HEVC" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 1 HEVC
 http://869842410113880248.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/880248.ts
-
 #EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORT 2 HEVC" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 2 HEVC
 http://869842410113880889.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/880889.ts
 #EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORT 3 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 3 FHD
@@ -78,32 +60,171 @@ http://869842410113880890.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/880890.ts
 http://869842410113880892.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/880892.ts
 #EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORT 6 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 6 HD
 http://869842410113880893.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/880893.ts
-
-
 #EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 HD
 http://869842410113884814.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/884814.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD HEVEC HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 HD HEVEC HD
 http://869842410113885439.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/885439.ts
 #EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 HEVC" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 2 HEVC
 http://869842410113885440.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/885440.ts
-
 #EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT: SPORT TV 6 SD" tvg-logo="" group-title="Portugal",PT: SPORT TV 6 SD
 http://869842410113886650.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/886650.ts
-
 #EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 HD
 http://869842410113886857.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/886857.ts
-
-
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 [LIVE DURING EVENTS ONLY] SD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 [LIVE DURING EVENTS ONLY] SD
 http://869842410113887795.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/887795.ts
 #EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 5 FHD
 http://869842410113887796.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/887796.ts
-
 #EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 FHD
 http://869842410113888589.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/888589.ts
 #EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 HD
 http://869842410113888590.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/888590.ts
+
+
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 SD
+http://678095340978339545.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/339545.ts
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-6-pt.png" group-title="Portugal",PT: SPORT TV 6 FHD
+http://678095340978416381.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/416381.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 SD
+http://678095340978623298.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/623298.ts
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA SD" tvg-logo="https://www.nba.com/assets/nbatv/logo/grid/nba-tv-horiz-color.png" group-title="Portugal",PT: SPORT TV NBA SD
+http://678095340978690408.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/690408.ts
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV + FHD" tvg-logo="https://tvepg.eu/img/portugal/reviews/sport_tv_plus/european_qualifiers_antevisao_jornadas_9_e_10.png" group-title="Portugal",PT: SPORT TV + FHD
+http://678095340978777315.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/777315.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9bf5af3772129242bc57be6863073ff7.png" group-title="Portugal",PT: SPORT TV 5 HD
+http://678095340978777317.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/777317.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 SD" tvg-logo="http://live21.site/LOGOS/picons/SPORT_TV2.png" group-title="Portugal",PT: SPORT TV 2 SD
+http://678095340978798248.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/798248.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTV 1 FHD" tvg-logo="" group-title="Portugal",PT: SPORTV 1 FHD
+http://678095340978802499.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/802499.ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 HD
+http://678095340978871946.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/871946.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 SD" tvg-logo="https://i1.wp.com/1.bp.blogspot.com/-sSoHu8yNg7Q/V_YOzJcaLKI/AAAAAAAABq0/bJ4dJhM-DvIh8dugy8d63VfChRbzei6-ACLcB/s1600/urrwxq1436898891.png" group-title="Portugal",PT: SPORT TV 4 SD
+http://678095340978874009.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/874009.ts
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT: SPORT TV 6 SD" tvg-logo="" group-title="Portugal",PT: SPORT TV 6 SD
+http://678095340978886650.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/886650.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 [LIVE DURING EVENTS ONLY] SD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 [LIVE DURING EVENTS ONLY] SD
+http://678095340978887795.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/887795.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 5 FHD
+http://678095340978887796.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/887796.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 FHD
+http://678095340978888589.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/888589.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 HD
+http://678095340978888590.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/888590.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://live.phenixiptv.com:8080/images/8a71fc2c6ef35d9e1220103f85278a6a.png" group-title="SVIP SPORTS",PT: SPORT TV 2 FHD
+http://678095340978318977.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/318977.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="http://live.phenixiptv.com:8080/images/aa7c9dd5238e7a946b8031b7218c8279.png" group-title="SVIP SPORTS",PT: SPORT TV 3 SD
+http://678095340978318982.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/318982.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 SD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9bf5af3772129242bc57be6863073ff7.png" group-title="SVIP SPORTS",PT: SPORT TV 5 SD
+http://678095340978318994.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/318994.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HEVC" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 1 HEVC
+http://678095340978422954.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/422954.ts
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV NBA FHD
+http://678095340978437114.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/437114.ts
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 6 FHD
+http://678095340978757268.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/757268.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 SD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 4 SD
+http://678095340978849521.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/849521.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 FIBRA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 6 FIBRA FHD
+http://678095340978852924.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/852924.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FIBRA SD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 4 FIBRA SD
+http://678095340978868953.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/868953.ts
+EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FIBRA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 1 FIBRA FHD
+http://678095340978877467.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/877467.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 1 [VDF SCRITP] HD
+http://678095340978877468.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/877468.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FIBRA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 2 FIBRA FHD
+http://678095340978877469.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/877469.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 2 [VDF SCRITP] HD
+http://678095340978877470.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/877470.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 3 [VDF SCRITP] HD
+http://678095340978877472.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/877472.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 4 [VDF SCRITP] HD
+http://678095340978877473.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/877473.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 6 [VDF SCRITP] HD
+http://678095340978877477.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/877477.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV MAIS HD [VDF] FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV MAIS HD [VDF] FHD
+http://678095340978877478.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/877478.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV NBA [VDF SCRITP] HD
+http://678095340978877479.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/877479.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FIBRA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 5 FIBRA FHD
+http://678095340978879799.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/879799.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 5 [VDF SCRITP] HD
+http://678095340978881418.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/881418.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FIBRA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 3 FIBRA FHD
+http://678095340978882934.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/882934.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 3 FHD
+http://678095340978888098.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/888098.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 2 HD
+http://678095340978889421.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/889421.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 HEVC" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 2 HEVC
+http://678095340978889422.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/889422.ts
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6 HD
+http://678095340978744516.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/744516.ts
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 HEVC" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="Portugal",PT: ELEVEN SPORTS 3 HEVC
+http://678095340978746355.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/746355.ts
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 SD
+http://678095340978755739.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/755739.ts
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 HD
+http://678095340978798232.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/798232.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3ᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3ᶠᴴᴰ FHD
+http://678095340978802464.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/802464.ts
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 FHD
+http://678095340978802465.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/802465.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6ᶠᴴᴰ HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6ᶠᴴᴰ HD
+http://678095340978817728.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/817728.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 2 HD
+http://678095340978821804.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/821804.ts
+#EXTINF:-1 tvg-id="Eleven 1 (35).pt" tvg-name="PT: ELEVEN 1 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 1 FHD
+http://678095340978845747.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/845747.ts
+#EXTINF:-1 tvg-id="Eleven 3 (37).pt" tvg-name="PT: ELEVEN 3 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 3 SD
+http://678095340978845748.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/845748.ts
+#EXTINF:-1 tvg-id="Eleven 4 (38).pt" tvg-name="PT: ELEVEN 4 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN 4 HD
+http://678095340978845749.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/845749.ts
+#EXTINF:-1 tvg-id="Eleven 5 (39).pt" tvg-name="PT: ELEVEN 5 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 5 FHD
+http://678095340978845750.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/845750.ts
+#EXTINF:-1 tvg-id="Eleven 6 (40).pt" tvg-name="PT: ELEVEN 6 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 6 SD
+http://678095340978845751.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/845751.ts
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORT 1 HEVC" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 1 HEVC
+http://678095340978880248.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/880248.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORT 2 HEVC" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 2 HEVC
+http://678095340978880889.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/880889.ts
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORT 3 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 3 FHD
+http://678095340978880890.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/880890.ts
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORT 5 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 5 HD
+http://678095340978880892.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/880892.ts
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORT 6 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 6 HD
+http://678095340978880893.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/880893.ts
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 HD
+http://678095340978884814.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/884814.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD HEVEC HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 HD HEVEC HD
+http://678095340978885439.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/885439.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 HEVC" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 2 HEVC
+http://678095340978885440.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/885440.ts
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 HD
+http://678095340978886857.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/886857.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jDWzt5jHJDcpQzKZvIWOYVDMX6t5A2SBO4PnVRXEkw7eQ.png" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 2 FHD
+http://678095340978318939.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/318939.ts
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 6 HD
+http://678095340978447325.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/447325.ts
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 HEVC" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 3 HEVC
+http://678095340978660566.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/660566.ts
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 HEVC" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 1 HEVC
+http://678095340978779952.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/779952.ts
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 5 HD
+http://678095340978784141.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/784141.ts
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORT 1 HEVC" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORT 1 HEVC
+http://678095340978848240.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/848240.ts
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 4 FHD
+http://678095340978859415.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/859415.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORT 2 HD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORT 2 HD
+http://678095340978873576.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/873576.ts
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORT 3 SD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORT 3 SD
+http://678095340978882933.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/882933.ts
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORT 5 FHD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORT 5 FHD
+http://678095340978885054.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/885054.ts
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORT 6 SD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORT 6 SD
+http://678095340978888095.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/888095.ts
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 FHD1 HD" tvg-logo="" group-title="SVIP SPORTS",UK: SKY SPORTS F1 FHD1 HD
@@ -120,7 +241,6 @@ http://869842410113306441.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/306441.ts
 http://869842410113812802.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/812802.ts
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK: SKY SPORTS F1 FHD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS F1 FHD
 http://869842410113885401.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/885401.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORTS VIP FHD" tvg-logo="http://estoxy.net:80/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumsC8UjZ9Nr6jeObwVIxW2IuNk1glkru7fSdRS-Ha4OHRA.png" group-title="SVIP SPORTS",BR: BAND SPORTS VIP FHD
 http://869842410113888442.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/888442.ts
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BR: BAND SPORTS | HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/band-sports.jpg" group-title="Brazil",BR: BAND SPORTS | HD
@@ -129,6 +249,30 @@ http://869842410113332743.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/332743.ts
 http://869842410113815575.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/815575.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORTS | HEVC" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/band-sports.jpg" group-title="Brazil",BR: BAND SPORTS | HEVC
 http://869842410113889566.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/889566.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 (BACKUP) HD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS F1 (BACKUP) HD
+http://678095340978306439.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/306439.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1 SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNgP3K3hGb9dr0jv94ekiGr.png" group-title="UK Sport",UK: SKY SPORTS F1 SD
+http://678095340978306441.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/306441.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 VIP HD" tvg-logo="" group-title="SVIP SPORTS",UK: SKY SPORTS F1 VIP HD
+http://678095340978848301.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/848301.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 (BACKUP) HD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS F1 (BACKUP) HD
+http://678095340978306439.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/306439.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1 SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNgP3K3hGb9dr0jv94ekiGr.png" group-title="UK Sport",UK: SKY SPORTS F1 SD
+http://678095340978306441.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/306441.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1 HD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS F1 HD
+http://678095340978812802.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/812802.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK: SKY SPORTS F1 FHD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS F1 FHD
+http://678095340978885401.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/885401.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BR: BAND SPORTS | HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/band-sports.jpg" group-title="Brazil",BR: BAND SPORTS | HD
+http://678095340978332743.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/332743.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORTS VIP FHD" tvg-logo="http://estoxy.net:80/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumsC8UjZ9Nr6jeObwVIxW2IuNk1glkru7fSdRS-Ha4OHRA.png" group-title="SVIP SPORTS",BR: BAND SPORTS VIP FHD
+http://678095340978888442.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/888442.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BR: BAND SPORTS SD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/band-sports.jpg" group-title="Brazil",BR: BAND SPORTS SD
+http://678095340978815575.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/815575.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORTS | HEVC" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/band-sports.jpg" group-title="Brazil",BR: BAND SPORTS | HEVC
+http://678095340978889566.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/889566.ts
 
 
 
@@ -385,6 +529,258 @@ http://869842410113886745.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/886745.ts
 #EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 3 FHD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 3 FHD
 http://869842410113887068.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/887068.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACKED HD" tvg-logo="" group-title="ADULTS",XXX: BLACKED HD
+http://678095340978755112.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/755112.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS FHD" tvg-logo="" group-title="ADULTS",XXX: BRAZZERS FHD
+http://678095340978755114.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/755114.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV ANAL FHD" tvg-logo="" group-title="ADULTS",XXX: FAP TV ANAL FHD
+http://678095340978755139.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/755139.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV TEENS HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV TEENS HD
+http://678095340978755143.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/755143.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVATE FHD" tvg-logo="" group-title="ADULTS",XXX: PRIVATE FHD
+http://678095340978755230.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/755230.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 1 FHD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 1 FHD
+http://678095340978759888.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759888.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 4 FHD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 4 FHD
+http://678095340978759890.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759890.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BLUE HUSTLER SD" tvg-logo="" group-title="ADULTS",XXX: BLUE HUSTLER SD
+http://678095340978759895.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759895.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL XXX HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: DORCEL XXX HD XXX FHD
+http://678095340978759896.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759896.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EROX XXX HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: EROX XXX HD XXX FHD
+http://678095340978759901.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759901.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV COMPILATION FHD" tvg-logo="" group-title="ADULTS",XXX: FAP TV COMPILATION FHD
+http://678095340978759906.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759906.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER FHD" tvg-logo="" group-title="ADULTS",XXX: HUSTLER FHD
+http://678095340978759913.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759913.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: RUSSKAYA NOCH HD" tvg-logo="" group-title="ADULTS",XXX: RUSSKAYA NOCH HD
+http://678095340978759964.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759964.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS TV XXX SD" tvg-logo="" group-title="ADULTS",XXX: VENUS TV XXX SD
+http://678095340978759974.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759974.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID RED FHD" tvg-logo="" group-title="ADULTS",XXX: VIVID RED FHD
+http://678095340978759975.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759975.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X-MO GAY XXX FHD" tvg-logo="" group-title="ADULTS",XXX: X-MO GAY XXX FHD
+http://678095340978759977.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/759977.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT FHD" tvg-logo="" group-title="ADULTS",XXX: REDLIGHT FHD
+http://678095340978763027.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/763027.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - BOXTRUCKSEX TV FHD" tvg-logo="" group-title="ADULTS",XXX: AD - BOXTRUCKSEX TV FHD
+http://678095340978771543.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/771543.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - BRASILEIRINHAS HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - BRASILEIRINHAS HEVC
+http://678095340978771544.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/771544.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - CASTINGCOUCH HD TV HD" tvg-logo="" group-title="ADULTS",XXX: AD - CASTINGCOUCH HD TV HD
+http://678095340978771545.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/771545.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - CASTINGCOUCHHD TV HD" tvg-logo="" group-title="ADULTS",XXX: AD - CASTINGCOUCHHD TV HD
+http://678095340978771546.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/771546.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - LA NEW GIRL CHANNEL FHD" tvg-logo="" group-title="ADULTS",XXX: AD - LA NEW GIRL CHANNEL FHD
+http://678095340978771558.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/771558.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - PRIMAL FETISH HD" tvg-logo="" group-title="ADULTS",XXX: AD - PRIMAL FETISH HD
+http://678095340978771565.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/771565.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DREAM PORN XXX SD" tvg-logo="" group-title="ADULTS",XXX: DREAM PORN XXX SD
+http://678095340978777164.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/777164.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - PRIVATE HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - PRIVATE HEVC
+http://678095340978783412.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/783412.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV 4 FHD" tvg-logo="" group-title="ADULTS",XXX: FAP TV 4 FHD
+http://678095340978783414.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/783414.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAST BOYZ GAY XXX HD" tvg-logo="" group-title="ADULTS",XXX: FAST BOYZ GAY XXX HD
+http://678095340978785901.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/785901.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - VIXEN HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - VIXEN HEVC
+http://678095340978789838.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/789838.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DUSK! XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: DUSK! XXX HEVC
+http://678095340978791734.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791734.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EVIL ANGEL HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: EVIL ANGEL HD XXX FHD
+http://678095340978791737.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791737.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTASY HD XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: EXTASY HD XXX HEVC
+http://678095340978791738.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791738.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FANTASY XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: FANTASY XXX HEVC
+http://678095340978791739.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791739.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT PLEASURE XXX HD" tvg-logo="" group-title="ADULTS",XXX: HOT PLEASURE XXX HD
+http://678095340978791742.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791742.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT XXL HD XXX HD" tvg-logo="" group-title="ADULTS",XXX: HOT XXL HD XXX HD
+http://678095340978791743.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791743.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LEGAL TV XXX FHD" tvg-logo="" group-title="ADULTS",XXX: LEGAL TV XXX FHD
+http://678095340978791745.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791745.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LEO TV GOLD XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: LEO TV GOLD XXX HEVC
+http://678095340978791746.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791746.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LUST PUR FHD" tvg-logo="" group-title="ADULTS",XXX: LUST PUR FHD
+http://678095340978791747.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791747.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MILF TV XXX FHD" tvg-logo="" group-title="ADULTS",XXX: MILF TV XXX FHD
+http://678095340978791749.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791749.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSIE XXX XXX SD" tvg-logo="" group-title="ADULTS",XXX: PASSIE XXX XXX SD
+http://678095340978791754.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791754.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE REALITY TV FHD" tvg-logo="" group-title="ADULTS",XXX: PENTHOUSE REALITY TV FHD
+http://678095340978791756.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791756.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 2 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 2 XXX SD
+http://678095340978791757.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791757.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 3 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 3 XXX SD
+http://678095340978791758.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791758.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC XXX SD
+http://678095340978791764.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791764.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYHOUSE XXX FHD" tvg-logo="" group-title="ADULTS",XXX: PLAYHOUSE XXX FHD
+http://678095340978791767.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791767.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REALITY KINGS TV XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: REALITY KINGS TV XXX HEVC
+http://678095340978791768.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791768.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: RED XXX XXX FHD" tvg-logo="" group-title="ADULTS",XXX: RED XXX XXX FHD
+http://678095340978791769.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791769.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEX PRIVE TV XXX FHD" tvg-logo="" group-title="ADULTS",XXX: SEX PRIVE TV XXX FHD
+http://678095340978791789.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791789.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXTREME XXX SD" tvg-logo="" group-title="ADULTS",XXX: SEXTREME XXX SD
+http://678095340978791790.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791790.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SHALUN TV HD" tvg-logo="" group-title="ADULTS",XXX: SHALUN TV HD
+http://678095340978791791.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791791.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X1 XXX SD" tvg-logo="" group-title="ADULTS",XXX: X1 XXX SD
+http://678095340978791798.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791798.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XXL SD" tvg-logo="" group-title="ADULTS",XXX: XXL SD
+http://678095340978791799.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791799.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MAX HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: XY MAX HD XXX FHD
+http://678095340978791800.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791800.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MIX HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: XY MIX HD XXX FHD
+http://678095340978791801.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/791801.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: JASMIN HD" tvg-logo="" group-title="ADULTS",XXX: JASMIN HD
+http://678095340978792668.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/792668.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK O TV SD" tvg-logo="" group-title="ADULTS",XXX: PINK O TV SD
+http://678095340978798363.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/798363.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LESBIAN AFFAIR XXX FHD" tvg-logo="" group-title="ADULTS",XXX: LESBIAN AFFAIR XXX FHD
+http://678095340978799894.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/799894.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MIAMI TV XXX FHD" tvg-logo="" group-title="ADULTS",XXX: MIAMI TV XXX FHD
+http://678095340978807932.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/807932.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: NET XX XXX SD" tvg-logo="" group-title="ADULTS",XXX: NET XX XXX SD
+http://678095340978821448.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/821448.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV LESBIAN HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV LESBIAN HD
+http://678095340978822195.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/822195.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV PARODY HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV PARODY HD
+http://678095340978822196.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/822196.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ADULT TINY4K 1 HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - ADULT TINY4K 1 HEVC
+http://678095340978823032.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/823032.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ADULT TINY4K 4 HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - ADULT TINY4K 4 HEVC
+http://678095340978823033.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/823033.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - HOT CLUB 2 FHD" tvg-logo="" group-title="ADULTS",XXX: AD - HOT CLUB 2 FHD
+http://678095340978823043.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/823043.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - PENTHOUSE GOLD HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - PENTHOUSE GOLD HEVC
+http://678095340978823046.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/823046.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - PENTHOUSE PASSION HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - PENTHOUSE PASSION HEVC
+http://678095340978823047.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/823047.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BABES TV HD XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: BABES TV HD XXX HEVC
+http://678095340978823052.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/823052.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SUPER ONE HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: SUPER ONE HD XXX FHD
+http://678095340978823053.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/823053.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SUPER ONE XXX FHD" tvg-logo="" group-title="ADULTS",XXX: SUPER ONE XXX FHD
+http://678095340978823054.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/823054.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY PLUS HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: XY PLUS HD XXX FHD
+http://678095340978823055.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/823055.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - BLUE HUSTLER SD" tvg-logo="" group-title="ADULTS",XXX: AD - BLUE HUSTLER SD
+http://678095340978824894.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/824894.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - AMERICAN PORNSTAR CHANNELS FHD" tvg-logo="" group-title="ADULTS",XXX: AD - AMERICAN PORNSTAR CHANNELS FHD
+http://678095340978827674.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/827674.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ATK HAIRY TV FHD" tvg-logo="" group-title="ADULTS",XXX: AD - ATK HAIRY TV FHD
+http://678095340978827675.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/827675.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - BBC PIE TV FHD" tvg-logo="" group-title="ADULTS",XXX: AD - BBC PIE TV FHD
+http://678095340978827676.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/827676.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - LA NEW GIRL 2 FHD" tvg-logo="" group-title="ADULTS",XXX: AD - LA NEW GIRL 2 FHD
+http://678095340978827677.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/827677.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - TEENS LOVE TO SWALLOW FHD" tvg-logo="" group-title="ADULTS",XXX: AD - TEENS LOVE TO SWALLOW FHD
+http://678095340978827678.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/827678.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ERO X FHD" tvg-logo="" group-title="ADULTS",XXX: ERO X FHD
+http://678095340978829973.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/829973.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - HOT SD" tvg-logo="" group-title="ADULTS",XXX: AD - HOT SD
+http://678095340978830863.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/830863.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BANG U XXX FHD" tvg-logo="" group-title="ADULTS",XXX: BANG U XXX FHD
+http://678095340978830865.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/830865.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - DORCEL TV HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - DORCEL TV HEVC
+http://678095340978832533.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/832533.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTREM XXX SD" tvg-logo="" group-title="ADULTS",XXX: EXTREM XXX SD
+http://678095340978832535.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/832535.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PREMIUM PORN SD" tvg-logo="" group-title="ADULTS",XXX: PREMIUM PORN SD
+http://678095340978832536.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/832536.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: CENTO X CENTO SD" tvg-logo="" group-title="ADULTS",XXX: CENTO X CENTO SD
+http://678095340978833407.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/833407.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MEIDEN VAN HOLLAND HARD XXX SD" tvg-logo="" group-title="ADULTS",XXX: MEIDEN VAN HOLLAND HARD XXX SD
+http://678095340978833408.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/833408.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSION XXX FHD" tvg-logo="" group-title="ADULTS",XXX: PASSION XXX FHD
+http://678095340978833410.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/833410.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X BUNGA BUNGA XXX SD" tvg-logo="" group-title="ADULTS",XXX: X BUNGA BUNGA XXX SD
+http://678095340978836103.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/836103.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BALKAN EROTIC XXX HD" tvg-logo="" group-title="ADULTS",XXX: BALKAN EROTIC XXX HD
+http://678095340978836807.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/836807.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OLDTIMER XXX SD" tvg-logo="" group-title="ADULTS",XXX: OLDTIMER XXX SD
+http://678095340978836808.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/836808.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 4 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 4 XXX SD
+http://678095340978836809.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/836809.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 5 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 5 XXX SD
+http://678095340978836810.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/836810.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 6 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 6 XXX SD
+http://678095340978836811.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/836811.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 7 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 7 XXX SD
+http://678095340978836812.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/836812.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 8 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 8 XXX SD
+http://678095340978836813.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/836813.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TABOO XXX FHD" tvg-logo="" group-title="ADULTS",XXX: TABOO XXX FHD
+http://678095340978836814.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/836814.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY EUROPE HD" tvg-logo="" group-title="ADULTS",XXX: PLAYBOY EUROPE HD
+http://678095340978840029.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/840029.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X BIZARRE XXX SD" tvg-logo="" group-title="ADULTS",XXX: X BIZARRE XXX SD
+http://678095340978840030.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/840030.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X DESIRE XXX SD" tvg-logo="" group-title="ADULTS",XXX: X DESIRE XXX SD
+http://678095340978840601.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/840601.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - HOT CLUB 1 HD" tvg-logo="" group-title="ADULTS",XXX: AD - HOT CLUB 1 HD
+http://678095340978841333.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/841333.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEX ATION HD XXX SD" tvg-logo="" group-title="ADULTS",XXX: SEX ATION HD XXX SD
+http://678095340978842582.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/842582.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID TV EUROPE XXX SD" tvg-logo="" group-title="ADULTS",XXX: VIVID TV EUROPE XXX SD
+http://678095340978844392.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/844392.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - VIVID RED SD" tvg-logo="" group-title="ADULTS",XXX: AD - VIVID RED SD
+http://678095340978849204.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/849204.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EMANUELLE XXX FHD" tvg-logo="" group-title="ADULTS",XXX: EMANUELLE XXX FHD
+http://678095340978849205.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/849205.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV 2 HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV 2 HD
+http://678095340978852954.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/852954.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 2 SD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 2 SD
+http://678095340978857009.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/857009.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT XXX HD" tvg-logo="" group-title="ADULTS",XXX: SEXY HOT XXX HD
+http://678095340978857010.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/857010.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - HOT CLUB 3 SD" tvg-logo="" group-title="ADULTS",XXX: AD - HOT CLUB 3 SD
+http://678095340978863751.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/863751.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - MEIDEN VAN HOLLAND TV SD" tvg-logo="" group-title="ADULTS",XXX: AD - MEIDEN VAN HOLLAND TV SD
+http://678095340978864622.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/864622.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - PLAYBOY TV SD" tvg-logo="" group-title="ADULTS",XXX: AD - PLAYBOY TV SD
+http://678095340978866528.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/866528.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - REDLIGHT HD" tvg-logo="" group-title="ADULTS",XXX: AD - REDLIGHT HD
+http://678095340978868848.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/868848.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - HOT CLUB 4 SD" tvg-logo="" group-title="ADULTS",XXX: AD - HOT CLUB 4 SD
+http://678095340978871352.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/871352.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OH AH TV HD" tvg-logo="" group-title="ADULTS",XXX: OH AH TV HD
+http://678095340978871812.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/871812.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER TV XXX SD" tvg-logo="" group-title="ADULTS",XXX: HUSTLER TV XXX SD
+http://678095340978872665.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/872665.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV 3 HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV 3 HD
+http://678095340978874052.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/874052.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT TV XXX SD" tvg-logo="" group-title="ADULTS",XXX: HOT TV XXX SD
+http://678095340978875184.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/875184.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: NUART HD" tvg-logo="" group-title="ADULTS",XXX: NUART HD
+http://678095340978875561.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/875561.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACK TV XXX SD" tvg-logo="" group-title="ADULTS",XXX: BLACK TV XXX SD
+http://678095340978876514.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/876514.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: O LA LA SD" tvg-logo="" group-title="ADULTS",XXX: O LA LA SD
+http://678095340978880210.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/880210.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ALBA XXX 1 FHD" tvg-logo="" group-title="ADULTS",XXX: AD - ALBA XXX 1 FHD
+http://678095340978884902.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/884902.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ALBA XXX 2 FHD" tvg-logo="" group-title="ADULTS",XXX: AD - ALBA XXX 2 FHD
+http://678095340978884903.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/884903.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ALBA XXX 4 HD" tvg-logo="" group-title="ADULTS",XXX: AD - ALBA XXX 4 HD
+http://678095340978884904.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/884904.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ALBA XXX 5 HD" tvg-logo="" group-title="ADULTS",XXX: AD - ALBA XXX 5 HD
+http://678095340978884905.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/884905.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ALBA XXX 6 HD" tvg-logo="" group-title="ADULTS",XXX: AD - ALBA XXX 6 HD
+http://678095340978884906.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/884906.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - XY MIX HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - XY MIX HEVC
+http://678095340978884908.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/884908.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL FHD" tvg-logo="" group-title="ADULTS",XXX: DORCEL FHD
+http://678095340978884909.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/884909.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - FAKE FHD" tvg-logo="" group-title="ADULTS",XXX: AD - FAKE FHD
+http://678095340978885568.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/885568.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - XXL TV SD" tvg-logo="" group-title="ADULTS",XXX: AD - XXL TV SD
+http://678095340978886745.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/886745.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 3 FHD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 3 FHD
+http://678095340978887068.ofd0718.xyz:80/live/TXXD2BKGAE/uPvDG5Q@sB/887068.ts
 
 
 
