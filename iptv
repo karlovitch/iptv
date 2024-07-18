@@ -1,5 +1,58 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 SD
+http://869842410113339545.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/339545.ts
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-6-pt.png" group-title="Portugal",PT: SPORT TV 6 FHD
+http://869842410113416381.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/416381.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 SD
+http://869842410113623298.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/623298.ts
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA SD" tvg-logo="https://www.nba.com/assets/nbatv/logo/grid/nba-tv-horiz-color.png" group-title="Portugal",PT: SPORT TV NBA SD
+http://869842410113690408.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/690408.ts
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV + FHD" tvg-logo="https://tvepg.eu/img/portugal/reviews/sport_tv_plus/european_qualifiers_antevisao_jornadas_9_e_10.png" group-title="Portugal",PT: SPORT TV + FHD
+http://869842410113777315.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/777315.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9bf5af3772129242bc57be6863073ff7.png" group-title="Portugal",PT: SPORT TV 5 HD
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 SD" tvg-logo="http://live21.site/LOGOS/picons/SPORT_TV2.png" group-title="Portugal",PT: SPORT TV 2 SD
+http://869842410113798248.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/798248.ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 HD
+http://869842410113871946.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/871946.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 SD" tvg-logo="https://i1.wp.com/1.bp.blogspot.com/-sSoHu8yNg7Q/V_YOzJcaLKI/AAAAAAAABq0/bJ4dJhM-DvIh8dugy8d63VfChRbzei6-ACLcB/s1600/urrwxq1436898891.png" group-title="Portugal",PT: SPORT TV 4 SD
+http://869842410113874009.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/874009.ts
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT: SPORT TV 6 SD" tvg-logo="" group-title="Portugal",PT: SPORT TV 6 SD
+http://869842410113886650.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/886650.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + [LIVE DURING EVENTS ONLY] FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV + [LIVE DURING EVENTS ONLY] FHD
+http://869842410113887794.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/887794.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 [LIVE DURING EVENTS ONLY] SD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 [LIVE DURING EVENTS ONLY] SD
+http://869842410113887795.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/887795.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 5 FHD
+http://869842410113887796.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/887796.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 FHD
+http://869842410113888589.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/888589.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 HD
+http://869842410113888590.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/888590.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://live.phenixiptv.com:8080/images/8a71fc2c6ef35d9e1220103f85278a6a.png" group-title="SVIP SPORTS",PT: SPORT TV 2 FHD
+http://869842410113318977.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/318977.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="http://live.phenixiptv.com:8080/images/aa7c9dd5238e7a946b8031b7218c8279.png" group-title="SVIP SPORTS",PT: SPORT TV 3 SD
+http://869842410113318982.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/318982.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 SD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9bf5af3772129242bc57be6863073ff7.png" group-title="SVIP SPORTS",PT: SPORT TV 5 SD
+http://869842410113318994.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/318994.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT : SPORT TV 4 HD" tvg-logo="" group-title="SVIP SPORTS",PT : SPORT TV 4 HD
+http://869842410113389445.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/389445.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HEVC" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 1 HEVC
+http://869842410113422954.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/422954.ts
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV NBA FHD
+http://869842410113437114.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/437114.ts
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 6 FHD
+http://869842410113757268.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/757268.ts
+#EXTINF:-1 tvg-id="" tvg-name="SLO: SPORT TV 1 HD" tvg-logo="" group-title="SVIP SPORTS",SLO: SPORT TV 1 HD
+http://869842410113780533.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/780533.ts
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV+ SD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV+ SD
+http://869842410113785070.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/785070.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: KTV SPORT TV HD" tvg-logo="https://asiagrandiptv.us/logo/ktvsport.png" group-title="SVIP SPORTS",AR: KTV SPORT TV HD
+http://869842410113828472.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/828472.ts
+#EXTINF:-1 tvg-id="sporttv3.si" tvg-name="SI: SPORT TV 3 HD" tvg-logo="" group-title="SVIP SPORTS",SI: SPORT TV 3 HD
+http://869842410113829008.ofd0718.xyz:80/live/Laho101B/Atwawyedp121/829008.ts
+
+
 http://25df7cfz.megatv.fun/iptv/FPERNESDGBMSWF/19156/index.m3u8
 #EXTINF:0,ELEVEN SPORTS 1 UHD PT
 #EXTGRP:Спорт
