@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 HD" tvg-logo="https://i1.wp.com/1.bp.blogspot.com/-sSoHu8yNg7Q/V_YOzJcaLKI/AAAAAAAABq0/bJ4dJhM-DvIh8dugy8d63VfChRbzei6-ACLcB/s1600/urrwxq1436898891.png" group-title="Portugal",PT: SPORT TV 4 HD
+http://359696310822874009.ofkd0722.xyz:80/live/mi124038/hTm@RgHdMJBF/874009.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 4 FHD
+http://359696310822895185.ofkd0722.xyz:80/live/mi124038/hTm@RgHdMJBF/895185.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 SD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 4 SD
+http://359696310822849521.ofkd0722.xyz:80/live/mi124038/hTm@RgHdMJBF/849521.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FIBRA SD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 4 FIBRA SD
+http://359696310822868953.ofkd0722.xyz:80/live/mi124038/hTm@RgHdMJBF/868953.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 4 [VDF SCRITP] HD
+http://359696310822893540.ofkd0722.xyz:80/live/mi124038/hTm@RgHdMJBF/893540.ts
+
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 SD
 http://742541579386339545.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/339545.ts
 #EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-6-pt.png" group-title="Portugal",PT: SPORT TV 6 FHD
