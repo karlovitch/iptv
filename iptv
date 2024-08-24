@@ -1,239 +1,1028 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 HD" tvg-logo="https://i1.wp.com/1.bp.blogspot.com/-sSoHu8yNg7Q/V_YOzJcaLKI/AAAAAAAABq0/bJ4dJhM-DvIh8dugy8d63VfChRbzei6-ACLcB/s1600/urrwxq1436898891.png" group-title="Portugal",PT: SPORT TV 4 HD
-http://359696310822874009.ofkd0722.xyz:80/live/mi124038/hTm@RgHdMJBF/874009.ts
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 4 FHD
-http://359696310822895185.ofkd0722.xyz:80/live/mi124038/hTm@RgHdMJBF/895185.ts
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 SD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 4 SD
-http://359696310822849521.ofkd0722.xyz:80/live/mi124038/hTm@RgHdMJBF/849521.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FIBRA SD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 4 FIBRA SD
-http://359696310822868953.ofkd0722.xyz:80/live/mi124038/hTm@RgHdMJBF/868953.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 4 [VDF SCRITP] HD
-http://359696310822893540.ofkd0722.xyz:80/live/mi124038/hTm@RgHdMJBF/893540.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 4K HEVC" tvg-logo="http://xplatinmedia.com:8080/images/e0f25aea9e95eb82e2cdf7843587b103.png" group-title="PORTUGAL",PT: SPORT TV 1 4K HEVC
+http://blazetv.host:8080/live/16467456/62299878/854473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://xplatinmedia.com:8080/images/e0f25aea9e95eb82e2cdf7843587b103.png" group-title="PORTUGAL",PT: SPORT TV 1 FHD
+http://blazetv.host:8080/live/16467456/62299878/854474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="http://xplatinmedia.com:8080/images/e0f25aea9e95eb82e2cdf7843587b103.png" group-title="PORTUGAL",PT: SPORT TV 1 HD
+http://blazetv.host:8080/live/16467456/62299878/854475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/e0f25aea9e95eb82e2cdf7843587b103.png" group-title="PORTUGAL",PT: SPORT TV 1 HD HEVC
+http://blazetv.host:8080/live/16467456/62299878/854476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 SD" tvg-logo="http://xplatinmedia.com:8080/images/e0f25aea9e95eb82e2cdf7843587b103.png" group-title="PORTUGAL",PT: SPORT TV 1 SD
+http://blazetv.host:8080/live/16467456/62299878/854477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 UHD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/e0f25aea9e95eb82e2cdf7843587b103.png" group-title="PORTUGAL",PT: SPORT TV 1 UHD HEVC
+http://blazetv.host:8080/live/16467456/62299878/854478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://xplatinmedia.com:8080/images/ab2cf083d6fa69fe349aabf245402f74.png" group-title="PORTUGAL",PT: SPORT TV 2 FHD
+http://blazetv.host:8080/live/16467456/62299878/854479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/ab2cf083d6fa69fe349aabf245402f74.png" group-title="PORTUGAL",PT: SPORT TV 2 FHD HEVC
+http://blazetv.host:8080/live/16467456/62299878/854480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="http://xplatinmedia.com:8080/images/ab2cf083d6fa69fe349aabf245402f74.png" group-title="PORTUGAL",PT: SPORT TV 2 HD
+http://blazetv.host:8080/live/16467456/62299878/854481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/ab2cf083d6fa69fe349aabf245402f74.png" group-title="PORTUGAL",PT: SPORT TV 2 HD HEVC
+http://blazetv.host:8080/live/16467456/62299878/854482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 SD" tvg-logo="http://xplatinmedia.com:8080/images/ab2cf083d6fa69fe349aabf245402f74.png" group-title="PORTUGAL",PT: SPORT TV 2 SD
+http://blazetv.host:8080/live/16467456/62299878/854483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="http://xplatinmedia.com:8080/images/30e30adbca61414fc596acd1c02b43c7.png" group-title="PORTUGAL",PT: SPORT TV 3 FHD
+http://blazetv.host:8080/live/16467456/62299878/854484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/30e30adbca61414fc596acd1c02b43c7.png" group-title="PORTUGAL",PT: SPORT TV 3 FHD HEVC
+http://blazetv.host:8080/live/16467456/62299878/854485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="http://xplatinmedia.com:8080/images/30e30adbca61414fc596acd1c02b43c7.png" group-title="PORTUGAL",PT: SPORT TV 3 HD
+http://blazetv.host:8080/live/16467456/62299878/854486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/30e30adbca61414fc596acd1c02b43c7.png" group-title="PORTUGAL",PT: SPORT TV 3 HD HEVC
+http://blazetv.host:8080/live/16467456/62299878/854487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 SD" tvg-logo="http://xplatinmedia.com:8080/images/30e30adbca61414fc596acd1c02b43c7.png" group-title="PORTUGAL",PT: SPORT TV 3 SD
+http://blazetv.host:8080/live/16467456/62299878/854488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="http://xplatinmedia.com:8080/images/93fddebb05ffe7912c2429924e3823e1.png" group-title="PORTUGAL",PT: SPORT TV 4 FHD
+http://blazetv.host:8080/live/16467456/62299878/854489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="http://xplatinmedia.com:8080/images/93fddebb05ffe7912c2429924e3823e1.png" group-title="PORTUGAL",PT: SPORT TV 4 HD
+http://blazetv.host:8080/live/16467456/62299878/854490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/93fddebb05ffe7912c2429924e3823e1.png" group-title="PORTUGAL",PT: SPORT TV 4 HD HEVC
+http://blazetv.host:8080/live/16467456/62299878/854491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 SD" tvg-logo="http://xplatinmedia.com:8080/images/93fddebb05ffe7912c2429924e3823e1.png" group-title="PORTUGAL",PT: SPORT TV 4 SD
+http://blazetv.host:8080/live/16467456/62299878/854492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="http://xplatinmedia.com:8080/images/34fedc0466562b71d029d3e099e7e068.png" group-title="PORTUGAL",PT: SPORT TV 5 FHD
+http://blazetv.host:8080/live/16467456/62299878/854493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 Full HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/34fedc0466562b71d029d3e099e7e068.png" group-title="PORTUGAL",PT: SPORT TV 5 Full HD HEVC
+http://blazetv.host:8080/live/16467456/62299878/854494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://xplatinmedia.com:8080/images/34fedc0466562b71d029d3e099e7e068.png" group-title="PORTUGAL",PT: SPORT TV 5 HD
+http://blazetv.host:8080/live/16467456/62299878/854495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/34fedc0466562b71d029d3e099e7e068.png" group-title="PORTUGAL",PT: SPORT TV 5 HD HEVC
+http://blazetv.host:8080/live/16467456/62299878/854496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 SD" tvg-logo="http://xplatinmedia.com:8080/images/34fedc0466562b71d029d3e099e7e068.png" group-title="PORTUGAL",PT: SPORT TV 5 SD
+http://blazetv.host:8080/live/16467456/62299878/854497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="http://xplatinmedia.com:8080/images/78dccd7e314e76ab6f3039a76bf4a9af.png" group-title="PORTUGAL",PT: SPORT TV 6 FHD
+http://blazetv.host:8080/live/16467456/62299878/854498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="http://xplatinmedia.com:8080/images/e14b1adaad4d2b5db86354bdaf24228b.png" group-title="PORTUGAL",PT: SPORT TV NBA FHD
+http://blazetv.host:8080/live/16467456/62299878/854499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD" tvg-logo="http://xplatinmedia.com:8080/images/e14b1adaad4d2b5db86354bdaf24228b.png" group-title="PORTUGAL",PT: SPORT TV NBA HD
+http://blazetv.host:8080/live/16467456/62299878/854500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/e14b1adaad4d2b5db86354bdaf24228b.png" group-title="PORTUGAL",PT: SPORT TV NBA HD HEVC
+http://blazetv.host:8080/live/16467456/62299878/854501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA SD" tvg-logo="http://xplatinmedia.com:8080/images/e14b1adaad4d2b5db86354bdaf24228b.png" group-title="PORTUGAL",PT: SPORT TV NBA SD
+http://blazetv.host:8080/live/16467456/62299878/854502.m3u8
 
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 SD
-http://742541579386339545.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/339545.ts
-#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-6-pt.png" group-title="Portugal",PT: SPORT TV 6 FHD
-http://742541579386416381.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/416381.ts
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 SD
-http://742541579386623298.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/623298.ts
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9bf5af3772129242bc57be6863073ff7.png" group-title="Portugal",PT: SPORT TV 5 HD
-http://742541579386777317.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/777317.ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 SD" tvg-logo="http://live21.site/LOGOS/picons/SPORT_TV2.png" group-title="Portugal",PT: SPORT TV 2 SD
-http://742541579386798248.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/798248.ts
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 HD" tvg-logo="https://i1.wp.com/1.bp.blogspot.com/-sSoHu8yNg7Q/V_YOzJcaLKI/AAAAAAAABq0/bJ4dJhM-DvIh8dugy8d63VfChRbzei6-ACLcB/s1600/urrwxq1436898891.png" group-title="Portugal",PT: SPORT TV 4 HD
-http://742541579386874009.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/874009.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 [LIVE DURING EVENTS ONLY] SD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 [LIVE DURING EVENTS ONLY] SD
-http://742541579386890312.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/890312.ts
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 1 FHD
-http://742541579386890963.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/890963.ts
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 HD
-http://742541579386890965.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/890965.ts
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 1 HD
-http://742541579386893741.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/893741.ts
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT: SPORT TV 2 HEVC" tvg-logo="" group-title="Portugal",PT: SPORT TV 2 HEVC
-http://742541579386894669.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/894669.ts
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 2 HD
-http://742541579386895184.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/895184.ts
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 4 FHD
-http://742541579386895185.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/895185.ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 HD" tvg-logo="http://live.phenixiptv.com:8080/images/8a71fc2c6ef35d9e1220103f85278a6a.png" group-title="SVIP SPORTS",PT: SPORT TV 2 HD
-http://742541579386318977.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/318977.ts
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/aa7c9dd5238e7a946b8031b7218c8279.png" group-title="SVIP SPORTS",PT: SPORT TV 3 HEVC
-http://742541579386318982.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/318982.ts
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9bf5af3772129242bc57be6863073ff7.png" group-title="SVIP SPORTS",PT: SPORT TV 5 FHD
-http://742541579386318994.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/318994.ts
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT : SPORT TV 4 HEVC" tvg-logo="" group-title="SVIP SPORTS",PT : SPORT TV 4 HEVC
-http://742541579386389445.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/389445.ts
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 1 SD
-http://742541579386422954.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/422954.ts
-#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 6 FHD
-http://742541579386757268.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/757268.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 FIBRA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 6 FIBRA FHD
-http://742541579386852924.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/852924.ts
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT : SPORT TV 1 SD" tvg-logo="" group-title="SVIP SPORTS",PT : SPORT TV 1 SD
-http://742541579386855717.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/855717.ts
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT : SPORT TV 2 SD" tvg-logo="http://live21.site/LOGOS/picons/SPORT_TV2.png" group-title="SVIP SPORTS",PT : SPORT TV 2 SD
-http://742541579386860059.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/860059.ts
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT : SPORT TV 3 FHD" tvg-logo="" group-title="SVIP SPORTS",PT : SPORT TV 3 FHD
-http://742541579386860062.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/860062.ts
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT : SPORT TV 6 FHD" tvg-logo="" group-title="SVIP SPORTS",PT : SPORT TV 6 FHD
-http://742541579386860063.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/860063.ts
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="PT : SPORT TV 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9bf5af3772129242bc57be6863073ff7.png" group-title="SVIP SPORTS",PT : SPORT TV 5 HD
-http://742541579386862666.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/862666.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FIBRA SD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 4 FIBRA SD
-http://742541579386868953.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/868953.ts
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT : SPORT TV 1 HD" tvg-logo="" group-title="SVIP SPORTS",PT : SPORT TV 1 HD
-http://742541579386871669.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/871669.ts
-#EXTINF:-1 tvg-id="sporttv1.si" tvg-name="SI: SPORT TV 1 HD" tvg-logo="" group-title="SVIP SPORTS",SI: SPORT TV 1 HD
-http://742541579386876581.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/876581.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 1 [VDF SCRITP] HD
-http://742541579386877468.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/877468.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 2 [VDF SCRITP] HD
-http://742541579386877470.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/877470.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 3 [VDF SCRITP] HD
-http://742541579386877472.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/877472.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 6 [VDF SCRITP] HD
-http://742541579386877477.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/877477.ts
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT : SPORT TV 6 SD" tvg-logo="" group-title="SVIP SPORTS",PT : SPORT TV 6 SD
-http://742541579386879343.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/879343.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 5 [VDF SCRITP] HD
-http://742541579386881418.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/881418.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FIBRA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 3 FIBRA FHD
-http://742541579386882934.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/882934.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 SD âœ  SD" tvg-logo="http://estoxy.net:80/images/M7TRnjkuS7IwImyP0Qp9qC9v7pP7-pUjjExOideSOrNWnpAfXdCPphFKVggHtG6j.png" group-title="SVIP SPORTS",SPORT TV 2 SD âœ  SD
-http://742541579386885062.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/885062.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 SD âœ  SD" tvg-logo="http://estoxy.net:80/images/M7TRnjkuS7IwImyP0Qp9qC9v7pP7-pUjjExOideSOrP-ICuvWfne_0TNyICiCY3J.png" group-title="SVIP SPORTS",SPORT TV 1 SD âœ  SD
-http://742541579386885911.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/885911.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 SUPER SD âœ  SD" tvg-logo="http://estoxy.net:80/images/M7TRnjkuS7IwImyP0Qp9qC9v7pP7-pUjjExOideSOrP-ICuvWfne_0TNyICiCY3J.png" group-title="SVIP SPORTS",SPORT TV 1 SUPER SD âœ  SD
-http://742541579386885912.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/885912.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 âœ  HD" tvg-logo="http://estoxy.net:80/images/M7TRnjkuS7IwImyP0Qp9qC9v7pP7-pUjjExOideSOrNWnpAfXdCPphFKVggHtG6j.png" group-title="SVIP SPORTS",SPORT TV 2 âœ  HD
-http://742541579386885913.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/885913.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 SD âœ  SD" tvg-logo="http://estoxy.net:80/images/M7TRnjkuS7IwImyP0Qp9qC9v7pP7-pUjjExOideSOrNPUC61zbiJ9XPU7RESz3a1.png" group-title="SVIP SPORTS",SPORT TV 3 SD âœ  SD
-http://742541579386885914.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/885914.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6 HD âœ  HEVC" tvg-logo="http://estoxy.net:80/images/M7TRnjkuS7IwImyP0Qp9qC9v7pP7-pUjjExOideSOrNJQuudIoHlP2BGbK4Kf7kE.png" group-title="SVIP SPORTS",SPORT TV 6 HD âœ  HEVC
-http://742541579386885915.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/885915.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 HD âœ  FHD" tvg-logo="http://estoxy.net:80/images/M7TRnjkuS7IwImyP0Qp9qC9v7pP7-pUjjExOideSOrNWnpAfXdCPphFKVggHtG6j.png" group-title="SVIP SPORTS",SPORT TV 2 HD âœ  FHD
-http://742541579386886317.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/886317.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 HD âœ  FHD" tvg-logo="http://estoxy.net:80/images/M7TRnjkuS7IwImyP0Qp9qC9v7pP7-pUjjExOideSOrNPUC61zbiJ9XPU7RESz3a1.png" group-title="SVIP SPORTS",SPORT TV 3 HD âœ  FHD
-http://742541579386886318.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/886318.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 HD âœ  FHD" tvg-logo="http://estoxy.net:80/images/M7TRnjkuS7IwImyP0Qp9qC9v7pP7-pUjjExOideSOrOwkiiedKfmGGMzobWvjFLd.png" group-title="SVIP SPORTS",SPORT TV 4 HD âœ  FHD
-http://742541579386886319.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/886319.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 SD âœ  SD" tvg-logo="http://estoxy.net:80/images/M7TRnjkuS7IwImyP0Qp9qC9v7pP7-pUjjExOideSOrNMAOq51lWd4soMHsG0dfsL.png" group-title="SVIP SPORTS",SPORT TV 5 SD âœ  SD
-http://742541579386886320.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/886320.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 âœ  SD" tvg-logo="http://estoxy.net:80/images/M7TRnjkuS7IwImyP0Qp9qC9v7pP7-pUjjExOideSOrNMAOq51lWd4soMHsG0dfsL.png" group-title="SVIP SPORTS",SPORT TV 5 âœ  SD
-http://742541579386886321.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/886321.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 âœ  SD" tvg-logo="http://estoxy.net:80/images/M7TRnjkuS7IwImyP0Qp9qC9v7pP7-pUjjExOideSOrNPUC61zbiJ9XPU7RESz3a1.png" group-title="SVIP SPORTS",SPORT TV 3 âœ  SD
-http://742541579386887025.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/887025.ts
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT : SPORT TV 3 HEVC" tvg-logo="" group-title="SVIP SPORTS",PT : SPORT TV 3 HEVC
-http://742541579386890506.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/890506.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6 SD âœ  SD" tvg-logo="http://estoxy.net:80/images/M7TRnjkuS7IwImyP0Qp9qC9v7pP7-pUjjExOideSOrNJQuudIoHlP2BGbK4Kf7kE.png" group-title="SVIP SPORTS",SPORT TV 6 SD âœ  SD
-http://742541579386890514.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/890514.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 4 [VDF SCRITP] HD
-http://742541579386893540.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/893540.ts
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT : SPORT TV 4 FHD" tvg-logo="" group-title="SVIP SPORTS",PT : SPORT TV 4 FHD
-http://742541579386893848.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/893848.ts
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT : SPORT TV 2 HD" tvg-logo="" group-title="SVIP SPORTS",PT : SPORT TV 2 HD
-http://742541579386894476.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/894476.ts
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT : SPORT TV 2 HEVC" tvg-logo="" group-title="SVIP SPORTS",PT : SPORT TV 2 HEVC
-http://742541579386894477.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/894477.ts
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 1 HD
-http://742541579386894478.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/894478.ts
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT : SPORT TV 3 HD" tvg-logo="" group-title="SVIP SPORTS",PT : SPORT TV 3 HD
-http://742541579386894816.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/894816.ts
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT : SPORT TV 4 HD" tvg-logo="" group-title="SVIP SPORTS",PT : SPORT TV 4 HD
-http://742541579386894817.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/894817.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + FIBRA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV + FIBRA FHD
-http://742541579386894818.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/894818.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FIBRA HD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 1 FIBRA HD
-http://742541579386894819.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/894819.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FIBRA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 2 FIBRA FHD
-http://742541579386894820.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/894820.ts
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 3 SD
-http://742541579386894821.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/894821.ts
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV NBA FHD
-http://742541579386894823.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/894823.ts
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT : SPORT TV 1 FHD" tvg-logo="" group-title="SVIP SPORTS",PT : SPORT TV 1 FHD
-http://742541579386895583.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/895583.ts
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORT 4 HD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORT 4 HD
-http://742541579386895584.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/895584.ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 2 FHD
-http://742541579386895585.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/895585.ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 HEVC" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 2 HEVC
-http://742541579386895586.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/895586.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FIBRA FHD" tvg-logo="" group-title="SVIP SPORTS",PT: SPORT TV 5 FIBRA FHD
-http://742541579386895587.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/895587.ts
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6 HD
-http://742541579386744516.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/744516.ts#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 HD
-http://742541579386755739.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/755739.ts
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 HD
-http://742541579386798232.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/798232.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3á¶ á´´á´° FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3á¶ á´´á´° FHD
-http://742541579386802464.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/802464.ts
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 HD
-http://742541579386802465.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/802465.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6á¶ á´´á´° HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6á¶ á´´á´° HD
-http://742541579386817728.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/817728.ts
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 2 SD
-http://742541579386821804.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/821804.ts
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3 FHD
-http://742541579386889575.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/889575.ts
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 HEVC" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 HEVC
-http://742541579386890298.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/890298.ts
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 2 HD
-http://742541579386890956.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/890956.ts
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 FHD
-http://742541579386894660.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/894660.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD HEVEC HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 HD HEVEC HD
-http://742541579386894661.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/894661.ts
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3 HD
-http://742541579386894662.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/894662.ts
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jDWzt5jHJDcpQzKZvIWOYVDMX6t5A2SBO4PnVRXEkw7eQ.png" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 2 HEVC
-http://742541579386318939.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/318939.ts
-#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="PL: ELEVEN SPORTS 1 FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="SVIP SPORTS",PL: ELEVEN SPORTS 1 FHD
-http://742541579386331620.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/331620.ts
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 6 HD
-http://742541579386447325.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/447325.ts
-#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="PL: ELEVEN SPORTS 4 FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="SVIP SPORTS",PL: ELEVEN SPORTS 4 FHD
-http://742541579386501494.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/501494.ts
-#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="PL: ELEVEN SPORTS 3 FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="SVIP SPORTS",PL: ELEVEN SPORTS 3 FHD
-http://742541579386534881.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/534881.ts
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 HEVC" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 3 HEVC
-http://742541579386660566.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/660566.ts
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 HEVC" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 1 HEVC
-http://742541579386779952.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/779952.ts
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 5 HD
-http://742541579386784141.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/784141.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT : ELEVEN SPORTS 6á¶ á´´á´° HD" tvg-logo="" group-title="SVIP SPORTS",PT : ELEVEN SPORTS 6á¶ á´´á´° HD
-http://742541579386806570.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/806570.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 âœ  SD" tvg-logo="http://estoxy.net:80/images/M7TRnjkuS7IwImyP0Qp9qC9v7pP7-pUjjExOideSOrPpH0QtXd8k9xG_XkpUNyuQPEIKP7vWuhhqyySgg_I8eA.png" group-title="SVIP SPORTS",ELEVEN SPORTS 3 âœ  SD
-http://742541579386828678.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/828678.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 HD âœ  FHD" tvg-logo="http://estoxy.net:80/images/M7TRnjkuS7IwImyP0Qp9qC9v7pP7-pUjjExOideSOrNmlUAhRXcRGMdJ5n-jMK3cH6egQKS3hoxYB6tUtUvkzg.png" group-title="SVIP SPORTS",ELEVEN SPORTS 5 HD âœ  FHD
-http://742541579386828682.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/828682.ts
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT : ELEVEN SPORTS 4 HD" tvg-logo="" group-title="SVIP SPORTS",PT : ELEVEN SPORTS 4 HD
-http://742541579386833977.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/833977.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 HD âœ  FHD" tvg-logo="http://estoxy.net:80/images/M7TRnjkuS7IwImyP0Qp9qC9v7pP7-pUjjExOideSOrPpH0QtXd8k9xG_XkpUNyuQPEIKP7vWuhhqyySgg_I8eA.png" group-title="SVIP SPORTS",ELEVEN SPORTS 3 HD âœ  FHD
-http://742541579386834795.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/834795.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT : ELEVEN SPORTS 1 HD HEVEC HEVC" tvg-logo="" group-title="SVIP SPORTS",PT : ELEVEN SPORTS 1 HD HEVEC HEVC
-http://742541579386834980.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/834980.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT : ELEVEN SPORTS 3á¶ á´´á´° FHD" tvg-logo="" group-title="SVIP SPORTS",PT : ELEVEN SPORTS 3á¶ á´´á´° FHD
-http://742541579386836905.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/836905.ts
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT : ELEVEN SPORTS 1 HEVC" tvg-logo="" group-title="SVIP SPORTS",PT : ELEVEN SPORTS 1 HEVC
-http://742541579386855716.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/855716.ts
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 4 HD
-http://742541579386859415.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/859415.ts
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT : ELEVEN SPORTS 2 SD" tvg-logo="" group-title="SVIP SPORTS",PT : ELEVEN SPORTS 2 SD
-http://742541579386860057.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/860057.ts
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT : ELEVEN SPORTS 3 HEVC" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="SVIP SPORTS",PT : ELEVEN SPORTS 3 HEVC
-http://742541579386860779.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/860779.ts
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT : ELEVEN SPORTS 5 HD" tvg-logo="" group-title="SVIP SPORTS",PT : ELEVEN SPORTS 5 HD
-http://742541579386863362.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/863362.ts
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT : ELEVEN SPORTS 6 HD" tvg-logo="" group-title="SVIP SPORTS",PT : ELEVEN SPORTS 6 HD
-http://742541579386863364.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/863364.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 FHD" tvg-logo="http://xplatinmedia.com:8080/images/7750856a8947e33fa9b5cc931301b187.png" group-title="PORTUGAL",PT: Eleven Sports 1 FHD
+http://blazetv.host:8080/live/16467456/62299878/854224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 HD" tvg-logo="http://xplatinmedia.com:8080/images/7750856a8947e33fa9b5cc931301b187.png" group-title="PORTUGAL",PT: Eleven Sports 1 HD
+http://blazetv.host:8080/live/16467456/62299878/854225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/7750856a8947e33fa9b5cc931301b187.png" group-title="PORTUGAL",PT: Eleven Sports 1 HD HEVC
+http://blazetv.host:8080/live/16467456/62299878/854226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 SD" tvg-logo="http://xplatinmedia.com:8080/images/7750856a8947e33fa9b5cc931301b187.png" group-title="PORTUGAL",PT: Eleven Sports 1 SD
+http://blazetv.host:8080/live/16467456/62299878/854227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 UHD" tvg-logo="http://xplatinmedia.com:8080/images/7750856a8947e33fa9b5cc931301b187.png" group-title="PORTUGAL",PT: Eleven Sports 1 UHD
+http://blazetv.host:8080/live/16467456/62299878/854228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 FHD" tvg-logo="http://xplatinmedia.com:8080/images/415b628da4516b9f989adda206d87412.png" group-title="PORTUGAL",PT: Eleven Sports 2 FHD
+http://blazetv.host:8080/live/16467456/62299878/854229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 HD" tvg-logo="http://xplatinmedia.com:8080/images/415b628da4516b9f989adda206d87412.png" group-title="PORTUGAL",PT: Eleven Sports 2 HD
+http://blazetv.host:8080/live/16467456/62299878/854230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/415b628da4516b9f989adda206d87412.png" group-title="PORTUGAL",PT: Eleven Sports 2 HD HEVC
+http://blazetv.host:8080/live/16467456/62299878/854231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 SD" tvg-logo="http://xplatinmedia.com:8080/images/415b628da4516b9f989adda206d87412.png" group-title="PORTUGAL",PT: Eleven Sports 2 SD
+http://blazetv.host:8080/live/16467456/62299878/854232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 FHD" tvg-logo="http://xplatinmedia.com:8080/images/0c39fa06cdcd32b4b0ab78276a14314d.png" group-title="PORTUGAL",PT: Eleven Sports 3 FHD
+http://blazetv.host:8080/live/16467456/62299878/854233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 Full HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/0c39fa06cdcd32b4b0ab78276a14314d.png" group-title="PORTUGAL",PT: Eleven Sports 3 Full HD HEVC
+http://blazetv.host:8080/live/16467456/62299878/854234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 HD" tvg-logo="http://xplatinmedia.com:8080/images/0c39fa06cdcd32b4b0ab78276a14314d.png" group-title="PORTUGAL",PT: Eleven Sports 3 HD
+http://blazetv.host:8080/live/16467456/62299878/854235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 SD" tvg-logo="http://xplatinmedia.com:8080/images/0c39fa06cdcd32b4b0ab78276a14314d.png" group-title="PORTUGAL",PT: Eleven Sports 3 SD
+http://blazetv.host:8080/live/16467456/62299878/854236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 FHD" tvg-logo="http://xplatinmedia.com:8080/images/e1a04cea7f0a774e593e5cbb78541ef5.png" group-title="PORTUGAL",PT: Eleven Sports 4 FHD
+http://blazetv.host:8080/live/16467456/62299878/854237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 HD" tvg-logo="http://xplatinmedia.com:8080/images/e1a04cea7f0a774e593e5cbb78541ef5.png" group-title="PORTUGAL",PT: Eleven Sports 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/e1a04cea7f0a774e593e5cbb78541ef5.png" group-title="PORTUGAL",PT: Eleven Sports 4 HD HEVC
+http://blazetv.host:8080/live/16467456/62299878/854239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 SD" tvg-logo="http://xplatinmedia.com:8080/images/e1a04cea7f0a774e593e5cbb78541ef5.png" group-title="PORTUGAL",PT: Eleven Sports 4 SD
+http://blazetv.host:8080/live/16467456/62299878/854240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5 FHD" tvg-logo="http://xplatinmedia.com:8080/images/c89357501636fd4510848758fba5ebe7.png" group-title="PORTUGAL",PT: Eleven Sports 5 FHD
+http://blazetv.host:8080/live/16467456/62299878/854241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5 HD" tvg-logo="http://xplatinmedia.com:8080/images/c89357501636fd4510848758fba5ebe7.png" group-title="PORTUGAL",PT: Eleven Sports 5 HD
+http://blazetv.host:8080/live/16467456/62299878/854242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5 SD" tvg-logo="http://xplatinmedia.com:8080/images/c89357501636fd4510848758fba5ebe7.png" group-title="PORTUGAL",PT: Eleven Sports 5 SD
+http://blazetv.host:8080/live/16467456/62299878/854243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 6 FHD" tvg-logo="http://xplatinmedia.com:8080/images/8363e7b8bad22e3f9a302c916f87a9fe.png" group-title="PORTUGAL",PT: Eleven Sports 6 FHD
+http://blazetv.host:8080/live/16467456/62299878/854244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 6 HD" tvg-logo="http://xplatinmedia.com:8080/images/8363e7b8bad22e3f9a302c916f87a9fe.png" group-title="PORTUGAL",PT: Eleven Sports 6 HD
+http://blazetv.host:8080/live/16467456/62299878/854245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 6 SD" tvg-logo="http://xplatinmedia.com:8080/images/8363e7b8bad22e3f9a302c916f87a9fe.png" group-title="PORTUGAL",PT: Eleven Sports 6 SD
+http://blazetv.host:8080/live/16467456/62299878/854246.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 4K HEVC" tvg-logo="http://xplatinmedia.com:8080/images/7c7d1c94989343ee450b46f63131356a.png" group-title="PORTUGAL",PT: BTV 4K HEVC
+http://blazetv.host:8080/live/16467456/62299878/854159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV FHD" tvg-logo="http://xplatinmedia.com:8080/images/7c7d1c94989343ee450b46f63131356a.png" group-title="PORTUGAL",PT: BTV FHD
+http://blazetv.host:8080/live/16467456/62299878/854160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV HD" tvg-logo="http://xplatinmedia.com:8080/images/7c7d1c94989343ee450b46f63131356a.png" group-title="PORTUGAL",PT: BTV HD
+http://blazetv.host:8080/live/16467456/62299878/854161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/7c7d1c94989343ee450b46f63131356a.png" group-title="PORTUGAL",PT: BTV HD HEVC
+http://blazetv.host:8080/live/16467456/62299878/854162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV SD" tvg-logo="http://xplatinmedia.com:8080/images/7c7d1c94989343ee450b46f63131356a.png" group-title="PORTUGAL",PT: BTV SD
+http://blazetv.host:8080/live/16467456/62299878/854163.m3u8
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="UK SPORTS",UK: SKY SPORTS F1
+http://blazetv.host:8080/live/16467456/62299878/755409.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sports HD" tvg-logo="http://xplatinmedia.com:8080/images/c309fb7df2a608b6b36976d35bd14920.png" group-title="LATIN AR-BR",BR: Band Sports HD
+http://blazetv.host:8080/live/16467456/62299878/858743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sports HEVC" tvg-logo="http://xplatinmedia.com:8080/images/c309fb7df2a608b6b36976d35bd14920.png" group-title="LATIN AR-BR",BR: Band Sports HEVC
+http://blazetv.host:8080/live/16467456/62299878/858744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sports SD" tvg-logo="http://xplatinmedia.com:8080/images/c309fb7df2a608b6b36976d35bd14920.png" group-title="LATIN AR-BR",BR: Band Sports SD
+http://blazetv.host:8080/live/16467456/62299878/858745.m3u8http://blazetv.host:8080/live/16467456/62299878/854238.m3u8
 
 
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 HEVC" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="Portugal",PT: ELEVEN SPORTS 3 HEVC
-http://742541579386746355.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/746355.ts
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere info ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere info ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 1 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 1 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 2 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 2 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 3 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 3 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 4 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 4 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 5 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 5 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 6 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 6 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 7 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 7 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 8 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 8 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 9 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 9 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 10 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 10 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 11 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 11 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 12 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 12 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 13 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 13 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 14 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 14 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 15 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 15 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 16 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 16 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 17 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 17 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 18 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 18 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 19 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 19 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Adult Time ᴴᴰ" tvg-logo="https://iili.io/HgKmRcB.md.png" group-title="ADULT EXCLUSIVE",AEx: Adult Time ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Anal Only ᴴᴰ" tvg-logo="https://iili.io/Hg0m6QI.md.png" group-title="ADULT EXCLUSIVE",AEx: Anal Only ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: babesTV ᴴᴰ" tvg-logo="https://iili.io/HULkydP.md.png" group-title="ADULT EXCLUSIVE",AEx: babesTV ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: BANG ᴴᴰ" tvg-logo="https://iili.io/HU4ipe9.md.png" group-title="ADULT EXCLUSIVE",AEx: BANG ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: BangBros 1 ᴴᴰ" tvg-logo="https://iili.io/HUrb2ne.md.png" group-title="ADULT EXCLUSIVE",AEx: BangBros 1 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: BangBros 2 ᴴᴰ" tvg-logo="https://iili.io/HUrb2ne.md.png" group-title="ADULT EXCLUSIVE",AEx: BangBros 2 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Blacked! ᴴᴰ" tvg-logo="https://iili.io/Hg3vdue.md.png" group-title="ADULT EXCLUSIVE",AEx: Blacked! ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: BlackedGirls ᴴᴰ" tvg-logo="https://iili.io/HgNxsGj.md.png" group-title="ADULT EXCLUSIVE",AEx: BlackedGirls ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: BlackedRaw! ᴴᴰ" tvg-logo="https://iili.io/Hg3vdue.md.png" group-title="ADULT EXCLUSIVE",AEx: BlackedRaw! ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: BrattySis ᴴᴰ" tvg-logo="https://iili.io/HgC8N2a.md.png" group-title="ADULT EXCLUSIVE",AEx: BrattySis ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Brazzers 1 ᴴᴰ" tvg-logo="https://iili.io/HUrPXWv.md.png" group-title="ADULT EXCLUSIVE",AEx: Brazzers 1 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Brazzers 2 ᴴᴰ" tvg-logo="https://iili.io/HUrPXWv.md.png" group-title="ADULT EXCLUSIVE",AEx: Brazzers 2 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Brazzers 3 ᴴᴰ" tvg-logo="https://iili.io/HUrPXWv.md.png" group-title="ADULT EXCLUSIVE",AEx: Brazzers 3 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Deeper! ᴴᴰ" tvg-logo="https://iili.io/Hg3MjxS.md.png" group-title="ADULT EXCLUSIVE",AEx: Deeper! ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: DP 1 ᴴᴰ" tvg-logo="https://iili.io/HUrgewv.md.png" group-title="ADULT EXCLUSIVE",AEx: DP 1 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: DP 2 ᴴᴰ" tvg-logo="https://iili.io/HUrgewv.md.png" group-title="ADULT EXCLUSIVE",AEx: DP 2 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: EvilAngel ᴴᴰ" tvg-logo="https://iili.io/HU4skhu.md.png" group-title="ADULT EXCLUSIVE",AEx: EvilAngel ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Fake Hostel ᴴᴰ" tvg-logo="https://iili.io/Hg1I1oP.md.png" group-title="ADULT EXCLUSIVE",AEx: Fake Hostel ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Fake Hub ᴴᴰ" tvg-logo="https://iili.io/Hg1IKcG.md.png" group-title="ADULT EXCLUSIVE",AEx: Fake Hub ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Fake Taxi ᴴᴰ" tvg-logo="https://iili.io/Hg1IAKu.md.png" group-title="ADULT EXCLUSIVE",AEx: Fake Taxi ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: JulesJordan ᴴᴰ" tvg-logo="https://iili.io/HgNxUy7.md.png" group-title="ADULT EXCLUSIVE",AEx: JulesJordan ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Lesbians ᴴᴰ" tvg-logo="https://iili.io/HgE3ACv.md.png" group-title="ADULT EXCLUSIVE",AEx: Lesbians ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Massaged ᴴᴰ" tvg-logo="https://iili.io/HgNn6H7.md.png" group-title="ADULT EXCLUSIVE",AEx: Massaged ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Mofos 1 ᴴᴰ" tvg-logo="https://iili.io/HUrb6Ux.md.png" group-title="ADULT EXCLUSIVE",AEx: Mofos 1 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Mofos 2 ᴴᴰ" tvg-logo="https://iili.io/HUrb6Ux.md.png" group-title="ADULT EXCLUSIVE",AEx: Mofos 2 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Mr.Lucky Pov ᴴᴰ" tvg-logo="https://iili.io/HgNn6H7.md.png" group-title="ADULT EXCLUSIVE",AEx: Mr.Lucky Pov ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: MYLF ᴴᴰ" tvg-logo="https://iili.io/HgCNs6b.md.png" group-title="ADULT EXCLUSIVE",AEx: MYLF ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Nympho ᴴᴰ" tvg-logo="https://iili.io/HgNomLG.md.png" group-title="ADULT EXCLUSIVE",AEx: Nympho ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: PervMom ᴴᴰ" tvg-logo="https://iili.io/HgNxBLb.md.png" group-title="ADULT EXCLUSIVE",AEx: PervMom ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Premium ᴴᴰ" tvg-logo="https://iili.io/HgE0sBj.md.png" group-title="ADULT EXCLUSIVE",AEx: Premium ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: PureTaboo ᴴᴰ" tvg-logo="https://iili.io/HU4ZcmP.md.png" group-title="ADULT EXCLUSIVE",AEx: PureTaboo ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: RealityKings 1 ᴴᴰ" tvg-logo="https://iili.io/HU4F5X4.md.png" group-title="ADULT EXCLUSIVE",AEx: RealityKings 1 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: RealityKings 2 ᴴᴰ" tvg-logo="https://iili.io/HU4F5X4.md.png" group-title="ADULT EXCLUSIVE",AEx: RealityKings 2 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: SinfulRaw ᴴᴰ" tvg-logo="https://iili.io/HULLbEX.md.png" group-title="ADULT EXCLUSIVE",AEx: SinfulRaw ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: SisLovesMe ᴴᴰ" tvg-logo="https://iili.io/Hg0CNFR.md.png" group-title="ADULT EXCLUSIVE",AEx: SisLovesMe ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Slayed ᴴᴰ" tvg-logo="https://iili.io/HUQPqyQ.md.png" group-title="ADULT EXCLUSIVE",AEx: Slayed ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: SpankMonster ᴴᴰ" tvg-logo="https://iili.io/HU4ipe9.md.png" group-title="ADULT EXCLUSIVE",AEx: SpankMonster ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Swallowed Blowjob ᴴᴰ" tvg-logo="https://iili.io/Hg0mMkx.md.png" group-title="ADULT EXCLUSIVE",AEx: Swallowed Blowjob ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: TeamSkeet ᴴᴰ" tvg-logo="https://iili.io/Hg0Buqv.md.png" group-title="ADULT EXCLUSIVE",AEx: TeamSkeet ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: TrueAnal ᴴᴰ" tvg-logo="https://iili.io/Hg0Icp2.md.png" group-title="ADULT EXCLUSIVE",AEx: TrueAnal ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Tushy ᴴᴰ" tvg-logo="https://iili.io/HUQiAW7.md.png" group-title="ADULT EXCLUSIVE",AEx: Tushy ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Vixen 1 ᴴᴰ" tvg-logo="https://iili.io/HUQrnjt.md.png" group-title="ADULT EXCLUSIVE",AEx: Vixen 1 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Vixen 2 ᴴᴰ" tvg-logo="https://iili.io/HUQrnjt.md.png" group-title="ADULT EXCLUSIVE",AEx: Vixen 2 ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Wicked ᴴᴰ" tvg-logo="https://iili.io/HU4sy2p.md.png" group-title="ADULT EXCLUSIVE",AEx: Wicked ᴴᴰ
+http://blazetv.host:8080/live/16467456/62299878/823147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: ANAL" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: ANAL
+http://blazetv.host:8080/live/16467456/62299878/769858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: BIG DICK" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: BIG DICK
+http://blazetv.host:8080/live/16467456/62299878/769859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: BRAZZER TV" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: BRAZZER TV
+http://blazetv.host:8080/live/16467456/62299878/769860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: CASTING COUCH" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: CASTING COUCH
+http://blazetv.host:8080/live/16467456/62299878/769861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: CENTOXCENTO TV" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: CENTOXCENTO TV
+http://blazetv.host:8080/live/16467456/62299878/769862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: COMPILATION" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: COMPILATION
+http://blazetv.host:8080/live/16467456/62299878/769863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: CUCKOLD" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: CUCKOLD
+http://blazetv.host:8080/live/16467456/62299878/769864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: DORCEL TV" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: DORCEL TV
+http://blazetv.host:8080/live/16467456/62299878/769865.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: EMANUELLE XXX" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: EMANUELLE XXX
+http://blazetv.host:8080/live/16467456/62299878/769866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: EROX" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: EROX
+http://blazetv.host:8080/live/16467456/62299878/769867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: FAP TV 2" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: FAP TV 2
+http://blazetv.host:8080/live/16467456/62299878/769868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: FAP TV 3" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: FAP TV 3
+http://blazetv.host:8080/live/16467456/62299878/769869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: FAP TV 4" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: FAP TV 4
+http://blazetv.host:8080/live/16467456/62299878/769870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: FAP TV Compilation" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: FAP TV Compilation
+http://blazetv.host:8080/live/16467456/62299878/769871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: FAP TV TEENS" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: FAP TV TEENS
+http://blazetv.host:8080/live/16467456/62299878/769872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: GANGBANG" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: GANGBANG
+http://blazetv.host:8080/live/16467456/62299878/769873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: HOT" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: HOT
+http://blazetv.host:8080/live/16467456/62299878/769874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: HOT PLEASURE" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: HOT PLEASURE
+http://blazetv.host:8080/live/16467456/62299878/769875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: HUSTLER TV" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: HUSTLER TV
+http://blazetv.host:8080/live/16467456/62299878/769876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: LATINA" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: LATINA
+http://blazetv.host:8080/live/16467456/62299878/769877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: MILF TV" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: MILF TV
+http://blazetv.host:8080/live/16467456/62299878/769878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: MONEY TALK" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: MONEY TALK
+http://blazetv.host:8080/live/16467456/62299878/769879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: NET XXX" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: NET XXX
+http://blazetv.host:8080/live/16467456/62299878/769880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: PENTHOUSE" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: PENTHOUSE
+http://blazetv.host:8080/live/16467456/62299878/769881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: POV" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: POV
+http://blazetv.host:8080/live/16467456/62299878/769883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: PRIVATE TV" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: PRIVATE TV
+http://blazetv.host:8080/live/16467456/62299878/769884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: PRIVE TV" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: PRIVE TV
+http://blazetv.host:8080/live/16467456/62299878/769885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: RED XXX" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: RED XXX
+http://blazetv.host:8080/live/16467456/62299878/769886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: REDLIGHT" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: REDLIGHT
+http://blazetv.host:8080/live/16467456/62299878/769887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: ROUGH" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: ROUGH
+http://blazetv.host:8080/live/16467456/62299878/769888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: SCORELANT 1" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: SCORELANT 1
+http://blazetv.host:8080/live/16467456/62299878/769889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: SCORELANT 2" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: SCORELANT 2
+http://blazetv.host:8080/live/16467456/62299878/769890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: SCORELANT 4" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: SCORELANT 4
+http://blazetv.host:8080/live/16467456/62299878/769891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: SCORELANT 5" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: SCORELANT 5
+http://blazetv.host:8080/live/16467456/62299878/769892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: SECRET CIRCLE TV" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: SECRET CIRCLE TV
+http://blazetv.host:8080/live/16467456/62299878/769894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: SEXTREME" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: SEXTREME
+http://blazetv.host:8080/live/16467456/62299878/769895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: SHOPLIFTER" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: SHOPLIFTER
+http://blazetv.host:8080/live/16467456/62299878/769897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: SUPERONE" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: SUPERONE
+http://blazetv.host:8080/live/16467456/62299878/769898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: TABOO XXX" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: TABOO XXX
+http://blazetv.host:8080/live/16467456/62299878/769899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VENUS" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: VENUS
+http://blazetv.host:8080/live/16467456/62299878/769901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: ALICE REDLIPS" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: ALICE REDLIPS
+http://blazetv.host:8080/live/16467456/62299878/769902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: ELLAKAI" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: ELLAKAI
+http://blazetv.host:8080/live/16467456/62299878/769903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: FIAMURRPH" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: FIAMURRPH
+http://blazetv.host:8080/live/16467456/62299878/769904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: KRISS KISS" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: KRISS KISS
+http://blazetv.host:8080/live/16467456/62299878/769905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: LEAH MEOW" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: LEAH MEOW
+http://blazetv.host:8080/live/16467456/62299878/769906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: LITTLEREISLIN" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: LITTLEREISLIN
+http://blazetv.host:8080/live/16467456/62299878/769907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: LUXURYGIRL" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: LUXURYGIRL
+http://blazetv.host:8080/live/16467456/62299878/769908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: MIHANIKA69" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: MIHANIKA69
+http://blazetv.host:8080/live/16467456/62299878/769909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: SECRETCRUSH" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: SECRETCRUSH
+http://blazetv.host:8080/live/16467456/62299878/769910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: SHAIDEN ROUGE" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: SHAIDEN ROUGE
+http://blazetv.host:8080/live/16467456/62299878/769911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: SWEET BUNNY" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: SWEET BUNNY
+http://blazetv.host:8080/live/16467456/62299878/769912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: TESSA WINTERS" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: TESSA WINTERS
+http://blazetv.host:8080/live/16467456/62299878/769913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: TINNA ANGEL" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: TINNA ANGEL
+http://blazetv.host:8080/live/16467456/62299878/769914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VIVID RED" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: VIVID RED
+http://blazetv.host:8080/live/16467456/62299878/769915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: XXL" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: XXL
+http://blazetv.host:8080/live/16467456/62299878/769916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: XY MAX XXX" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: XY MAX XXX
+http://blazetv.host:8080/live/16467456/62299878/769917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: XY MIX" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: XY MIX
+http://blazetv.host:8080/live/16467456/62299878/769918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: ANAL" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: ANAL
+http://blazetv.host:8080/live/16467456/62299878/769919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: ASIAN" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: ASIAN
+http://blazetv.host:8080/live/16467456/62299878/769920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: BIG COCK" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: BIG COCK
+http://blazetv.host:8080/live/16467456/62299878/769921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: BIG TITS" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: BIG TITS
+http://blazetv.host:8080/live/16467456/62299878/769922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: BISEXUEL" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: BISEXUEL
+http://blazetv.host:8080/live/16467456/62299878/769923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: BLACK" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: BLACK
+http://blazetv.host:8080/live/16467456/62299878/769924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: BLOND" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: BLOND
+http://blazetv.host:8080/live/16467456/62299878/769925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: BLOWJOB" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: BLOWJOB
+http://blazetv.host:8080/live/16467456/62299878/769926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: CARTOON PORN" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: CARTOON PORN
+http://blazetv.host:8080/live/16467456/62299878/769927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: CREAMPIE" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: CREAMPIE
+http://blazetv.host:8080/live/16467456/62299878/769928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: CUCKOLD" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: CUCKOLD
+http://blazetv.host:8080/live/16467456/62299878/769929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: DOUBLE PENETRATION" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: DOUBLE PENETRATION
+http://blazetv.host:8080/live/16467456/62299878/769930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: FETISH" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: FETISH
+http://blazetv.host:8080/live/16467456/62299878/769931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: FISTING" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: FISTING
+http://blazetv.host:8080/live/16467456/62299878/769932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: HARDCORE" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: HARDCORE
+http://blazetv.host:8080/live/16467456/62299878/769933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: LESBIAN" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: LESBIAN
+http://blazetv.host:8080/live/16467456/62299878/769934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: MASTURBATION" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: MASTURBATION
+http://blazetv.host:8080/live/16467456/62299878/769935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: MILF" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: MILF
+http://blazetv.host:8080/live/16467456/62299878/769936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: ORGASM" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: ORGASM
+http://blazetv.host:8080/live/16467456/62299878/769937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: TEENIE" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: TEENIE
+http://blazetv.host:8080/live/16467456/62299878/769938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: 8TH STREET" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: 8TH STREET
+http://blazetv.host:8080/live/16467456/62299878/769940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: ASIAN BONDAGE" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: ASIAN BONDAGE
+http://blazetv.host:8080/live/16467456/62299878/769942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: BLACK GFS" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: BLACK GFS
+http://blazetv.host:8080/live/16467456/62299878/769944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: BLACK NEED" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: BLACK NEED
+http://blazetv.host:8080/live/16467456/62299878/769945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: BLACKED" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: BLACKED
+http://blazetv.host:8080/live/16467456/62299878/769946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: BLACKED RAW" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: BLACKED RAW
+http://blazetv.host:8080/live/16467456/62299878/769947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: BRATTY SIS" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: BRATTY SIS
+http://blazetv.host:8080/live/16467456/62299878/769948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: BRAZZERS" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: BRAZZERS
+http://blazetv.host:8080/live/16467456/62299878/769949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: CARNE DEL MERCADO" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: CARNE DEL MERCADO
+http://blazetv.host:8080/live/16467456/62299878/769950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: CHINA XXX" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: CHINA XXX
+http://blazetv.host:8080/live/16467456/62299878/769951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: HARD BRAZIL" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: HARD BRAZIL
+http://blazetv.host:8080/live/16467456/62299878/769956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: JAYS POV" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: JAYS POV
+http://blazetv.host:8080/live/16467456/62299878/769957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: LAS FOLLADORAS" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: LAS FOLLADORAS
+http://blazetv.host:8080/live/16467456/62299878/769958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: MAMACITAZ" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: MAMACITAZ
+http://blazetv.host:8080/live/16467456/62299878/769963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: MODEL MEDIA ASIA" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: MODEL MEDIA ASIA
+http://blazetv.host:8080/live/16467456/62299878/769965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: MOFOS" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: MOFOS
+http://blazetv.host:8080/live/16467456/62299878/769966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: MY DRITY MAID" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: MY DRITY MAID
+http://blazetv.host:8080/live/16467456/62299878/769967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: MY PERVY FAMILY" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: MY PERVY FAMILY
+http://blazetv.host:8080/live/16467456/62299878/769968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: NF BUSTY" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: NF BUSTY
+http://blazetv.host:8080/live/16467456/62299878/769969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: OPERACION LIMPIEZA" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: OPERACION LIMPIEZA
+http://blazetv.host:8080/live/16467456/62299878/769970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: PROBERTY" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: PROBERTY
+http://blazetv.host:8080/live/16467456/62299878/769973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: SIMPLY ASIAN" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: SIMPLY ASIAN
+http://blazetv.host:8080/live/16467456/62299878/769974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: STEP SIBLINGS CAUGHT" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: STEP SIBLINGS CAUGHT
+http://blazetv.host:8080/live/16467456/62299878/769975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: VUBADO BLACK" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: VUBADO BLACK
+http://blazetv.host:8080/live/16467456/62299878/769976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: WORLD OF ASIAN" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: WORLD OF ASIAN
+http://blazetv.host:8080/live/16467456/62299878/769977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Gay: ATLAS GRAN (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Gay: ATLAS GRAN (GAY)
+http://blazetv.host:8080/live/16467456/62299878/769978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Gay: CALVIN BANKS (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Gay: CALVIN BANKS (GAY)
+http://blazetv.host:8080/live/16467456/62299878/769979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Gay: CASEY KISSES (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Gay: CASEY KISSES (GAY)
+http://blazetv.host:8080/live/16467456/62299878/769980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Gay: CHANNEL SANTINI (TRANS)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Gay: CHANNEL SANTINI (TRANS)
+http://blazetv.host:8080/live/16467456/62299878/769981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Gay: DANTE JOLLE (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Gay: DANTE JOLLE (GAY)
+http://blazetv.host:8080/live/16467456/62299878/769982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Gay: FLAVAWORKS (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Gay: FLAVAWORKS (GAY)
+http://blazetv.host:8080/live/16467456/62299878/769983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Gay: MEN (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Gay: MEN (GAY)
+http://blazetv.host:8080/live/16467456/62299878/769984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Gay: NEXT DOOR RAW (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Gay: NEXT DOOR RAW (GAY)
+http://blazetv.host:8080/live/16467456/62299878/769985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Gay: TREASURE ISLAND MEDIA (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Gay: TREASURE ISLAND MEDIA (GAY)
+http://blazetv.host:8080/live/16467456/62299878/769986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: CHRIS DIAMOND" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: CHRIS DIAMOND
+http://blazetv.host:8080/live/16467456/62299878/769988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: FOXXY (TRANS)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: FOXXY (TRANS)
+http://blazetv.host:8080/live/16467456/62299878/769990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: KENDRA LUST" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: KENDRA LUST
+http://blazetv.host:8080/live/16467456/62299878/769991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: KENDRA SPADE" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: KENDRA SPADE
+http://blazetv.host:8080/live/16467456/62299878/769992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: KENDRA SUNDERLAND" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: KENDRA SUNDERLAND
+http://blazetv.host:8080/live/16467456/62299878/769993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: KHLOE KAY (TRANS)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: KHLOE KAY (TRANS)
+http://blazetv.host:8080/live/16467456/62299878/769995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: KYLER MOSS (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: KYLER MOSS (GAY)
+http://blazetv.host:8080/live/16467456/62299878/769996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: MAX KONNOR (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: MAX KONNOR (GAY)
+http://blazetv.host:8080/live/16467456/62299878/769997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: MIA KHALIFA" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: MIA KHALIFA
+http://blazetv.host:8080/live/16467456/62299878/769998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: NATALIE MARS (TRANS)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: NATALIE MARS (TRANS)
+http://blazetv.host:8080/live/16467456/62299878/769999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: RAE LIL BLACK" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: RAE LIL BLACK
+http://blazetv.host:8080/live/16467456/62299878/770000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: RICKY JOHSON" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: RICKY JOHSON
+http://blazetv.host:8080/live/16467456/62299878/770001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: RICKY LARKIN (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: RICKY LARKIN (GAY)
+http://blazetv.host:8080/live/16467456/62299878/770002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: ROCCO STELLE (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: ROCCO STELLE (GAY)
+http://blazetv.host:8080/live/16467456/62299878/770003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: SHARON LEE" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: SHARON LEE
+http://blazetv.host:8080/live/16467456/62299878/770004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: TONY PROFANE" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: TONY PROFANE
+http://blazetv.host:8080/live/16467456/62299878/770005.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 4K HEVC" tvg-logo="http://xplatinmedia.com:8080/images/e0f25aea9e95eb82e2cdf7843587b103.png" group-title="PORTUGAL",PT: SPORT TV 1 4K HEVC
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://xplatinmedia.com:8080/images/e0f25aea9e95eb82e2cdf7843587b103.png" group-title="PORTUGAL",PT: SPORT TV 1 FHD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="http://xplatinmedia.com:8080/images/e0f25aea9e95eb82e2cdf7843587b103.png" group-title="PORTUGAL",PT: SPORT TV 1 HD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/e0f25aea9e95eb82e2cdf7843587b103.png" group-title="PORTUGAL",PT: SPORT TV 1 HD HEVC
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 SD" tvg-logo="http://xplatinmedia.com:8080/images/e0f25aea9e95eb82e2cdf7843587b103.png" group-title="PORTUGAL",PT: SPORT TV 1 SD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 UHD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/e0f25aea9e95eb82e2cdf7843587b103.png" group-title="PORTUGAL",PT: SPORT TV 1 UHD HEVC
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://xplatinmedia.com:8080/images/ab2cf083d6fa69fe349aabf245402f74.png" group-title="PORTUGAL",PT: SPORT TV 2 FHD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/ab2cf083d6fa69fe349aabf245402f74.png" group-title="PORTUGAL",PT: SPORT TV 2 FHD HEVC
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="http://xplatinmedia.com:8080/images/ab2cf083d6fa69fe349aabf245402f74.png" group-title="PORTUGAL",PT: SPORT TV 2 HD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/ab2cf083d6fa69fe349aabf245402f74.png" group-title="PORTUGAL",PT: SPORT TV 2 HD HEVC
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 SD" tvg-logo="http://xplatinmedia.com:8080/images/ab2cf083d6fa69fe349aabf245402f74.png" group-title="PORTUGAL",PT: SPORT TV 2 SD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="http://xplatinmedia.com:8080/images/30e30adbca61414fc596acd1c02b43c7.png" group-title="PORTUGAL",PT: SPORT TV 3 FHD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/30e30adbca61414fc596acd1c02b43c7.png" group-title="PORTUGAL",PT: SPORT TV 3 FHD HEVC
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="http://xplatinmedia.com:8080/images/30e30adbca61414fc596acd1c02b43c7.png" group-title="PORTUGAL",PT: SPORT TV 3 HD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/30e30adbca61414fc596acd1c02b43c7.png" group-title="PORTUGAL",PT: SPORT TV 3 HD HEVC
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 SD" tvg-logo="http://xplatinmedia.com:8080/images/30e30adbca61414fc596acd1c02b43c7.png" group-title="PORTUGAL",PT: SPORT TV 3 SD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="http://xplatinmedia.com:8080/images/93fddebb05ffe7912c2429924e3823e1.png" group-title="PORTUGAL",PT: SPORT TV 4 FHD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="http://xplatinmedia.com:8080/images/93fddebb05ffe7912c2429924e3823e1.png" group-title="PORTUGAL",PT: SPORT TV 4 HD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/93fddebb05ffe7912c2429924e3823e1.png" group-title="PORTUGAL",PT: SPORT TV 4 HD HEVC
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 SD" tvg-logo="http://xplatinmedia.com:8080/images/93fddebb05ffe7912c2429924e3823e1.png" group-title="PORTUGAL",PT: SPORT TV 4 SD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="http://xplatinmedia.com:8080/images/34fedc0466562b71d029d3e099e7e068.png" group-title="PORTUGAL",PT: SPORT TV 5 FHD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 Full HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/34fedc0466562b71d029d3e099e7e068.png" group-title="PORTUGAL",PT: SPORT TV 5 Full HD HEVC
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://xplatinmedia.com:8080/images/34fedc0466562b71d029d3e099e7e068.png" group-title="PORTUGAL",PT: SPORT TV 5 HD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/34fedc0466562b71d029d3e099e7e068.png" group-title="PORTUGAL",PT: SPORT TV 5 HD HEVC
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 SD" tvg-logo="http://xplatinmedia.com:8080/images/34fedc0466562b71d029d3e099e7e068.png" group-title="PORTUGAL",PT: SPORT TV 5 SD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="http://xplatinmedia.com:8080/images/78dccd7e314e76ab6f3039a76bf4a9af.png" group-title="PORTUGAL",PT: SPORT TV 6 FHD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="http://xplatinmedia.com:8080/images/e14b1adaad4d2b5db86354bdaf24228b.png" group-title="PORTUGAL",PT: SPORT TV NBA FHD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD" tvg-logo="http://xplatinmedia.com:8080/images/e14b1adaad4d2b5db86354bdaf24228b.png" group-title="PORTUGAL",PT: SPORT TV NBA HD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/e14b1adaad4d2b5db86354bdaf24228b.png" group-title="PORTUGAL",PT: SPORT TV NBA HD HEVC
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA SD" tvg-logo="http://xplatinmedia.com:8080/images/e14b1adaad4d2b5db86354bdaf24228b.png" group-title="PORTUGAL",PT: SPORT TV NBA SD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854502.m3u8
 
-http://tv.soccerplus.link:8000/Esperanza22/Tolentino33x/10784
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1 HD" tvg-logo="http://tv.soccerplus.link/logo/SkySportF1.png" group-title="DEPORTES",SKY SPORTS F1 HD
-http://tv.soccerplus.link:8000/Esperanza22/Tolentino33x/92902
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 (BACKUP) HD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS F1 (BACKUP) HD
-http://742541579386306439.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/306439.ts
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1 SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNgP3K3hGb9dr0jv94ekiGr.png" group-title="UK Sport",UK: SKY SPORTS F1 SD
-http://742541579386306441.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/306441.ts
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1 HD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS F1 HD
-http://742541579386812802.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/812802.ts
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK: SKY SPORTS F1 FHD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS F1 FHD
-http://742541579386885401.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/885401.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR :BAND SPORTS | HEVC" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/band-sports.jpg" group-title="SVIP SPORTS",BR :BAND SPORTS | HEVC
-http://742541579386803337.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/803337.ts
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BR: BAND SPORTS | HEVC" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/band-sports.jpg" group-title="Brazil",BR: BAND SPORTS | HEVC
-http://742541579386332743.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/332743.ts
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BR: BAND SPORTS SD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/band-sports.jpg" group-title="Brazil",BR: BAND SPORTS SD
-http://742541579386815575.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/815575.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 4K HEVC" tvg-logo="http://xplatinmedia.com:8080/images/7c7d1c94989343ee450b46f63131356a.png" group-title="PORTUGAL",PT: BTV 4K HEVC
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV FHD" tvg-logo="http://xplatinmedia.com:8080/images/7c7d1c94989343ee450b46f63131356a.png" group-title="PORTUGAL",PT: BTV FHD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV HD" tvg-logo="http://xplatinmedia.com:8080/images/7c7d1c94989343ee450b46f63131356a.png" group-title="PORTUGAL",PT: BTV HD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/7c7d1c94989343ee450b46f63131356a.png" group-title="PORTUGAL",PT: BTV HD HEVC
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV SD" tvg-logo="http://xplatinmedia.com:8080/images/7c7d1c94989343ee450b46f63131356a.png" group-title="PORTUGAL",PT: BTV SD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854163.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 FHD" tvg-logo="http://xplatinmedia.com:8080/images/7750856a8947e33fa9b5cc931301b187.png" group-title="PORTUGAL",PT: Eleven Sports 1 FHD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 HD" tvg-logo="http://xplatinmedia.com:8080/images/7750856a8947e33fa9b5cc931301b187.png" group-title="PORTUGAL",PT: Eleven Sports 1 HD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/7750856a8947e33fa9b5cc931301b187.png" group-title="PORTUGAL",PT: Eleven Sports 1 HD HEVC
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 SD" tvg-logo="http://xplatinmedia.com:8080/images/7750856a8947e33fa9b5cc931301b187.png" group-title="PORTUGAL",PT: Eleven Sports 1 SD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 UHD" tvg-logo="http://xplatinmedia.com:8080/images/7750856a8947e33fa9b5cc931301b187.png" group-title="PORTUGAL",PT: Eleven Sports 1 UHD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 FHD" tvg-logo="http://xplatinmedia.com:8080/images/415b628da4516b9f989adda206d87412.png" group-title="PORTUGAL",PT: Eleven Sports 2 FHD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 HD" tvg-logo="http://xplatinmedia.com:8080/images/415b628da4516b9f989adda206d87412.png" group-title="PORTUGAL",PT: Eleven Sports 2 HD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/415b628da4516b9f989adda206d87412.png" group-title="PORTUGAL",PT: Eleven Sports 2 HD HEVC
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 SD" tvg-logo="http://xplatinmedia.com:8080/images/415b628da4516b9f989adda206d87412.png" group-title="PORTUGAL",PT: Eleven Sports 2 SD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 FHD" tvg-logo="http://xplatinmedia.com:8080/images/0c39fa06cdcd32b4b0ab78276a14314d.png" group-title="PORTUGAL",PT: Eleven Sports 3 FHD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 Full HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/0c39fa06cdcd32b4b0ab78276a14314d.png" group-title="PORTUGAL",PT: Eleven Sports 3 Full HD HEVC
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 HD" tvg-logo="http://xplatinmedia.com:8080/images/0c39fa06cdcd32b4b0ab78276a14314d.png" group-title="PORTUGAL",PT: Eleven Sports 3 HD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 SD" tvg-logo="http://xplatinmedia.com:8080/images/0c39fa06cdcd32b4b0ab78276a14314d.png" group-title="PORTUGAL",PT: Eleven Sports 3 SD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 FHD" tvg-logo="http://xplatinmedia.com:8080/images/e1a04cea7f0a774e593e5cbb78541ef5.png" group-title="PORTUGAL",PT: Eleven Sports 4 FHD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 HD" tvg-logo="http://xplatinmedia.com:8080/images/e1a04cea7f0a774e593e5cbb78541ef5.png" group-title="PORTUGAL",PT: Eleven Sports 4 HD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/e1a04cea7f0a774e593e5cbb78541ef5.png" group-title="PORTUGAL",PT: Eleven Sports 4 HD HEVC
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 SD" tvg-logo="http://xplatinmedia.com:8080/images/e1a04cea7f0a774e593e5cbb78541ef5.png" group-title="PORTUGAL",PT: Eleven Sports 4 SD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5 FHD" tvg-logo="http://xplatinmedia.com:8080/images/c89357501636fd4510848758fba5ebe7.png" group-title="PORTUGAL",PT: Eleven Sports 5 FHD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5 HD" tvg-logo="http://xplatinmedia.com:8080/images/c89357501636fd4510848758fba5ebe7.png" group-title="PORTUGAL",PT: Eleven Sports 5 HD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5 SD" tvg-logo="http://xplatinmedia.com:8080/images/c89357501636fd4510848758fba5ebe7.png" group-title="PORTUGAL",PT: Eleven Sports 5 SD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 6 FHD" tvg-logo="http://xplatinmedia.com:8080/images/8363e7b8bad22e3f9a302c916f87a9fe.png" group-title="PORTUGAL",PT: Eleven Sports 6 FHD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 6 HD" tvg-logo="http://xplatinmedia.com:8080/images/8363e7b8bad22e3f9a302c916f87a9fe.png" group-title="PORTUGAL",PT: Eleven Sports 6 HD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 6 SD" tvg-logo="http://xplatinmedia.com:8080/images/8363e7b8bad22e3f9a302c916f87a9fe.png" group-title="PORTUGAL",PT: Eleven Sports 6 SD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/854246.m3u8
+
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="UK SPORTS",UK: SKY SPORTS F1
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/755409.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sports FHD" tvg-logo="http://xplatinmedia.com:8080/images/c309fb7df2a608b6b36976d35bd14920.png" group-title="LATIN AR-BR",BR: Band Sports FHD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/858742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sports HD" tvg-logo="http://xplatinmedia.com:8080/images/c309fb7df2a608b6b36976d35bd14920.png" group-title="LATIN AR-BR",BR: Band Sports HD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/858743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sports HEVC" tvg-logo="http://xplatinmedia.com:8080/images/c309fb7df2a608b6b36976d35bd14920.png" group-title="LATIN AR-BR",BR: Band Sports HEVC
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/858744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sports SD" tvg-logo="http://xplatinmedia.com:8080/images/c309fb7df2a608b6b36976d35bd14920.png" group-title="LATIN AR-BR",BR: Band Sports SD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/858745.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere info ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere info ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 1 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 1 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 2 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 2 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 3 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 3 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 4 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 4 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 5 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 5 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 6 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 6 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 7 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 7 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 8 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 8 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 9 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 9 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 10 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 10 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 11 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 11 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 12 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 12 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 13 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 13 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 14 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 14 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 15 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 15 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 16 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 16 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 17 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 17 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 18 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 18 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx:  Premiere 19 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",AEx:  Premiere 19 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Adult Time ᴴᴰ" tvg-logo="https://iili.io/HgKmRcB.md.png" group-title="ADULT EXCLUSIVE",AEx: Adult Time ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Anal Only ᴴᴰ" tvg-logo="https://iili.io/Hg0m6QI.md.png" group-title="ADULT EXCLUSIVE",AEx: Anal Only ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: babesTV ᴴᴰ" tvg-logo="https://iili.io/HULkydP.md.png" group-title="ADULT EXCLUSIVE",AEx: babesTV ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: BANG ᴴᴰ" tvg-logo="https://iili.io/HU4ipe9.md.png" group-title="ADULT EXCLUSIVE",AEx: BANG ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: BangBros 1 ᴴᴰ" tvg-logo="https://iili.io/HUrb2ne.md.png" group-title="ADULT EXCLUSIVE",AEx: BangBros 1 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: BangBros 2 ᴴᴰ" tvg-logo="https://iili.io/HUrb2ne.md.png" group-title="ADULT EXCLUSIVE",AEx: BangBros 2 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Blacked! ᴴᴰ" tvg-logo="https://iili.io/Hg3vdue.md.png" group-title="ADULT EXCLUSIVE",AEx: Blacked! ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: BlackedGirls ᴴᴰ" tvg-logo="https://iili.io/HgNxsGj.md.png" group-title="ADULT EXCLUSIVE",AEx: BlackedGirls ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: BlackedRaw! ᴴᴰ" tvg-logo="https://iili.io/Hg3vdue.md.png" group-title="ADULT EXCLUSIVE",AEx: BlackedRaw! ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: BrattySis ᴴᴰ" tvg-logo="https://iili.io/HgC8N2a.md.png" group-title="ADULT EXCLUSIVE",AEx: BrattySis ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Brazzers 1 ᴴᴰ" tvg-logo="https://iili.io/HUrPXWv.md.png" group-title="ADULT EXCLUSIVE",AEx: Brazzers 1 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Brazzers 2 ᴴᴰ" tvg-logo="https://iili.io/HUrPXWv.md.png" group-title="ADULT EXCLUSIVE",AEx: Brazzers 2 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Brazzers 3 ᴴᴰ" tvg-logo="https://iili.io/HUrPXWv.md.png" group-title="ADULT EXCLUSIVE",AEx: Brazzers 3 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Deeper! ᴴᴰ" tvg-logo="https://iili.io/Hg3MjxS.md.png" group-title="ADULT EXCLUSIVE",AEx: Deeper! ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: DP 1 ᴴᴰ" tvg-logo="https://iili.io/HUrgewv.md.png" group-title="ADULT EXCLUSIVE",AEx: DP 1 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: DP 2 ᴴᴰ" tvg-logo="https://iili.io/HUrgewv.md.png" group-title="ADULT EXCLUSIVE",AEx: DP 2 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: EvilAngel ᴴᴰ" tvg-logo="https://iili.io/HU4skhu.md.png" group-title="ADULT EXCLUSIVE",AEx: EvilAngel ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Fake Hostel ᴴᴰ" tvg-logo="https://iili.io/Hg1I1oP.md.png" group-title="ADULT EXCLUSIVE",AEx: Fake Hostel ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Fake Hub ᴴᴰ" tvg-logo="https://iili.io/Hg1IKcG.md.png" group-title="ADULT EXCLUSIVE",AEx: Fake Hub ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Fake Taxi ᴴᴰ" tvg-logo="https://iili.io/Hg1IAKu.md.png" group-title="ADULT EXCLUSIVE",AEx: Fake Taxi ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: JulesJordan ᴴᴰ" tvg-logo="https://iili.io/HgNxUy7.md.png" group-title="ADULT EXCLUSIVE",AEx: JulesJordan ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Lesbians ᴴᴰ" tvg-logo="https://iili.io/HgE3ACv.md.png" group-title="ADULT EXCLUSIVE",AEx: Lesbians ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Massaged ᴴᴰ" tvg-logo="https://iili.io/HgNn6H7.md.png" group-title="ADULT EXCLUSIVE",AEx: Massaged ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Mofos 1 ᴴᴰ" tvg-logo="https://iili.io/HUrb6Ux.md.png" group-title="ADULT EXCLUSIVE",AEx: Mofos 1 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Mofos 2 ᴴᴰ" tvg-logo="https://iili.io/HUrb6Ux.md.png" group-title="ADULT EXCLUSIVE",AEx: Mofos 2 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Mr.Lucky Pov ᴴᴰ" tvg-logo="https://iili.io/HgNn6H7.md.png" group-title="ADULT EXCLUSIVE",AEx: Mr.Lucky Pov ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: MYLF ᴴᴰ" tvg-logo="https://iili.io/HgCNs6b.md.png" group-title="ADULT EXCLUSIVE",AEx: MYLF ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Nympho ᴴᴰ" tvg-logo="https://iili.io/HgNomLG.md.png" group-title="ADULT EXCLUSIVE",AEx: Nympho ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: PervMom ᴴᴰ" tvg-logo="https://iili.io/HgNxBLb.md.png" group-title="ADULT EXCLUSIVE",AEx: PervMom ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Premium ᴴᴰ" tvg-logo="https://iili.io/HgE0sBj.md.png" group-title="ADULT EXCLUSIVE",AEx: Premium ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: PureTaboo ᴴᴰ" tvg-logo="https://iili.io/HU4ZcmP.md.png" group-title="ADULT EXCLUSIVE",AEx: PureTaboo ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: RealityKings 1 ᴴᴰ" tvg-logo="https://iili.io/HU4F5X4.md.png" group-title="ADULT EXCLUSIVE",AEx: RealityKings 1 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: RealityKings 2 ᴴᴰ" tvg-logo="https://iili.io/HU4F5X4.md.png" group-title="ADULT EXCLUSIVE",AEx: RealityKings 2 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: SinfulRaw ᴴᴰ" tvg-logo="https://iili.io/HULLbEX.md.png" group-title="ADULT EXCLUSIVE",AEx: SinfulRaw ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: SisLovesMe ᴴᴰ" tvg-logo="https://iili.io/Hg0CNFR.md.png" group-title="ADULT EXCLUSIVE",AEx: SisLovesMe ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Slayed ᴴᴰ" tvg-logo="https://iili.io/HUQPqyQ.md.png" group-title="ADULT EXCLUSIVE",AEx: Slayed ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: SpankMonster ᴴᴰ" tvg-logo="https://iili.io/HU4ipe9.md.png" group-title="ADULT EXCLUSIVE",AEx: SpankMonster ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Swallowed Blowjob ᴴᴰ" tvg-logo="https://iili.io/Hg0mMkx.md.png" group-title="ADULT EXCLUSIVE",AEx: Swallowed Blowjob ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: TeamSkeet ᴴᴰ" tvg-logo="https://iili.io/Hg0Buqv.md.png" group-title="ADULT EXCLUSIVE",AEx: TeamSkeet ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: TrueAnal ᴴᴰ" tvg-logo="https://iili.io/Hg0Icp2.md.png" group-title="ADULT EXCLUSIVE",AEx: TrueAnal ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Tushy ᴴᴰ" tvg-logo="https://iili.io/HUQiAW7.md.png" group-title="ADULT EXCLUSIVE",AEx: Tushy ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Vixen 1 ᴴᴰ" tvg-logo="https://iili.io/HUQrnjt.md.png" group-title="ADULT EXCLUSIVE",AEx: Vixen 1 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Vixen 2 ᴴᴰ" tvg-logo="https://iili.io/HUQrnjt.md.png" group-title="ADULT EXCLUSIVE",AEx: Vixen 2 ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AEx: Wicked ᴴᴰ" tvg-logo="https://iili.io/HU4sy2p.md.png" group-title="ADULT EXCLUSIVE",AEx: Wicked ᴴᴰ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/823147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: ANAL" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: ANAL
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: BIG DICK" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: BIG DICK
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: BRAZZER TV" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: BRAZZER TV
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: CASTING COUCH" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: CASTING COUCH
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: CENTOXCENTO TV" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: CENTOXCENTO TV
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: COMPILATION" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: COMPILATION
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: CUCKOLD" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: CUCKOLD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: DORCEL TV" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: DORCEL TV
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769865.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: EMANUELLE XXX" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: EMANUELLE XXX
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: EROX" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: EROX
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: FAP TV 2" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: FAP TV 2
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: FAP TV 3" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: FAP TV 3
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: FAP TV 4" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: FAP TV 4
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: FAP TV Compilation" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: FAP TV Compilation
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: FAP TV TEENS" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: FAP TV TEENS
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: GANGBANG" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: GANGBANG
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: HOT" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: HOT
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: HOT PLEASURE" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: HOT PLEASURE
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: HUSTLER TV" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: HUSTLER TV
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: LATINA" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: LATINA
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: MILF TV" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: MILF TV
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: MONEY TALK" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: MONEY TALK
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: NET XXX" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: NET XXX
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: PENTHOUSE" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: PENTHOUSE
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: POV" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: POV
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: PRIVATE TV" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: PRIVATE TV
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: PRIVE TV" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: PRIVE TV
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: RED XXX" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: RED XXX
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: REDLIGHT" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: REDLIGHT
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: ROUGH" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: ROUGH
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: SCORELANT 1" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: SCORELANT 1
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: SCORELANT 2" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: SCORELANT 2
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: SCORELANT 4" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: SCORELANT 4
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: SCORELANT 5" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: SCORELANT 5
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: SECRET CIRCLE TV" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: SECRET CIRCLE TV
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: SEXTREME" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: SEXTREME
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: SHOPLIFTER" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: SHOPLIFTER
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: SUPERONE" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: SUPERONE
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: TABOO XXX" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: TABOO XXX
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VENUS" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: VENUS
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: ALICE REDLIPS" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: ALICE REDLIPS
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: ELLAKAI" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: ELLAKAI
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: FIAMURRPH" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: FIAMURRPH
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: KRISS KISS" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: KRISS KISS
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: LEAH MEOW" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: LEAH MEOW
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: LITTLEREISLIN" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: LITTLEREISLIN
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: LUXURYGIRL" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: LUXURYGIRL
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: MIHANIKA69" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: MIHANIKA69
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: SECRETCRUSH" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: SECRETCRUSH
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: SHAIDEN ROUGE" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: SHAIDEN ROUGE
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: SWEET BUNNY" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: SWEET BUNNY
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: TESSA WINTERS" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: TESSA WINTERS
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VERIFIED AMATEURS: TINNA ANGEL" tvg-logo="https://png.pngtree.com/png-vector/20220512/ourmid/pngtree-verified-rubber-stamp-vector-illustration-png-image_4618010.png" group-title="ADULT",ADULT: VERIFIED AMATEURS: TINNA ANGEL
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: VIVID RED" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: VIVID RED
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: XXL" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: XXL
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: XY MAX XXX" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: XY MAX XXX
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: XY MIX" tvg-logo="https://www.cornwallsa.co.za/wp-content/uploads/2019/01/adults-only.png" group-title="ADULT",ADULT: XY MIX
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: ANAL" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: ANAL
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: ASIAN" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: ASIAN
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: BIG COCK" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: BIG COCK
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: BIG TITS" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: BIG TITS
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: BISEXUEL" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: BISEXUEL
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: BLACK" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: BLACK
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: BLOND" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: BLOND
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: BLOWJOB" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: BLOWJOB
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: CARTOON PORN" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: CARTOON PORN
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: CREAMPIE" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: CREAMPIE
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: CUCKOLD" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: CUCKOLD
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: DOUBLE PENETRATION" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: DOUBLE PENETRATION
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: FETISH" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: FETISH
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: FISTING" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: FISTING
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: HARDCORE" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: HARDCORE
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: LESBIAN" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: LESBIAN
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: MASTURBATION" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: MASTURBATION
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: MILF" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: MILF
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: ORGASM" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: ORGASM
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Category: TEENIE" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Category: TEENIE
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: 8TH STREET" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: 8TH STREET
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: ASIAN BONDAGE" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: ASIAN BONDAGE
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: BLACK GFS" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: BLACK GFS
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: BLACK NEED" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: BLACK NEED
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: BLACKED" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: BLACKED
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: BLACKED RAW" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: BLACKED RAW
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: BRATTY SIS" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: BRATTY SIS
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: BRAZZERS" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: BRAZZERS
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: CARNE DEL MERCADO" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: CARNE DEL MERCADO
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: CHINA XXX" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: CHINA XXX
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: HARD BRAZIL" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: HARD BRAZIL
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: JAYS POV" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: JAYS POV
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: LAS FOLLADORAS" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: LAS FOLLADORAS
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: MAMACITAZ" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: MAMACITAZ
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: MODEL MEDIA ASIA" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: MODEL MEDIA ASIA
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: MOFOS" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: MOFOS
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: MY DRITY MAID" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: MY DRITY MAID
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: MY PERVY FAMILY" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: MY PERVY FAMILY
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: NF BUSTY" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: NF BUSTY
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: OPERACION LIMPIEZA" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: OPERACION LIMPIEZA
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: PROBERTY" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: PROBERTY
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: SIMPLY ASIAN" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: SIMPLY ASIAN
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: STEP SIBLINGS CAUGHT" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: STEP SIBLINGS CAUGHT
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: VUBADO BLACK" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: VUBADO BLACK
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub Channels: WORLD OF ASIAN" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",Pornhub Channels: WORLD OF ASIAN
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Gay: ATLAS GRAN (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Gay: ATLAS GRAN (GAY)
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Gay: CALVIN BANKS (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Gay: CALVIN BANKS (GAY)
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Gay: CASEY KISSES (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Gay: CASEY KISSES (GAY)
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Gay: CHANNEL SANTINI (TRANS)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Gay: CHANNEL SANTINI (TRANS)
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Gay: DANTE JOLLE (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Gay: DANTE JOLLE (GAY)
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Gay: FLAVAWORKS (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Gay: FLAVAWORKS (GAY)
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Gay: MEN (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Gay: MEN (GAY)
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Gay: NEXT DOOR RAW (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Gay: NEXT DOOR RAW (GAY)
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub Gay: TREASURE ISLAND MEDIA (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub Gay: TREASURE ISLAND MEDIA (GAY)
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: CHRIS DIAMOND" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: CHRIS DIAMOND
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: FOXXY (TRANS)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: FOXXY (TRANS)
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: KENDRA LUST" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: KENDRA LUST
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: KENDRA SPADE" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: KENDRA SPADE
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: KENDRA SUNDERLAND" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: KENDRA SUNDERLAND
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: KHLOE KAY (TRANS)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: KHLOE KAY (TRANS)
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: KYLER MOSS (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: KYLER MOSS (GAY)
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: MAX KONNOR (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: MAX KONNOR (GAY)
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: MIA KHALIFA" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: MIA KHALIFA
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: NATALIE MARS (TRANS)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: NATALIE MARS (TRANS)
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/769999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: RAE LIL BLACK" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: RAE LIL BLACK
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/770000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: RICKY JOHSON" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: RICKY JOHSON
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/770001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: RICKY LARKIN (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: RICKY LARKIN (GAY)
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/770002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: ROCCO STELLE (GAY)" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: ROCCO STELLE (GAY)
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/770003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: SHARON LEE" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: SHARON LEE
+http://blazetv.host:8080/live/johann200892@yahoo.com/8Ug7pShhQh/770004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PornHub PornStars: TONY PROFANE" tvg-logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png" group-title="ADULT",PornHub PornStars: TONY PROFANE
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 1" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 1
@@ -6489,255 +7278,3 @@ http://rdns.tv:80/movie/0212530/8907988/152627.mp4
 http://rdns.tv:80/movie/0212530/8907988/152709.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX [Fisting Inferno] [Club Inferno] Backdoor Bathroom [Scene 1] [Nate Grimes e Drew Dixon]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eCXmQTNfnDehgjDsyLT1sDQ3qi.jpg" group-title="Filmes | [XXX] Adultos",XXX [Fisting Inferno] [Club Inferno] Backdoor Bathroom [Scene 1] [Nate Grimes e Drew Dixon]
 http://rdns.tv:80/movie/0212530/8907988/152604.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACKED SD" tvg-logo="" group-title="ADULTS",XXX: BLACKED SD
-http://742541579386755112.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/755112.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS FHD" tvg-logo="" group-title="ADULTS",XXX: BRAZZERS FHD
-http://742541579386755114.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/755114.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV ANAL FHD" tvg-logo="" group-title="ADULTS",XXX: FAP TV ANAL FHD
-http://742541579386755139.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/755139.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV TEENS HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV TEENS HD
-http://742541579386755143.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/755143.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVATE FHD" tvg-logo="" group-title="ADULTS",XXX: PRIVATE FHD
-http://742541579386755230.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/755230.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 1 FHD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 1 FHD
-http://742541579386759888.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/759888.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 4 FHD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 4 FHD
-http://742541579386759890.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/759890.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLUE HUSTLER SD" tvg-logo="" group-title="ADULTS",XXX: BLUE HUSTLER SD
-http://742541579386759895.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/759895.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL XXX HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: DORCEL XXX HD XXX FHD
-http://742541579386759896.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/759896.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROX XXX HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: EROX XXX HD XXX FHD
-http://742541579386759901.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/759901.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV COMPILATION SD" tvg-logo="" group-title="ADULTS",XXX: FAP TV COMPILATION SD
-http://742541579386759906.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/759906.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: RUSSKAYA NOCH HD" tvg-logo="" group-title="ADULTS",XXX: RUSSKAYA NOCH HD
-http://742541579386759964.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/759964.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS TV XXX SD" tvg-logo="" group-title="ADULTS",XXX: VENUS TV XXX SD
-http://742541579386759974.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/759974.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID RED FHD" tvg-logo="" group-title="ADULTS",XXX: VIVID RED FHD
-http://742541579386759975.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/759975.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: X-MO GAY XXX FHD" tvg-logo="" group-title="ADULTS",XXX: X-MO GAY XXX FHD
-http://742541579386759977.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/759977.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT FHD" tvg-logo="" group-title="ADULTS",XXX: REDLIGHT FHD
-http://742541579386763027.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/763027.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - BOXTRUCKSEX TV FHD" tvg-logo="" group-title="ADULTS",XXX: AD - BOXTRUCKSEX TV FHD
-http://742541579386771543.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/771543.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - BRASILEIRINHAS HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - BRASILEIRINHAS HEVC
-http://742541579386771544.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/771544.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - CASTINGCOUCH HD TV HD" tvg-logo="" group-title="ADULTS",XXX: AD - CASTINGCOUCH HD TV HD
-http://742541579386771545.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/771545.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - CASTINGCOUCHHD TV HD" tvg-logo="" group-title="ADULTS",XXX: AD - CASTINGCOUCHHD TV HD
-http://742541579386771546.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/771546.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - LA NEW GIRL CHANNEL FHD" tvg-logo="" group-title="ADULTS",XXX: AD - LA NEW GIRL CHANNEL FHD
-http://742541579386771558.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/771558.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - PRIMAL FETISH HD" tvg-logo="" group-title="ADULTS",XXX: AD - PRIMAL FETISH HD
-http://742541579386771565.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/771565.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DREAM PORN XXX SD" tvg-logo="" group-title="ADULTS",XXX: DREAM PORN XXX SD
-http://742541579386777164.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/777164.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - PRIVATE HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - PRIVATE HEVC
-http://742541579386783412.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/783412.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV 4 FHD" tvg-logo="" group-title="ADULTS",XXX: FAP TV 4 FHD
-http://742541579386783414.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/783414.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAST BOYZ GAY XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: FAST BOYZ GAY XXX HEVC
-http://742541579386785901.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/785901.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - VIXEN HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - VIXEN HEVC
-http://742541579386789838.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/789838.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DUSK! XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: DUSK! XXX HEVC
-http://742541579386791734.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791734.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EVIL ANGEL HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: EVIL ANGEL HD XXX FHD
-http://742541579386791737.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791737.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTASY HD XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: EXTASY HD XXX HEVC
-http://742541579386791738.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791738.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FANTASY XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: FANTASY XXX HEVC
-http://742541579386791739.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791739.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT PLEASURE XXX HD" tvg-logo="" group-title="ADULTS",XXX: HOT PLEASURE XXX HD
-http://742541579386791742.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791742.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT XXL HD XXX HD" tvg-logo="" group-title="ADULTS",XXX: HOT XXL HD XXX HD
-http://742541579386791743.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791743.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: LEGAL TV XXX FHD" tvg-logo="" group-title="ADULTS",XXX: LEGAL TV XXX FHD
-http://742541579386791745.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791745.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: LEO TV GOLD XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: LEO TV GOLD XXX HEVC
-http://742541579386791746.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791746.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: LUST PUR FHD" tvg-logo="" group-title="ADULTS",XXX: LUST PUR FHD
-http://742541579386791747.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791747.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MILF TV XXX FHD" tvg-logo="" group-title="ADULTS",XXX: MILF TV XXX FHD
-http://742541579386791749.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791749.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSIE XXX XXX SD" tvg-logo="" group-title="ADULTS",XXX: PASSIE XXX XXX SD
-http://742541579386791754.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791754.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE REALITY TV FHD" tvg-logo="" group-title="ADULTS",XXX: PENTHOUSE REALITY TV FHD
-http://742541579386791756.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791756.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 2 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 2 XXX SD
-http://742541579386791757.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791757.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 3 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 3 XXX SD
-http://742541579386791758.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791758.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC XXX SD
-http://742541579386791764.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791764.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYHOUSE XXX FHD" tvg-logo="" group-title="ADULTS",XXX: PLAYHOUSE XXX FHD
-http://742541579386791767.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791767.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REALITY KINGS TV XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: REALITY KINGS TV XXX HEVC
-http://742541579386791768.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791768.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: RED XXX XXX FHD" tvg-logo="" group-title="ADULTS",XXX: RED XXX XXX FHD
-http://742541579386791769.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791769.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEX PRIVE TV XXX FHD" tvg-logo="" group-title="ADULTS",XXX: SEX PRIVE TV XXX FHD
-http://742541579386791789.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791789.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXTREME XXX SD" tvg-logo="" group-title="ADULTS",XXX: SEXTREME XXX SD
-http://742541579386791790.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791790.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SHALUN TV HD" tvg-logo="" group-title="ADULTS",XXX: SHALUN TV HD
-http://742541579386791791.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791791.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: X1 XXX SD" tvg-logo="" group-title="ADULTS",XXX: X1 XXX SD
-http://742541579386791798.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791798.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXL SD" tvg-logo="" group-title="ADULTS",XXX: XXL SD
-http://742541579386791799.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791799.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MAX HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: XY MAX HD XXX FHD
-http://742541579386791800.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791800.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MIX HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: XY MIX HD XXX FHD
-http://742541579386791801.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/791801.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: JASMIN HD" tvg-logo="" group-title="ADULTS",XXX: JASMIN HD
-http://742541579386792668.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/792668.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK O TV SD" tvg-logo="" group-title="ADULTS",XXX: PINK O TV SD
-http://742541579386798363.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/798363.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: LESBIAN AFFAIR XXX FHD" tvg-logo="" group-title="ADULTS",XXX: LESBIAN AFFAIR XXX FHD
-http://742541579386799894.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/799894.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: NET XX XXX SD" tvg-logo="" group-title="ADULTS",XXX: NET XX XXX SD
-http://742541579386821448.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/821448.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV LESBIAN HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV LESBIAN HD
-http://742541579386822195.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/822195.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV PARODY FHD" tvg-logo="" group-title="ADULTS",XXX: FAP TV PARODY FHD
-http://742541579386822196.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/822196.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ADULT TINY4K 1 HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - ADULT TINY4K 1 HEVC
-http://742541579386823032.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/823032.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ADULT TINY4K 4 HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - ADULT TINY4K 4 HEVC
-http://742541579386823033.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/823033.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - HOT CLUB 2 SD" tvg-logo="" group-title="ADULTS",XXX: AD - HOT CLUB 2 SD
-http://742541579386823043.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/823043.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - PENTHOUSE GOLD HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - PENTHOUSE GOLD HEVC
-http://742541579386823046.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/823046.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - PENTHOUSE PASSION HEVC" tvg-logo="" group-title="ADULTS",XXX: AD - PENTHOUSE PASSION HEVC
-http://742541579386823047.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/823047.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BABES TV HD XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: BABES TV HD XXX HEVC
-http://742541579386823052.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/823052.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SUPER ONE HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: SUPER ONE HD XXX FHD
-http://742541579386823053.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/823053.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SUPER ONE XXX FHD" tvg-logo="" group-title="ADULTS",XXX: SUPER ONE XXX FHD
-http://742541579386823054.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/823054.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY PLUS HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: XY PLUS HD XXX FHD
-http://742541579386823055.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/823055.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - BLUE HUSTLER SD" tvg-logo="" group-title="ADULTS",XXX: AD - BLUE HUSTLER SD
-http://742541579386824894.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/824894.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - AMERICAN PORNSTAR CHANNELS FHD" tvg-logo="" group-title="ADULTS",XXX: AD - AMERICAN PORNSTAR CHANNELS FHD
-http://742541579386827674.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/827674.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ATK HAIRY TV FHD" tvg-logo="" group-title="ADULTS",XXX: AD - ATK HAIRY TV FHD
-http://742541579386827675.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/827675.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - BBC PIE TV FHD" tvg-logo="" group-title="ADULTS",XXX: AD - BBC PIE TV FHD
-http://742541579386827676.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/827676.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - LA NEW GIRL 2 FHD" tvg-logo="" group-title="ADULTS",XXX: AD - LA NEW GIRL 2 FHD
-http://742541579386827677.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/827677.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - TEENS LOVE TO SWALLOW FHD" tvg-logo="" group-title="ADULTS",XXX: AD - TEENS LOVE TO SWALLOW FHD
-http://742541579386827678.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/827678.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ERO X FHD" tvg-logo="" group-title="ADULTS",XXX: ERO X FHD
-http://742541579386829973.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/829973.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BANG U XXX FHD" tvg-logo="" group-title="ADULTS",XXX: BANG U XXX FHD
-http://742541579386830865.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/830865.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - DORCEL TV FHD" tvg-logo="" group-title="ADULTS",XXX: AD - DORCEL TV FHD
-http://742541579386832533.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/832533.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PREMIUM PORN SD" tvg-logo="" group-title="ADULTS",XXX: PREMIUM PORN SD
-http://742541579386832536.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/832536.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CENTO X CENTO SD" tvg-logo="" group-title="ADULTS",XXX: CENTO X CENTO SD
-http://742541579386833407.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/833407.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MEIDEN VAN HOLLAND HARD XXX SD" tvg-logo="" group-title="ADULTS",XXX: MEIDEN VAN HOLLAND HARD XXX SD
-http://742541579386833408.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/833408.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSION XXX FHD" tvg-logo="" group-title="ADULTS",XXX: PASSION XXX FHD
-http://742541579386833410.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/833410.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: X BUNGA BUNGA XXX SD" tvg-logo="" group-title="ADULTS",XXX: X BUNGA BUNGA XXX SD
-http://742541579386836103.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/836103.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BALKAN EROTIC XXX HD" tvg-logo="" group-title="ADULTS",XXX: BALKAN EROTIC XXX HD
-http://742541579386836807.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/836807.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: OLDTIMER XXX HD" tvg-logo="" group-title="ADULTS",XXX: OLDTIMER XXX HD
-http://742541579386836808.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/836808.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 4 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 4 XXX SD
-http://742541579386836809.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/836809.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 5 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 5 XXX SD
-http://742541579386836810.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/836810.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 6 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 6 XXX SD
-http://742541579386836811.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/836811.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 7 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 7 XXX SD
-http://742541579386836812.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/836812.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 8 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 8 XXX SD
-http://742541579386836813.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/836813.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: TABOO XXX FHD" tvg-logo="" group-title="ADULTS",XXX: TABOO XXX FHD
-http://742541579386836814.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/836814.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY EUROPE HD" tvg-logo="" group-title="ADULTS",XXX: PLAYBOY EUROPE HD
-http://742541579386840029.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/840029.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: X BIZARRE XXX SD" tvg-logo="" group-title="ADULTS",XXX: X BIZARRE XXX SD
-http://742541579386840030.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/840030.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: X DESIRE XXX SD" tvg-logo="" group-title="ADULTS",XXX: X DESIRE XXX SD
-http://742541579386840601.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/840601.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - HOT CLUB 1 HD" tvg-logo="" group-title="ADULTS",XXX: AD - HOT CLUB 1 HD
-http://742541579386841333.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/841333.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEX ATION HD XXX SD" tvg-logo="" group-title="ADULTS",XXX: SEX ATION HD XXX SD
-http://742541579386842582.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/842582.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID TV EUROPE XXX SD" tvg-logo="" group-title="ADULTS",XXX: VIVID TV EUROPE XXX SD
-http://742541579386844392.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/844392.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - VIVID RED SD" tvg-logo="" group-title="ADULTS",XXX: AD - VIVID RED SD
-http://742541579386849204.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/849204.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EMANUELLE XXX FHD" tvg-logo="" group-title="ADULTS",XXX: EMANUELLE XXX FHD
-http://742541579386849205.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/849205.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV 2 FHD" tvg-logo="" group-title="ADULTS",XXX: FAP TV 2 FHD
-http://742541579386852954.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/852954.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 2 SD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 2 SD
-http://742541579386857009.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/857009.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT XXX FHD" tvg-logo="" group-title="ADULTS",XXX: SEXY HOT XXX FHD
-http://742541579386857010.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/857010.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - HOT CLUB 3 HD" tvg-logo="" group-title="ADULTS",XXX: AD - HOT CLUB 3 HD
-http://742541579386863751.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/863751.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - MEIDEN VAN HOLLAND TV SD" tvg-logo="" group-title="ADULTS",XXX: AD - MEIDEN VAN HOLLAND TV SD
-http://742541579386864622.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/864622.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - PLAYBOY TV SD" tvg-logo="" group-title="ADULTS",XXX: AD - PLAYBOY TV SD
-http://742541579386866528.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/866528.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - REDLIGHT HD" tvg-logo="" group-title="ADULTS",XXX: AD - REDLIGHT HD
-http://742541579386868848.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/868848.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - HOT CLUB 4 SD" tvg-logo="" group-title="ADULTS",XXX: AD - HOT CLUB 4 SD
-http://742541579386871352.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/871352.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: OH AH TV FHD" tvg-logo="" group-title="ADULTS",XXX: OH AH TV FHD
-http://742541579386871812.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/871812.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER TV XXX SD" tvg-logo="" group-title="ADULTS",XXX: HUSTLER TV XXX SD
-http://742541579386872665.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/872665.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV 3 HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV 3 HD
-http://742541579386874052.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/874052.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT TV XXX SD" tvg-logo="" group-title="ADULTS",XXX: HOT TV XXX SD
-http://742541579386875184.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/875184.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: NUART HD" tvg-logo="" group-title="ADULTS",XXX: NUART HD
-http://742541579386875561.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/875561.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACK TV XXX SD" tvg-logo="" group-title="ADULTS",XXX: BLACK TV XXX SD
-http://742541579386876514.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/876514.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ALBA XXX 1 FHD" tvg-logo="" group-title="ADULTS",XXX: AD - ALBA XXX 1 FHD
-http://742541579386884902.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/884902.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ALBA XXX 2 FHD" tvg-logo="" group-title="ADULTS",XXX: AD - ALBA XXX 2 FHD
-http://742541579386884903.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/884903.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - XY MIX FHD" tvg-logo="" group-title="ADULTS",XXX: AD - XY MIX FHD
-http://742541579386884908.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/884908.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL FHD" tvg-logo="" group-title="ADULTS",XXX: DORCEL FHD
-http://742541579386884909.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/884909.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - FAKE FHD" tvg-logo="" group-title="ADULTS",XXX: AD - FAKE FHD
-http://742541579386885568.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/885568.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 3 FHD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 3 FHD
-http://742541579386887068.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/887068.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - XXL TV SD" tvg-logo="" group-title="ADULTS",XXX: AD - XXL TV SD
-http://742541579386890646.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/890646.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTREM XXX SD" tvg-logo="" group-title="ADULTS",XXX: EXTREM XXX SD
-http://742541579386892972.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/892972.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ALBA XXX 4 HD" tvg-logo="" group-title="ADULTS",XXX: AD - ALBA XXX 4 HD
-http://742541579386894682.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/894682.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ALBA XXX 5 HD" tvg-logo="" group-title="ADULTS",XXX: AD - ALBA XXX 5 HD
-http://742541579386894683.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/894683.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - ALBA XXX 6 HD" tvg-logo="" group-title="ADULTS",XXX: AD - ALBA XXX 6 HD
-http://742541579386894684.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/894684.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: O LA LA SD" tvg-logo="" group-title="ADULTS",XXX: O LA LA SD
-http://742541579386894685.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/894685.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AD - HOT SD" tvg-logo="" group-title="ADULTS",XXX: AD - HOT SD
-http://742541579386895614.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/895614.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MIAMI TV XXX FHD" tvg-logo="" group-title="ADULTS",XXX: MIAMI TV XXX FHD
-http://742541579386895615.ofkd0722.xyz:80/play/vi526063/eUMaKqnjDyW/895615.ts
-
