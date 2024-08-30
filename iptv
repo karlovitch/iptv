@@ -1563,6 +1563,57 @@ http://abcnew.site:8880/29us10233n01/4etfr4w23/29344
 #EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="PT121:Eleven Sports 5 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT156Eleven Sports 5.png" group-title="PT Sports",PT121:Eleven Sports 5 SD
 http://abcnew.site:8880/29us10233n01/4etfr4w23/29369
 
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV
+http://supersonictv.live:8080/945213/876115/7702
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV   HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV   HD
+http://supersonictv.live:8080/945213/876115/7703
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 1" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 1
+http://supersonictv.live:8080/945213/876115/7704
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 1 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 1 HD
+http://supersonictv.live:8080/945213/876115/7705
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 2" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 2
+http://supersonictv.live:8080/945213/876115/7706
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 2 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 2 HD
+http://supersonictv.live:8080/945213/876115/7707
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 3" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 3
+http://supersonictv.live:8080/945213/876115/7708
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 3 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 3 HD
+http://supersonictv.live:8080/945213/876115/7709
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 4" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 4
+http://supersonictv.live:8080/945213/876115/7710
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 4 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 4 HD
+http://supersonictv.live:8080/945213/876115/7711
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 4K" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 4K
+http://supersonictv.live:8080/945213/876115/7712
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 5" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 5
+http://supersonictv.live:8080/945213/876115/7713
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 5 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 5 HD
+http://supersonictv.live:8080/945213/876115/7714
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 1" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 1
+http://supersonictv.live:8080/945213/876115/7626
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 1 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 1 HD
+http://supersonictv.live:8080/945213/876115/7627
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 2" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 2
+http://supersonictv.live:8080/945213/876115/7628
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 2 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 2 HD
+http://supersonictv.live:8080/945213/876115/7629
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 3" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 3
+http://supersonictv.live:8080/945213/876115/7630
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 3 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 3 HD
+http://supersonictv.live:8080/945213/876115/7631
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 4" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 4
+http://supersonictv.live:8080/945213/876115/7632
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 4 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 4 HD
+http://supersonictv.live:8080/945213/876115/7633
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 5" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 5
+http://supersonictv.live:8080/945213/876115/7634
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 5 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 5 HD
+http://supersonictv.live:8080/945213/876115/7635
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 6" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 6
+http://supersonictv.live:8080/945213/876115/7636
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 6 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 6 HD
+http://supersonictv.live:8080/945213/876115/7637
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS" tvg-logo="" group-title="canales xxx",XXX: VENUS
